@@ -43,6 +43,51 @@
             "inv": "inbloom",
             "code": "`IBHB_R`"
         }    
+    ],
+    "OSHB_C": [
+        {
+            "name": "**Our Season Hanbin (C Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028308604670042/Untitled439_20230716142114.png",
+            "theme": "card1",
+            "inv": "ourseason",
+            "code": "`OSHB_C`"
+        }     
+    ],
+    "OSHB_B": [
+        {
+            "name": "**Our Season Hanbin (B Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028308915036261/Untitled439_20230716142117.png",
+            "theme": "card1",
+            "inv": "ourseason",
+            "code": "`OSHB_B`"
+        } 
+    ],
+    "OSHB_A": [
+        {
+            "name": "**Our Season Hanbin (A Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028309250588733/Untitled439_20230716142120.png",
+            "theme": "card1",
+            "inv": "ourseason",
+            "code": "`OSHB_A`"
+        }  
+    ],
+    "OSHB_S": [
+        {
+            "name": "**Our Season Hanbin (S Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028309539999814/Untitled439_20230716142123.png",
+            "theme": "card1",
+            "inv": "ourseason",
+            "code": "`OSHB_S`"
+        }    
+     ],
+    "OSHB_R": [
+        {
+            "name": "**Our Season Hanbin (R Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028309825200189/Untitled439_20230716142126.png",
+            "theme": "card1",
+            "inv": "ourseason",
+            "code": "`OSHB_R`"
+        }        
     ]
 }
     
