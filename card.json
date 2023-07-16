@@ -1,1 +1,48 @@
-
+{
+    "IBHB_C": [
+        {
+            "name": "**In Bloom Hanbin (C Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027610110447626/Untitled321_20230716143700.png",
+            "theme": "card1",
+            "inv": "inbloom",
+            "code": "`IBHB_C`"
+        }
+    ],
+    "IBHB_B": [
+        {
+            "name": "**In Bloom Hanbin (B Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027610454368306/Untitled321_20230716143702.png",
+            "theme": "card1",
+            "inv": "inbloom",
+            "code": "`IBHB_B`"
+        }
+    ], 
+    "IBHB_A": [
+        {
+            "name": "**In Bloom Hanbin (A Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027610714419260/Untitled321_20230716143705.png",
+            "theme": "card1",
+            "inv": "inbloom",
+            "code": "`IBHB_A`"
+        }
+     ],
+     "IBHB_S": [
+        {
+            "name": "**In Bloom Hanbin (S Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027611054166036/Untitled321_20230716143707.png",
+            "theme": "card1",
+            "inv": "inbloom",
+            "code": "`IBHB_S`"
+        } 
+     ],
+     "IBHB_R": [
+        {
+            "name": "**In Bloom Hanbin (R Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027611351949352/Untitled321_20230716143710.png",
+            "theme": "card1",
+            "inv": "inbloom",
+            "code": "`IBHB_R`"
+        }    
+    ]
+}
+    
