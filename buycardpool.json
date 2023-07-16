@@ -1,9 +1,9 @@
 {
 "all_themes": [
     {
-    "siren": "IBHB;IBZH;IBTR;OSHB;IBGV;IBJW;IBTR",
-    "lemon": "IBTR;OSHB;IBZH;IBMT;IBHB;IBGW;IBYJ",
-    "cake": "IBYJ;OSHB;IBRC;IBGW;IBMT;IBGW;IBJW"
+    "siren": "IBHB;IBZH;IBTR;OSHB;IBGV;IBJW;IBRC;IBGW;IBMT;IBYJ",
+    "lemon": "IBTR;OSHB;IBZH;IBMT;IBHB;IBGW;IBYJ;IBJW;IBRC;IBGV",
+    "cake": "IBYJ;OSHB;IBRC;IBGV;IBMT;IBGW;IBJW;IBHB;IBZH;IBTR"
     
         
       }
