@@ -8,6 +8,411 @@
             "code": "`IBHB_C`"
         }
     ],
+    "ZB1HB_C": [
+        {
+            "name": "**ZEROBASEONE Hanbin (C Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027637180477440/Untitled321_20230716143629.png",
+            "theme": "card1",
+            "inv": "zerobaseone",
+            "code": "`ZB1HB_C`"
+        }          
+    ],
+    "ZB1HB_B": [
+        {
+            "name": "**ZEROBASEONE Hanbin (B Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027637180477440/Untitled321_20230716143629.png",
+            "theme": "card1",
+            "inv": "zerobaseone",
+            "code": "`ZB1HB_B`"
+        }   
+    ],
+    "ZB1HB_A": [
+        {
+            "name": "**ZEROBASEONE Hanbin (A Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027637180477440/Untitled321_20230716143629.png",
+            "theme": "card1",
+            "inv": "zerobaseone",
+            "code": "`ZB1HB_A`"
+        }
+    ],
+    "ZB1HB_S": [
+        {
+            "name": "**ZEROBASEONE Hanbin (S Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027637180477440/Untitled321_20230716143629.png",
+            "theme": "card1",
+            "inv": "zerobaseone",
+            "code": "`ZB1HB_S`"
+        }   
+    ],
+    "ZB1HB_R": [
+        {
+            "name": "**ZEROBASEONE Hanbin (R Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027637180477440/Untitled321_20230716143629.png",
+            "theme": "card1",
+            "inv": "zerobaseone",
+            "code": "`ZB1HB_R`"
+        }   
+    ],
+    "ZB1JW_C": [
+        {
+            "name": "**ZEROBASEONE Jiwoong (C Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027637180477440/Untitled321_20230716143629.png",
+            "theme": "card1",
+            "inv": "zerobaseone",
+            "code": "`ZB1JW_C`"
+        }              
+    ],
+    "ZB1JW_B": [
+        {
+            "name": "**ZEROBASEONE Jiwoong (B Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027637180477440/Untitled321_20230716143629.png",
+            "theme": "card1",
+            "inv": "zerobaseone",
+            "code": "`ZB1JW_B`"
+        }  
+    ],
+    "ZB1JW_A": [
+        {
+            "name": "**ZEROBASEONE Jiwoong (A Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027637180477440/Untitled321_20230716143629.png",
+            "theme": "card1",
+            "inv": "zerobaseone",
+            "code": "`ZB1JW_A`"
+        } 
+    ],
+    "ZB1JW_S": [
+        {
+            "name": "**ZEROBASEONE Jiwoong (S Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027637180477440/Untitled321_20230716143629.png",
+            "theme": "card1",
+            "inv": "zerobaseone",
+            "code": "`ZB1JW_S`"
+        }
+    ],
+    "ZB1JW_R": [
+        {
+            "name": "**ZEROBASEONE Jiwoong (R Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027637180477440/Untitled321_20230716143629.png",
+            "theme": "card1",
+            "inv": "zerobaseone",
+            "code": "`ZB1JW_R`"
+        }  
+    ],
+    "ZB1ZH_C": [
+        {
+            "name": "**ZEROBASEONE Zhang Hao (C Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027637180477440/Untitled321_20230716143629.png",
+            "theme": "card1",
+            "inv": "zerobaseone",
+            "code": "`ZB1ZH_C`"
+        }
+    ],
+    "ZB1ZH_B": [
+        {
+            "name": "**ZEROBASEONE Zhang Hao (B Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027637180477440/Untitled321_20230716143629.png",
+            "theme": "card1",
+            "inv": "zerobaseone",
+            "code": "`ZB1ZH_B`"
+        }  
+    ],
+    "ZB1ZH_A": [
+        {
+            "name": "**ZEROBASEONE Zhang Hao (A Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027637180477440/Untitled321_20230716143629.png",
+            "theme": "card1",
+            "inv": "zerobaseone",
+            "code": "`ZB1ZH_A`"
+        }    
+    ],
+    "ZB1ZH_S": [
+        {
+            "name": "**ZEROBASEONE Zhang Hao (S Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027637180477440/Untitled321_20230716143629.png",
+            "theme": "card1",
+            "inv": "zerobaseone",
+            "code": "`ZB1ZH_S`"
+        } 
+    ],
+    "ZB1ZH_R": [
+        {
+            "name": "**ZEROBASEONE Zhang Hao (R Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027637180477440/Untitled321_20230716143629.png",
+            "theme": "card1",
+            "inv": "zerobaseone",
+            "code": "`ZB1ZH_R`"
+        }
+    ],
+    "ZB1MT_C": [
+        {
+            "name": "**ZEROBASEONE Matthew (C Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027637180477440/Untitled321_20230716143629.png",
+            "theme": "card1",
+            "inv": "zerobaseone",
+            "code": "`ZB1MT_C`"
+        }    
+    ],
+    "ZB1MT_B": [
+        {
+            "name": "**ZEROBASEONE Matthew (B Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027637180477440/Untitled321_20230716143629.png",
+            "theme": "card1",
+            "inv": "zerobaseone",
+            "code": "`ZB1MT_B`"
+        }  
+    ],
+    "ZB1MT_A": [
+        {
+            "name": "**ZEROBASEONE Matthew (A Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027637180477440/Untitled321_20230716143629.png",
+            "theme": "card1",
+            "inv": "zerobaseone",
+            "code": "`ZB1MT_A`"
+        } 
+    ],
+    "ZB1MT_S": [
+        {
+            "name": "**ZEROBASEONE Matthew (S Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027637180477440/Untitled321_20230716143629.png",
+            "theme": "card1",
+            "inv": "zerobaseone",
+            "code": "`ZB1MT_S`"
+        } 
+    ],
+    "ZB1MT_R": [
+        {
+            "name": "**ZEROBASEONE Matthew (R Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027637180477440/Untitled321_20230716143629.png",
+            "theme": "card1",
+            "inv": "zerobaseone",
+            "code": "`ZB1MT_R`"
+        }
+    ],
+    "ZB1TR_C": [
+        {
+            "name": "**ZEROBASEONE Taerae (C Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027637180477440/Untitled321_20230716143629.png",
+            "theme": "card1",
+            "inv": "zerobaseone",
+            "code": "`ZB1TR_C`"
+        } 
+    ],
+    "ZB1TR_B": [
+        {
+            "name": "**ZEROBASEONE Taerae (B Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027637180477440/Untitled321_20230716143629.png",
+            "theme": "card1",
+            "inv": "zerobaseone",
+            "code": "`ZB1TR_B`"
+        } 
+    ],
+    "ZB1TR_A": [
+        {
+            "name": "**ZEROBASEONE Taerae (A Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027637180477440/Untitled321_20230716143629.png",
+            "theme": "card1",
+            "inv": "zerobaseone",
+            "code": "`ZB1TR_A`"
+        } 
+    ],
+    "ZB1TR_S": [
+        {
+            "name": "**ZEROBASEONE Taerae (S Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027637180477440/Untitled321_20230716143629.png",
+            "theme": "card1",
+            "inv": "zerobaseone",
+            "code": "`ZB1TR_S`"
+        } 
+    ],
+    "ZB1TR_R": [
+        {
+            "name": "**ZEROBASEONE Taerae (R Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027637180477440/Untitled321_20230716143629.png",
+            "theme": "card1",
+            "inv": "zerobaseone",
+            "code": "`ZB1TR_R`"
+        } 
+    ],
+    "ZB1RC_C": [
+        {
+            "name": "**ZEROBASEONE Ricky (C Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027637180477440/Untitled321_20230716143629.png",
+            "theme": "card1",
+            "inv": "zerobaseone",
+            "code": "`ZB1RC_C`"
+        }
+    ],
+    "ZB1RC_B": [
+        {
+            "name": "**ZEROBASEONE Ricky (B Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027637180477440/Untitled321_20230716143629.png",
+            "theme": "card1",
+            "inv": "zerobaseone",
+            "code": "`ZB1RC_B`"
+        }
+    ],
+    "ZB1RC_A": [
+        {
+            "name": "**ZEROBASEONE Ricky (A Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027637180477440/Untitled321_20230716143629.png",
+            "theme": "card1",
+            "inv": "zerobaseone",
+            "code": "`ZB1RC_A`"
+        }
+    ],
+    "ZB1RC_S": [
+        {
+            "name": "**ZEROBASEONE Ricky (S Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027637180477440/Untitled321_20230716143629.png",
+            "theme": "card1",
+            "inv": "zerobaseone",
+            "code": "`ZB1RC_S`"
+        }  
+    ],
+    "ZB1RC_R": [
+        {
+            "name": "**ZEROBASEONE Ricky (R Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027637180477440/Untitled321_20230716143629.png",
+            "theme": "card1",
+            "inv": "zerobaseone",
+            "code": "`ZB1RC_R`"
+        } 
+    ],
+    "ZB1GV_C": [
+        {
+            "name": "**ZEROBASEONE Gyuvin (C Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027637180477440/Untitled321_20230716143629.png",
+            "theme": "card1",
+            "inv": "zerobaseone",
+            "code": "`ZB1GV_C`"
+        }    
+    ],
+    "ZB1GV_B": [
+        {
+            "name": "**ZEROBASEONE Gyuvin (B Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027637180477440/Untitled321_20230716143629.png",
+            "theme": "card1",
+            "inv": "zerobaseone",
+            "code": "`ZB1GV_B`"
+        }  
+    ],
+    "ZB1GV_A": [
+        {
+            "name": "**ZEROBASEONE Gyuvin (A Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027637180477440/Untitled321_20230716143629.png",
+            "theme": "card1",
+            "inv": "zerobaseone",
+            "code": "`ZB1GV_A`"
+        } 
+    ],
+    "ZB1GV_S": [
+        {
+            "name": "**ZEROBASEONE Gyuvin (S Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027637180477440/Untitled321_20230716143629.png",
+            "theme": "card1",
+            "inv": "zerobaseone",
+            "code": "`ZB1GV_S`"
+        }   
+    ],
+    "ZB1GV_R": [
+        {
+            "name": "**ZEROBASEONE Gyuvin (R Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027637180477440/Untitled321_20230716143629.png",
+            "theme": "card1",
+            "inv": "zerobaseone",
+            "code": "`ZB1GV_R`"
+        }  
+    ],
+    "ZB1GW_C": [
+        {
+            "name": "**ZEROBASEONE Gunwook (C Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027637180477440/Untitled321_20230716143629.png",
+            "theme": "card1",
+            "inv": "zerobaseone",
+            "code": "`ZB1GW_C`"
+        }        
+    ],
+    "ZB1GW_B": [
+        {
+            "name": "**ZEROBASEONE Gunwook (B Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027637180477440/Untitled321_20230716143629.png",
+            "theme": "card1",
+            "inv": "zerobaseone",
+            "code": "`ZB1GW_B`"
+        }
+    ],
+    "ZB1GW_A": [
+        {
+            "name": "**ZEROBASEONE Gunwook (A Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027637180477440/Untitled321_20230716143629.png",
+            "theme": "card1",
+            "inv": "zerobaseone",
+            "code": "`ZB1GW_A`"
+        }    
+    ],
+    "ZB1GW_S": [
+        {
+            "name": "**ZEROBASEONE Gunwook (S Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027637180477440/Untitled321_20230716143629.png",
+            "theme": "card1",
+            "inv": "zerobaseone",
+            "code": "`ZB1GW_S`"
+        } 
+    ],
+    "ZB1GW_R": [
+        {
+            "name": "**ZEROBASEONE Gunwook (R Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027637180477440/Untitled321_20230716143629.png",
+            "theme": "card1",
+            "inv": "zerobaseone",
+            "code": "`ZB1GW_R`"
+        }
+    ],
+    "ZB1YJ_C": [
+        {
+            "name": "**ZEROBASEONE Yujin (C Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027637180477440/Untitled321_20230716143629.png",
+            "theme": "card1",
+            "inv": "zerobaseone",
+            "code": "`ZB1YJ_C`"
+        }
+    ],
+    "ZB1YJ_B": [
+        {
+            "name": "**ZEROBASEONE Yujin (B Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027637180477440/Untitled321_20230716143629.png",
+            "theme": "card1",
+            "inv": "zerobaseone",
+            "code": "`ZB1YJ_B`"
+        } 
+    ],
+    "ZB1YJ_A": [
+        {
+            "name": "**ZEROBASEONE Yujin (A Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027637180477440/Untitled321_20230716143629.png",
+            "theme": "card1",
+            "inv": "zerobaseone",
+            "code": "`ZB1YJ_A`"
+        } 
+    ],
+    "ZB1YJ_S": [
+        {
+            "name": "**ZEROBASEONE Yujin (S Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027637180477440/Untitled321_20230716143629.png",
+            "theme": "card1",
+            "inv": "zerobaseone",
+            "code": "`ZB1YJ_S`"
+        } 
+    ],
+    "ZB1YJ_R": [
+        {
+            "name": "**ZEROBASEONE Yujin (R Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027637180477440/Untitled321_20230716143629.png",
+            "theme": "card1",
+            "inv": "zerobaseone",
+            "code": "`ZB1YJ_R`"
+        }    
+    ],
     "IBHB_B": [
         {
             "name": "**In Bloom Hanbin (B Grade)**",
