@@ -267,7 +267,142 @@
             "theme": "card1",
             "inv": "inbloom",
             "code": "`IBRC_R`"
-        }           
+        } 
+    ],
+    "IBGV_C": [
+        {
+            "name": "**In Bloom Gyuvin (C Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027610454368306/Untitled321_20230716143702.png",
+            "theme": "card1",
+            "inv": "inbloom",
+            "code": "`IBGV_C`"
+        }      
+    ],
+    "IBGV_B": [
+        {
+            "name": "**In Bloom Gyuvin (B Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027610454368306/Untitled321_20230716143702.png",
+            "theme": "card1",
+            "inv": "inbloom",
+            "code": "`IBGV_B`"
+        }  
+    ],
+    "IBGV_A": [
+        {
+            "name": "**In Bloom Gyuvin (A Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027610454368306/Untitled321_20230716143702.png",
+            "theme": "card1",
+            "inv": "inbloom",
+            "code": "`IBGV_A`"
+        } 
+    ],
+    "IBGV_S": [
+        {
+            "name": "**In Bloom Gyuvin (S Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027610454368306/Untitled321_20230716143702.png",
+            "theme": "card1",
+            "inv": "inbloom",
+            "code": "`IBGV_S`"
+        }  
+    ],
+    "IBGV_R": [
+        {
+            "name": "**In Bloom Gyuvin (R Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027610454368306/Untitled321_20230716143702.png",
+            "theme": "card1",
+            "inv": "inbloom",
+            "code": "`IBGV_R`"
+        } 
+    ],
+    "IBGW_C": [
+        {
+            "name": "**In Bloom Gunwook (C Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027610454368306/Untitled321_20230716143702.png",
+            "theme": "card1",
+            "inv": "inbloom",
+            "code": "`IBGW_C`"
+        }      
+    ],
+    "IBGW_B": [
+        {
+            "name": "**In Bloom Gunwook (B Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027610454368306/Untitled321_20230716143702.png",
+            "theme": "card1",
+            "inv": "inbloom",
+            "code": "`IBGW_B`"
+        }  
+    ],
+    "IBGW_A": [
+        {
+            "name": "**In Bloom Gunwook (A Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027610454368306/Untitled321_20230716143702.png",
+            "theme": "card1",
+            "inv": "inbloom",
+            "code": "`IBGW_A`"
+        } 
+    ],
+    "IBGW_S": [
+        {
+            "name": "**In Bloom Gunwoonk (S Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027610454368306/Untitled321_20230716143702.png",
+            "theme": "card1",
+            "inv": "inbloom",
+            "code": "`IBGW_S`"
+        }  
+    ],
+    "IBGW_R": [
+        {
+            "name": "**In Bloom Gunwook (R Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027610454368306/Untitled321_20230716143702.png",
+            "theme": "card1",
+            "inv": "inbloom",
+            "code": "`IBGW_R`"
+        }  
+   ],
+   "IBYJ_C": [
+        {
+            "name": "**In Bloom Yujin (C Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027610454368306/Untitled321_20230716143702.png",
+            "theme": "card1",
+            "inv": "inbloom",
+            "code": "`IBYJ_C`"
+        }      
+    ],
+    "IBYJ_B": [
+        {
+            "name": "**In Bloom Yujin (B Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027610454368306/Untitled321_20230716143702.png",
+            "theme": "card1",
+            "inv": "inbloom",
+            "code": "`IBYJ_B`"
+        }  
+    ],
+    "IBYJ_A": [
+        {
+            "name": "**In Bloom Yujin (A Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027610454368306/Untitled321_20230716143702.png",
+            "theme": "card1",
+            "inv": "inbloom",
+            "code": "`IBYJ_A`"
+        } 
+    ],
+    "IBYJ_S": [
+        {
+            "name": "**In Bloom Yujin (S Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027610454368306/Untitled321_20230716143702.png",
+            "theme": "card1",
+            "inv": "inbloom",
+            "code": "`IBYJ_S`"
+        }  
+    ],
+    "IBYJ_R": [
+        {
+            "name": "**In Bloom Yujin (R Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027610454368306/Untitled321_20230716143702.png",
+            "theme": "card1",
+            "inv": "inbloom",
+            "code": "`IBYJ_R`"
+        }       
     ],
     "OSHB_C": [
         {
