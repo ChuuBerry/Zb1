@@ -44,6 +44,231 @@
             "code": "`IBHB_R`"
         }    
     ],
+    "IBJW_C": [
+        {
+            "name": "**In Bloom Jiwoong (C Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027610454368306/Untitled321_20230716143702.png",
+            "theme": "card1",
+            "inv": "inbloom",
+            "code": "`IBJW_C`"
+        }      
+    ],
+    "IBJW_B": [
+        {
+            "name": "**In Bloom Jiwoong (B Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027610454368306/Untitled321_20230716143702.png",
+            "theme": "card1",
+            "inv": "inbloom",
+            "code": "`IBJW_B`"
+        }  
+    ],
+    "IBJW_A": [
+        {
+            "name": "**In Bloom Jiwoong (A Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027610454368306/Untitled321_20230716143702.png",
+            "theme": "card1",
+            "inv": "inbloom",
+            "code": "`IBJW_A`"
+        } 
+    ],
+    "IBJW_S": [
+        {
+            "name": "**In Bloom Jiwoong (S Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027610454368306/Untitled321_20230716143702.png",
+            "theme": "card1",
+            "inv": "inbloom",
+            "code": "`IBJW_S`"
+        }  
+    ],
+    "IBJW_R": [
+        {
+            "name": "**In Bloom Jiwoong (R Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027610454368306/Untitled321_20230716143702.png",
+            "theme": "card1",
+            "inv": "inbloom",
+            "code": "`IBJW_R`"
+        }  
+    ],
+    "IBZH_C": [
+        {
+            "name": "**In Bloom Zhang Hao (C Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027610454368306/Untitled321_20230716143702.png",
+            "theme": "card1",
+            "inv": "inbloom",
+            "code": "`IBZH_C`"
+        }          
+    ],
+    "IBZH_B": [
+        {
+            "name": "**In Bloom Zhang Hao (B Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027610454368306/Untitled321_20230716143702.png",
+            "theme": "card1",
+            "inv": "inbloom",
+            "code": "`IBZH_B`"
+        }    
+    ],
+    "IBZH_A": [
+        {
+            "name": "**In Bloom Zhang Hao (A Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027610454368306/Untitled321_20230716143702.png",
+            "theme": "card1",
+            "inv": "inbloom",
+            "code": "`IBZH_A`"
+        }  
+    ],
+    "IBZH_S": [
+        {
+            "name": "**In Bloom Zhang Hao (S Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027610454368306/Untitled321_20230716143702.png",
+            "theme": "card1",
+            "inv": "inbloom",
+            "code": "`IBZH_S`"
+        }   
+    ],
+    "IBZH_R": [
+        {
+            "name": "**In Bloom Zhang Hao (R Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027610454368306/Untitled321_20230716143702.png",
+            "theme": "card1",
+            "inv": "inbloom",
+            "code": "`IBZH_R`"
+        }   
+    ],
+    "IBMT_C": [
+        {
+            "name": "**In Bloom Matthew (C Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027610454368306/Untitled321_20230716143702.png",
+            "theme": "card1",
+            "inv": "inbloom",
+            "code": "`IBMT_C`"
+        }
+    ],
+    "IBMT_B": [
+        {
+            "name": "**In Bloom Matthew (B Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027610454368306/Untitled321_20230716143702.png",
+            "theme": "card1",
+            "inv": "inbloom",
+            "code": "`IBMT_B`"
+        } 
+    ],
+    "IBMT_A": [
+        {
+            "name": "**In Bloom Matthew (A Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027610454368306/Untitled321_20230716143702.png",
+            "theme": "card1",
+            "inv": "inbloom",
+            "code": "`IBMT_A`"
+        } 
+    ],
+    "IBMT_S": [
+        {
+            "name": "**In Bloom Matthew (S Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027610454368306/Untitled321_20230716143702.png",
+            "theme": "card1",
+            "inv": "inbloom",
+            "code": "`IBMT_S`"
+        }  
+    ],
+    "IBMT_R": [
+        {
+            "name": "**In Bloom Matthew (R Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027610454368306/Untitled321_20230716143702.png",
+            "theme": "card1",
+            "inv": "inbloom",
+            "code": "`IBMT_R`"
+        } 
+    ],
+    "IBTR_C": [
+        {
+            "name": "**In Bloom Taerae (C Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027610454368306/Untitled321_20230716143702.png",
+            "theme": "card1",
+            "inv": "inbloom",
+            "code": "`IBTR_C`"
+        }    
+    ],
+    "IBTR_B": [
+        {
+            "name": "**In Bloom Taerae (B Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027610454368306/Untitled321_20230716143702.png",
+            "theme": "card1",
+            "inv": "inbloom",
+            "code": "`IBTR_B`"
+        }   
+    ],
+    "IBTR_A": [
+        {
+            "name": "**In Bloom Taerae (A Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027610454368306/Untitled321_20230716143702.png",
+            "theme": "card1",
+            "inv": "inbloom",
+            "code": "`IBTR_A`"
+        }  
+    ],
+    "IBTR_S": [
+        {
+            "name": "**In Bloom Taerae (S Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027610454368306/Untitled321_20230716143702.png",
+            "theme": "card1",
+            "inv": "inbloom",
+            "code": "`IBTR_S`"
+        }  
+    ],
+    "IBTR_R": [
+        {
+            "name": "**In Bloom Taerae (R Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027610454368306/Untitled321_20230716143702.png",
+            "theme": "card1",
+            "inv": "inbloom",
+            "code": "`IBTR_R`"
+        }   
+    ],
+    "IBRC_C": [
+        {
+            "name": "**In Bloom Ricky (C Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027610454368306/Untitled321_20230716143702.png",
+            "theme": "card1",
+            "inv": "inbloom",
+            "code": "`IBRC_C`"
+        }       
+    ],
+    "IBRC_B": [
+        {
+            "name": "**In Bloom Ricky (B Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027610454368306/Untitled321_20230716143702.png",
+            "theme": "card1",
+            "inv": "inbloom",
+            "code": "`IBRC_B`"
+        } 
+    ],
+    "IBRC_A": [
+        {
+            "name": "**In Bloom Ricky (A Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027610454368306/Untitled321_20230716143702.png",
+            "theme": "card1",
+            "inv": "inbloom",
+            "code": "`IBRC_A`"
+        }  
+    ],
+    "IBRC_S": [
+        {
+            "name": "**In Bloom Ricky (S Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027610454368306/Untitled321_20230716143702.png",
+            "theme": "card1",
+            "inv": "inbloom",
+            "code": "`IBRC_S`"
+        }  
+    ],
+    "IBRC_R": [
+        {
+            "name": "**In Bloom Ricky (R Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027610454368306/Untitled321_20230716143702.png",
+            "theme": "card1",
+            "inv": "inbloom",
+            "code": "`IBRC_R`"
+        }           
+    ],
     "OSHB_C": [
         {
             "name": "**Our Season Hanbin (C Grade)**",
