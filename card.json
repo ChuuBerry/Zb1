@@ -37,7 +37,7 @@
     ],
     "ZB1HB_S": [
         {
-            "name": "**ZEROBASEONE Hanbin (S Grade)**",
+            "name": "<:s_grade:1126649890148196504> **ZEROBASEONE Hanbin**",
             "image": "https://media.discordapp.net/attachments/1130028532773421076/1130042367890698260/Untitled321_20230716153347.png",
             "theme": "card1",
             "inv": "zerobaseone",
@@ -46,7 +46,7 @@
     ],
     "ZB1HB_R": [
         {
-            "name": "**ZEROBASEONE Hanbin (R Grade)**",
+            "name": "<:r_grade:1126649980296380457> **ZEROBASEONE Hanbin**",
             "image": "https://media.discordapp.net/attachments/1130028532773421076/1130042368142360626/Untitled321_20230716153350.png",
             "theme": "card1",
             "inv": "zerobaseone",
@@ -82,7 +82,7 @@
     ],
     "ZB1JW_S": [
         {
-            "name": "**ZEROBASEONE Jiwoong (S Grade)**",
+            "name": "<:s_grade:1126649890148196504> **ZEROBASEONE Jiwoong**",
             "image": "https://media.discordapp.net/attachments/1130028532773421076/1130042390040825866/Untitled321_20230716153318.png",
             "theme": "card1",
             "inv": "zerobaseone",
@@ -91,7 +91,7 @@
     ],
     "ZB1JW_R": [
         {
-            "name": "**ZEROBASEONE Jiwoong (R Grade)**",
+            "name": "<:r_grade:1126649980296380457> **ZEROBASEONE Jiwoong**",
             "image": "https://media.discordapp.net/attachments/1130028532773421076/1130042390477021245/Untitled321_20230716153320.png",
             "theme": "card1",
             "inv": "zerobaseone",
@@ -127,7 +127,7 @@
     ],
     "ZB1ZH_S": [
         {
-            "name": "**ZEROBASEONE Zhang Hao (S Grade)**",
+            "name": "<:s_grade:1126649890148196504> **ZEROBASEONE Zhang Hao**",
             "image": "https://media.discordapp.net/attachments/1130028532773421076/1130042413759594616/Untitled321_20230716153255.png",
             "theme": "card1",
             "inv": "zerobaseone",
@@ -136,7 +136,7 @@
     ],
     "ZB1ZH_R": [
         {
-            "name": "**ZEROBASEONE Zhang Hao (R Grade)**",
+            "name": "<:r_grade:1126649980296380457> **ZEROBASEONE Zhang Hao**",
             "image": "https://media.discordapp.net/attachments/1130028532773421076/1130042414019661914/Untitled321_20230716153259.png",
             "theme": "card1",
             "inv": "zerobaseone",
@@ -172,7 +172,7 @@
     ],
     "ZB1MT_S": [
         {
-            "name": "**ZEROBASEONE Matthew (S Grade)**",
+            "name": "<:s_grade:1126649890148196504> **ZEROBASEONE Matthew**",
             "image": "https://media.discordapp.net/attachments/1130028532773421076/1130042435456749628/Untitled321_20230716153236.png",
             "theme": "card1",
             "inv": "zerobaseone",
@@ -181,7 +181,7 @@
     ],
     "ZB1MT_R": [
         {
-            "name": "**ZEROBASEONE Matthew (R Grade)**",
+            "name": "<:r_grade:1126649980296380457> **ZEROBASEONE Matthew**",
             "image": "https://media.discordapp.net/attachments/1130028532773421076/1130042435767124058/Untitled321_20230716153238.png",
             "theme": "card1",
             "inv": "zerobaseone",
@@ -217,7 +217,7 @@
     ],
     "ZB1TR_S": [
         {
-            "name": "**ZEROBASEONE Taerae (S Grade)**",
+            "name": "<:s_grade:1126649890148196504> **ZEROBASEONE Taerae**",
             "image": "https://media.discordapp.net/attachments/1130028532773421076/1130042460341551164/Untitled321_20230716153214.png",
             "theme": "card1",
             "inv": "zerobaseone",
@@ -226,7 +226,7 @@
     ],
     "ZB1TR_R": [
         {
-            "name": "**ZEROBASEONE Taerae (R Grade)**",
+            "name": "<:r_grade:1126649980296380457> **ZEROBASEONE Taerae**",
             "image": "https://media.discordapp.net/attachments/1130028532773421076/1130042460823887882/Untitled321_20230716153217.png",
             "theme": "card1",
             "inv": "zerobaseone",
@@ -262,7 +262,7 @@
     ],
     "ZB1RC_S": [
         {
-            "name": "**ZEROBASEONE Ricky (S Grade)**",
+            "name": "<:s_grade:1126649890148196504> **ZEROBASEONE Ricky**",
             "image": "https://media.discordapp.net/attachments/1130028532773421076/1130042485272481853/Untitled321_20230716153153.png",
             "theme": "card1",
             "inv": "zerobaseone",
@@ -271,7 +271,7 @@
     ],
     "ZB1RC_R": [
         {
-            "name": "**ZEROBASEONE Ricky (R Grade)**",
+            "name": "<:r_grade:1126649980296380457> **ZEROBASEONE Ricky**",
             "image": "https://media.discordapp.net/attachments/1130028532773421076/1130042485599633528/Untitled321_20230716153155.png",
             "theme": "card1",
             "inv": "zerobaseone",
@@ -307,7 +307,7 @@
     ],
     "ZB1GV_S": [
         {
-            "name": "**ZEROBASEONE Gyuvin (S Grade)**",
+            "name": "<:s_grade:1126649890148196504> **ZEROBASEONE Gyuvin**",
             "image": "https://media.discordapp.net/attachments/1130028532773421076/1130042514523570186/Untitled321_20230716153129.png",
             "theme": "card1",
             "inv": "zerobaseone",
@@ -316,7 +316,7 @@
     ],
     "ZB1GV_R": [
         {
-            "name": "**ZEROBASEONE Gyuvin (R Grade)**",
+            "name": "<:r_grade:1126649980296380457> **ZEROBASEONE Gyuvin**",
             "image": "https://media.discordapp.net/attachments/1130028532773421076/1130042514863312976/Untitled321_20230716153133.png",
             "theme": "card1",
             "inv": "zerobaseone",
@@ -352,7 +352,7 @@
     ],
     "ZB1GW_S": [
         {
-            "name": "**ZEROBASEONE Gunwook (S Grade)**",
+            "name": "<:s_grade:1126649890148196504> **ZEROBASEONE Gunwook**",
             "image": "https://media.discordapp.net/attachments/1130028532773421076/1130042604654973000/Untitled321_20230716153104.png",
             "theme": "card1",
             "inv": "zerobaseone",
@@ -361,7 +361,7 @@
     ],
     "ZB1GW_R": [
         {
-            "name": "**ZEROBASEONE Gunwook (R Grade)**",
+            "name": "<:r_grade:1126649980296380457> **ZEROBASEONE Gunwook**",
             "image": "https://media.discordapp.net/attachments/1130028532773421076/1130042604952748112/Untitled321_20230716153107.png",
             "theme": "card1",
             "inv": "zerobaseone",
@@ -397,7 +397,7 @@
     ],
     "ZB1YJ_S": [
         {
-            "name": "**ZEROBASEONE Yujin (S Grade)**",
+            "name": "<:s_grade:1126649890148196504> **ZEROBASEONE Yujin**",
             "image": "https://media.discordapp.net/attachments/1130028532773421076/1130042626196914256/Untitled321_20230716153030.png",
             "theme": "card1",
             "inv": "zerobaseone",
@@ -406,7 +406,7 @@
     ],
     "ZB1YJ_R": [
         {
-            "name": "**ZEROBASEONE Yujin (R Grade)**",
+            "name": "<:r_grade:1126649980296380457> **ZEROBASEONE Yujin**",
             "image": "https://media.discordapp.net/attachments/1130028532773421076/1130042626452754452/Untitled321_20230716153041.png",
             "theme": "card1",
             "inv": "zerobaseone",
@@ -433,7 +433,7 @@
      ],
      "IBHB_S": [
         {
-            "name": "**In Bloom Hanbin (S Grade)**",
+            "name": "<:s_grade:1126649890148196504> **In Bloom Hanbin**",
             "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027611054166036/Untitled321_20230716143707.png",
             "theme": "card1",
             "inv": "inbloom",
@@ -442,7 +442,7 @@
      ],
      "IBHB_R": [
         {
-            "name": "**In Bloom Hanbin (R Grade)**",
+            "name": "<:r_grade:1126649980296380457> **In Bloom Hanbin**",
             "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027611351949352/Untitled321_20230716143710.png",
             "theme": "card1",
             "inv": "inbloom",
@@ -478,7 +478,7 @@
     ],
     "IBJW_S": [
         {
-            "name": "**In Bloom Jiwoong (S Grade)**",
+            "name": "<:s_grade:1126649890148196504> **In Bloom Jiwoong**",
             "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027638044491786/Untitled321_20230716143638.png",
             "theme": "card1",
             "inv": "inbloom",
@@ -487,7 +487,7 @@
     ],
     "IBJW_R": [
         {
-            "name": "**In Bloom Jiwoong (R Grade)**",
+            "name": "<:r_grade:1126649980296380457> **In Bloom Jiwoong**",
             "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027638363275374/Untitled321_20230716143641.png",
             "theme": "card1",
             "inv": "inbloom",
@@ -523,7 +523,7 @@
     ],
     "IBZH_S": [
         {
-            "name": "**In Bloom Zhang Hao (S Grade)**",
+            "name": "<:s_grade:1126649890148196504> **In Bloom Zhang Hao**",
             "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027667433984040/Untitled321_20230716143614.png",
             "theme": "card1",
             "inv": "inbloom",
@@ -532,7 +532,7 @@
     ],
     "IBZH_R": [
         {
-            "name": "**In Bloom Zhang Hao (R Grade)**",
+            "name": "<:r_grade:1126649980296380457> **In Bloom Zhang Hao**",
             "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027667685638244/Untitled321_20230716143617.png",
             "theme": "card1",
             "inv": "inbloom",
@@ -568,7 +568,7 @@
     ],
     "IBMT_S": [
         {
-            "name": "**In Bloom Matthew (S Grade)**",
+            "name": "<:s_grade:1126649890148196504> **In Bloom Matthew**",
             "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027703408537660/Untitled321_20230716143550.png",
             "theme": "card1",
             "inv": "inbloom",
@@ -577,7 +577,7 @@
     ],
     "IBMT_R": [
         {
-            "name": "**In Bloom Matthew (R Grade)**",
+            "name": "<:r_grade:1126649980296380457> **In Bloom Matthew**",
             "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027708223590440/Untitled321_20230716143553.png",
             "theme": "card1",
             "inv": "inbloom",
@@ -613,7 +613,7 @@
     ],
     "IBTR_S": [
         {
-            "name": "**In Bloom Taerae (S Grade)**",
+            "name": "<:s_grade:1126649890148196504> **In Bloom Taerae**",
             "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027732911259668/Untitled321_20230716143517.png",
             "theme": "card1",
             "inv": "inbloom",
@@ -622,7 +622,7 @@
     ],
     "IBTR_R": [
         {
-            "name": "**In Bloom Taerae (R Grade)**",
+            "name": "<:r_grade:1126649980296380457> **In Bloom Taerae**",
             "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027733209075812/Untitled321_20230716143520.png",
             "theme": "card1",
             "inv": "inbloom",
@@ -658,7 +658,7 @@
     ],
     "IBRC_S": [
         {
-            "name": "**In Bloom Ricky (S Grade)**",
+            "name": "<:s_grade:1126649890148196504> **In Bloom Ricky**",
             "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027768046944326/Untitled321_20230716143449.png",
             "theme": "card1",
             "inv": "inbloom",
@@ -667,7 +667,7 @@
     ],
     "IBRC_R": [
         {
-            "name": "**In Bloom Ricky (R Grade)**",
+            "name": "<:r_grade:1126649980296380457> **In Bloom Ricky**",
             "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027768437035088/Untitled321_20230716143451.png",
             "theme": "card1",
             "inv": "inbloom",
@@ -703,7 +703,7 @@
     ],
     "IBGV_S": [
         {
-            "name": "**In Bloom Gyuvin (S Grade)**",
+            "name": "<:s_grade:1126649890148196504> **In Bloom Gyuvin**",
             "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027799785259009/Untitled321_20230716143359.png",
             "theme": "card1",
             "inv": "inbloom",
@@ -712,7 +712,7 @@
     ],
     "IBGV_R": [
         {
-            "name": "**In Bloom Gyuvin (R Grade)**",
+            "name": "<:r_grade:1126649980296380457> **In Bloom Gyuvin**",
             "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027800049487892/Untitled321_20230716143401.png",
             "theme": "card1",
             "inv": "inbloom",
@@ -748,7 +748,7 @@
     ],
     "IBGW_S": [
         {
-            "name": "**In Bloom Gunwoonk (S Grade)**",
+            "name": "<:s_grade:1126649890148196504> **In Bloom Gunwoonk**",
             "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027827702534174/Untitled321_20230716143328.png",
             "theme": "card1",
             "inv": "inbloom",
@@ -757,7 +757,7 @@
     ],
     "IBGW_R": [
         {
-            "name": "**In Bloom Gunwook (R Grade)**",
+            "name": "<:r_grade:1126649980296380457> **In Bloom Gunwook**",
             "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027827954196520/Untitled321_20230716143331.png",
             "theme": "card1",
             "inv": "inbloom",
@@ -793,7 +793,7 @@
     ],
     "IBYJ_S": [
         {
-            "name": "**In Bloom Yujin (S Grade)**",
+            "name": "<:s_grade:1126649890148196504> **In Bloom Yujin**",
             "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027872137007195/Untitled321_20230716143304.png",
             "theme": "card1",
             "inv": "inbloom",
@@ -802,7 +802,7 @@
     ],
     "IBYJ_R": [
         {
-            "name": "**In Bloom Yujin (R Grade)**",
+            "name": "<:r_grade:1126649980296380457> **In Bloom Yujin**",
             "image": "https://media.discordapp.net/attachments/1130026880976818299/1130027872459956224/Untitled321_20230716143306.png",
             "theme": "card1",
             "inv": "inbloom",
@@ -838,7 +838,7 @@
     ],
     "OSHB_S": [
         {
-            "name": "**Our Season Hanbin (S Grade)**",
+            "name": "<:s_grade:1126649890148196504> **Our Season Hanbin**",
             "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028309539999814/Untitled439_20230716142123.png",
             "theme": "card1",
             "inv": "ourseason",
@@ -847,7 +847,7 @@
     ],
     "OSHB_R": [
         {
-            "name": "**Our Season Hanbin (R Grade)**",
+            "name": "<:r_grade:1126649980296380457> **Our Season Hanbin**",
             "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028309825200189/Untitled439_20230716142126.png",
             "theme": "card1",
             "inv": "ourseason",
@@ -883,7 +883,7 @@
     ],
     "OSJW_S": [
         {
-            "name": "**Our Season Jiwoong (S Grade)**",
+            "name": "<:s_grade:1126649890148196504> **Our Season Jiwoong**",
             "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028331606216795/Untitled439_20230716142025.png",
             "theme": "card1",
             "inv": "ourseason",
@@ -892,7 +892,7 @@
     ],
     "OSJW_R": [
         {
-            "name": "**Our Season Jiwoong (R Grade)**",
+            "name": "<:r_grade:1126649980296380457> **Our Season Jiwoong**",
             "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028331887243337/Untitled439_20230716142029.png",
             "theme": "card1",
             "inv": "ourseason",
@@ -928,7 +928,7 @@
     ],
     "OSZH_S": [
         {
-            "name": "**Our Season Zhang Hao (S Grade)**",
+            "name": "<:s_grade:1126649890148196504> **Our Season Zhang Hao**",
             "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028356839149598/Untitled439_20230716142347.png",
             "theme": "card1",
             "inv": "ourseason",
@@ -937,7 +937,7 @@
     ],
     "OSZH_R": [
         {
-            "name": "**Our Season Zhang Hao (R Grade)**",
+            "name": "<:r_grade:1126649980296380457> **Our Season Zhang Hao**",
             "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028357132755004/Untitled439_20230716142350.png",
             "theme": "card1",
             "inv": "ourseason",
@@ -973,7 +973,7 @@
     ],
     "OSMT_S": [
         {
-            "name": "**Our Season Matthew (S Grade)**",
+            "name": "<:s_grade:1126649890148196504> **Our Season Matthew**",
             "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028380406939748/Untitled439_20230716142522.png",
             "theme": "card1",
             "inv": "ourseason",
@@ -982,7 +982,7 @@
     ],
     "OSMT_R": [
         {
-            "name": "**Our Season Matthew (R Grade)**",
+            "name": "<:r_grade:1126649980296380457> **Our Season Matthew**",
             "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028380767662100/Untitled439_20230716142525.png",
             "theme": "card1",
             "inv": "ourseason",
@@ -1018,7 +1018,7 @@
     ],
     "OSTR_S": [
         {
-            "name": "**Our Season Taerae (S Grade)**",
+            "name": "<:s_grade:1126649890148196504> **Our Season Taerae**",
             "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028404117360650/Untitled439_20230716142835.png",
             "theme": "card1",
             "inv": "ourseason",
@@ -1027,7 +1027,7 @@
     ],
     "OSTR_R": [
         {
-            "name": "**Our Season Taerae (R Grade)**",
+            "name": "<:r_grade:1126649980296380457> **Our Season Taerae**",
             "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028404402561065/Untitled439_20230716142838.png",
             "theme": "card1",
             "inv": "ourseason",
@@ -1063,7 +1063,7 @@
     ],
     "OSRC_S": [
         {
-            "name": "**Our Season Ricky (S Grade)**",
+            "name": "<:s_grade:1126649890148196504> **Our Season Ricky**",
             "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028427899056168/Untitled439_20230716142907.png",
             "theme": "card1",
             "inv": "ourseason",
@@ -1072,7 +1072,7 @@
     ],
     "OSRC_R": [
         {
-            "name": "**Our Season Ricky (R Grade)**",
+            "name": "<:r_grade:1126649980296380457> **Our Season Ricky**",
             "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028428180070400/Untitled439_20230716142910.png",
             "theme": "card1",
             "inv": "ourseason",
@@ -1108,7 +1108,7 @@
     ],
     "OSGV_S": [
         {
-            "name": "**Our Season Gyuvin (S Grade)**",
+            "name": "<:s_grade:1126649890148196504> **Our Season Gyuvin**",
             "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028451823362058/Untitled439_20230716142932.png",
             "theme": "card1",
             "inv": "ourseason",
@@ -1117,7 +1117,7 @@
     ],
     "OSGV_R": [
         {
-            "name": "**Our Season Gyuvin (R Grade)**",
+            "name": "<:r_grade:1126649980296380457> **Our Season Gyuvin**",
             "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028452066623488/Untitled439_20230716142935.png",
             "theme": "card1",
             "inv": "ourseason",
@@ -1153,7 +1153,7 @@
     ],
     "OSGW_S": [
         {
-            "name": "**Our Season Gunwook (S Grade)**",
+            "name": "<:s_grade:1126649890148196504> **Our Season Gunwook**",
             "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028474019610654/Untitled439_20230716143017.png",
             "theme": "card1",
             "inv": "ourseason",
@@ -1162,7 +1162,7 @@
     ],
     "OSGW_R": [
         {
-            "name": "**Our Season Gunwook (R Grade)**",
+            "name": "<:r_grade:1126649980296380457> **Our Season Gunwook**",
             "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028474342592572/Untitled439_20230716143019.png",
             "theme": "card1",
             "inv": "ourseason",
@@ -1198,7 +1198,7 @@
     ],
     "OSYJ_S": [
         {
-            "name": "**Our Season Yujin (S Grade)**",
+            "name": "<:s_grade:1126649890148196504> **Our Season Yujin**",
             "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028499479040041/Untitled439_20230716143038.png",
             "theme": "card1",
             "inv": "ourseason",
@@ -1207,7 +1207,7 @@
     ],
     "OSYJ_R": [
         {
-            "name": "**Our Season Yujin (R Grade)**",
+            "name": "<:r_grade:1126649980296380457> **Our Season Yujin**",
             "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028499743289364/Untitled439_20230716143040.png",
             "theme": "card1",
             "inv": "ourseason",
