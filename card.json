@@ -844,7 +844,7 @@
             "inv": "ourseason",
             "code": "`OSHB_S`"
         }    
-     ],
+    ],
     "OSHB_R": [
         {
             "name": "**Our Season Hanbin (R Grade)**",
@@ -852,6 +852,366 @@
             "theme": "card1",
             "inv": "ourseason",
             "code": "`OSHB_R`"
+        }   
+    ],
+    "OSJW_C": [
+        {
+            "name": "**Our Season Jiwoong (C Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028308604670042/Untitled439_20230716142114.png",
+            "theme": "card1",
+            "inv": "ourseason",
+            "code": "`OSJW_C`"
+        }         
+    ],
+    "OSJW_B": [
+        {
+            "name": "**Our Season Jiwoong (B Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028308604670042/Untitled439_20230716142114.png",
+            "theme": "card1",
+            "inv": "ourseason",
+            "code": "`OSJW_B`"
+        }
+    ],
+    "OSJW_A": [
+        {
+            "name": "**Our Season Jiwoong (A Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028308604670042/Untitled439_20230716142114.png",
+            "theme": "card1",
+            "inv": "ourseason",
+            "code": "`OSJW_A`"
+        } 
+    ],
+    "OSJW_S": [
+        {
+            "name": "**Our Season Jiwoong (S Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028308604670042/Untitled439_20230716142114.png",
+            "theme": "card1",
+            "inv": "ourseason",
+            "code": "`OSJW_S`"
+        } 
+    ],
+    "OSJW_R": [
+        {
+            "name": "**Our Season Jiwoong (R Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028308604670042/Untitled439_20230716142114.png",
+            "theme": "card1",
+            "inv": "ourseason",
+            "code": "`OSJW_R`"
+        } 
+    ],
+    "OSZH_C": [
+        {
+            "name": "**Our Season Zhang Hao (C Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028308604670042/Untitled439_20230716142114.png",
+            "theme": "card1",
+            "inv": "ourseason",
+            "code": "`OSZH_C`"
+        }
+    ],
+    "OSZH_B": [
+        {
+            "name": "**Our Season Zhang Hao (B Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028308604670042/Untitled439_20230716142114.png",
+            "theme": "card1",
+            "inv": "ourseason",
+            "code": "`OSZH_B`"
+        } 
+    ],
+    "OSZH_A": [
+        {
+            "name": "**Our Season Zhang Hao (A Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028308604670042/Untitled439_20230716142114.png",
+            "theme": "card1",
+            "inv": "ourseason",
+            "code": "`OSZH_A`"
+        }
+    ],
+    "OSZH_S": [
+        {
+            "name": "**Our Season Zhang Hao (S Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028308604670042/Untitled439_20230716142114.png",
+            "theme": "card1",
+            "inv": "ourseason",
+            "code": "`OSZH_S`"
+        }
+    ],
+    "OSZH_R": [
+        {
+            "name": "**Our Season Zhang Hao (R Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028308604670042/Untitled439_20230716142114.png",
+            "theme": "card1",
+            "inv": "ourseason",
+            "code": "`OSZH_R`"
+        } 
+    ],
+    "OSMT_C": [
+        {
+            "name": "**Our Season Matthew (C Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028308604670042/Untitled439_20230716142114.png",
+            "theme": "card1",
+            "inv": "ourseason",
+            "code": "`OSMT_C`"
+        }    
+    ],
+    "OSMT_B": [
+        {
+            "name": "**Our Season Matthew (B Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028308604670042/Untitled439_20230716142114.png",
+            "theme": "card1",
+            "inv": "ourseason",
+            "code": "`OSMT_B`"
+        } 
+    ],
+    "OSMT_A": [
+        {
+            "name": "**Our Season Matthew (A Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028308604670042/Untitled439_20230716142114.png",
+            "theme": "card1",
+            "inv": "ourseason",
+            "code": "`OSMT_A`"
+        } 
+    ],
+    "OSMT_S": [
+        {
+            "name": "**Our Season Matthew (S Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028308604670042/Untitled439_20230716142114.png",
+            "theme": "card1",
+            "inv": "ourseason",
+            "code": "`OSMT_S`"
+        }  
+    ],
+    "OSMT_R": [
+        {
+            "name": "**Our Season Matthew (R Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028308604670042/Untitled439_20230716142114.png",
+            "theme": "card1",
+            "inv": "ourseason",
+            "code": "`OSMT_R`"
+        }  
+    ],
+    "OSTR_C": [
+        {
+            "name": "**Our Season Taerae (C Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028308604670042/Untitled439_20230716142114.png",
+            "theme": "card1",
+            "inv": "ourseason",
+            "code": "`OSTR_C`"
+        }
+    ],
+    "OSTR_B": [
+        {
+            "name": "**Our Season Taerae (B Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028308604670042/Untitled439_20230716142114.png",
+            "theme": "card1",
+            "inv": "ourseason",
+            "code": "`OSTR_B`"
+        } 
+    ],
+    "OSTR_A": [
+        {
+            "name": "**Our Season Taerae (A Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028308604670042/Untitled439_20230716142114.png",
+            "theme": "card1",
+            "inv": "ourseason",
+            "code": "`OSTR_A`"
+        }
+    ],
+    "OSTR_S": [
+        {
+            "name": "**Our Season Taerae (S Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028308604670042/Untitled439_20230716142114.png",
+            "theme": "card1",
+            "inv": "ourseason",
+            "code": "`OSTR_S`"
+        } 
+    ],
+    "OSTR_R": [
+        {
+            "name": "**Our Season Taerae (R Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028308604670042/Untitled439_20230716142114.png",
+            "theme": "card1",
+            "inv": "ourseason",
+            "code": "`OSTR_R`"
+        }  
+    ],
+    "OSRC_C": [
+        {
+            "name": "**Our Season Ricky (C Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028308604670042/Untitled439_20230716142114.png",
+            "theme": "card1",
+            "inv": "ourseason",
+            "code": "`OSRC_C`"
+        }    
+    ],
+    "OSRC_B": [
+        {
+            "name": "**Our Season Ricky (B Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028308604670042/Untitled439_20230716142114.png",
+            "theme": "card1",
+            "inv": "ourseason",
+            "code": "`OSRC_B`"
+        } 
+    ],
+    "OSRC_A": [
+        {
+            "name": "**Our Season Ricky (A Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028308604670042/Untitled439_20230716142114.png",
+            "theme": "card1",
+            "inv": "ourseason",
+            "code": "`OSRC_A`"
+        } 
+    ],
+    "OSRC_S": [
+        {
+            "name": "**Our Season Ricky (S Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028308604670042/Untitled439_20230716142114.png",
+            "theme": "card1",
+            "inv": "ourseason",
+            "code": "`OSRC_S`"
+        }  
+    ],
+    "OSRC_R": [
+        {
+            "name": "**Our Season Ricky (R Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028308604670042/Untitled439_20230716142114.png",
+            "theme": "card1",
+            "inv": "ourseason",
+            "code": "`OSRC_R`"
+        }  
+    ],
+    "OSGV_C": [
+        {
+            "name": "**Our Season Gyuvin (C Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028308604670042/Untitled439_20230716142114.png",
+            "theme": "card1",
+            "inv": "ourseason",
+            "code": "`OSGV_C`"
+        }        
+    ],
+    "OSGV_B": [
+        {
+            "name": "**Our Season Gyuvin (B Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028308604670042/Untitled439_20230716142114.png",
+            "theme": "card1",
+            "inv": "ourseason",
+            "code": "`OSGV_B`"
+        } 
+    ],
+    "OSGV_A": [
+        {
+            "name": "**Our Season Gyuvin (A Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028308604670042/Untitled439_20230716142114.png",
+            "theme": "card1",
+            "inv": "ourseason",
+            "code": "`OSGV_A`"
+        } 
+    ],
+    "OSGV_S": [
+        {
+            "name": "**Our Season Gyuvin (S Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028308604670042/Untitled439_20230716142114.png",
+            "theme": "card1",
+            "inv": "ourseason",
+            "code": "`OSGV_S`"
+        } 
+    ],
+    "OSGV_R": [
+        {
+            "name": "**Our Season Gyuvin (R Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028308604670042/Untitled439_20230716142114.png",
+            "theme": "card1",
+            "inv": "ourseason",
+            "code": "`OSGV_R`"
+        } 
+    ],
+    "OSGW_C": [
+        {
+            "name": "**Our Season Gunwook (C Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028308604670042/Untitled439_20230716142114.png",
+            "theme": "card1",
+            "inv": "ourseason",
+            "code": "`OSGW_C`"
+        }
+    ],
+    "OSGW_B": [
+        {
+            "name": "**Our Season Gunwook (B Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028308604670042/Untitled439_20230716142114.png",
+            "theme": "card1",
+            "inv": "ourseason",
+            "code": "`OSGW_B`"
+        } 
+    ],
+    "OSGW_A": [
+        {
+            "name": "**Our Season Gunwook (A Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028308604670042/Untitled439_20230716142114.png",
+            "theme": "card1",
+            "inv": "ourseason",
+            "code": "`OSGW_A`"
+        } 
+    ],
+    "OSGW_s": [
+        {
+            "name": "**Our Season Gunwook (S Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028308604670042/Untitled439_20230716142114.png",
+            "theme": "card1",
+            "inv": "ourseason",
+            "code": "`OSGW_S`"
+        }  
+    ],
+    "OSGW_R": [
+        {
+            "name": "**Our Season Gunwook (R Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028308604670042/Untitled439_20230716142114.png",
+            "theme": "card1",
+            "inv": "ourseason",
+            "code": "`OSGW_R`"
+        } 
+    ],
+    "OSYJ_C": [
+        {
+            "name": "**Our Season Yujin (C Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028308604670042/Untitled439_20230716142114.png",
+            "theme": "card1",
+            "inv": "ourseason",
+            "code": "`OSYJ_C`"
+        }    
+    ],
+    "OSYJ_B": [
+        {
+            "name": "**Our Season Yujin (C Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028308604670042/Untitled439_20230716142114.png",
+            "theme": "card1",
+            "inv": "ourseason",
+            "code": "`OSYJ_B`"
+        }
+    ],
+    "OSYJ_A": [
+        {
+            "name": "**Our Season Yujin (C Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028308604670042/Untitled439_20230716142114.png",
+            "theme": "card1",
+            "inv": "ourseason",
+            "code": "`OSYJ_A`"
+        }
+    ],
+    "OSYJ_S": [
+        {
+            "name": "**Our Season Yujin (S Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028308604670042/Untitled439_20230716142114.png",
+            "theme": "card1",
+            "inv": "ourseason",
+            "code": "`OSYJ_S`"
+        }
+    ],
+    "OSYJ_R": [
+        {
+            "name": "**Our Season Yujin (R Grade)**",
+            "image": "https://media.discordapp.net/attachments/1130026986287407178/1130028308604670042/Untitled439_20230716142114.png",
+            "theme": "card1",
+            "inv": "ourseason",
+            "code": "`OSYJ_R`"
         }        
     ]
 }
