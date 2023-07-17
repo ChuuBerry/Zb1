@@ -1540,7 +1540,7 @@
     ],
     "HIAGW_B": [
         {
-            "name": "<:b_grade:1126649508089057352> **Here I Am Gunwoonk**",
+            "name": "<:b_grade:1126649508089057352> **Here I Am Gunwook**",
             "image": "-",
             "theme": "card1",
             "inv": "hereiam",
@@ -1549,7 +1549,7 @@
     ],
     "HIAGW_A": [
         {
-            "name": "<:a_grade:1126649781272461413> **Here I Am Gunwoonk**",
+            "name": "<:a_grade:1126649781272461413> **Here I Am Gunwook**",
             "image": "-",
             "theme": "card1",
             "inv": "hereiam",
@@ -1564,15 +1564,465 @@
             "inv": "hereiam",
             "code": "`HIAGW_S`"
         }     
-     ],
-    "HIATW_R": [
+    ],
+    "HIAGW_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Here I Am Gunwook**",
             "image": "-",
             "theme": "card1",
             "inv": "hereiam",
             "code": "`HIAGW_R`"
-        }                              
+        } 
+    ],
+    "HIAYJ_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Here I Am Yujin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "hereiam",
+            "code": "`HIAYJ_C`"
+        }          
+    ],
+    "HIAYJ_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Here I Am Yujin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "hereiam",
+            "code": "`HIAYJ_B`"
+        }               
+    ],
+    "HIAYJ_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Here I Am Yujin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "hereiam",
+            "code": "`HIAYJ_A`"
+        }     
+    ],
+    "HIAYJ_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Here I Am Yujin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "hereiam",
+            "code": "`HIAYJ_S`"
+        }     
+    ],
+    "HIAYJ_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Here I Am Yujin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "hereiam",
+            "code": "`HIAYJ_R`"
+        } 
+    ],
+    "ZBHB_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **ZEROBASE Hanbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "zerobase",
+            "code": "`ZBHB_C`"
+        }          
+    ],
+    "ZBHB_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **ZEROBASE Hanbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "zerobase",
+            "code": "`ZBHB_B`"
+        }               
+    ],
+    "ZBHB_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **ZEROBASE Hanbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "zerobase",
+            "code": "`ZBHB_A`"
+        }     
+    ],
+    "ZBHB_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **ZEROBASE Hanbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "zerobase",
+            "code": "`ZBHB_S`"
+        }     
+    ],
+    "ZBHB_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **ZEROBASE Hanbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "zerobase",
+            "code": "`ZBHB_R`"
+        }             
+    ],
+    "ZBJW_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **ZEROBASE Jiwoong**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "zerobase",
+            "code": "`ZBJW_C`"
+        }          
+    ],
+    "ZBJW_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **ZEROBASE Jiwoong**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "zerobase",
+            "code": "`ZBJW_B`"
+        }               
+    ],
+    "ZBJW_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **ZEROBASE Jiwoong**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "zerobase",
+            "code": "`ZBJW_A`"
+        }     
+    ],
+    "ZBJW_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **ZEROBASE Jiwoong**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "zerobase",
+            "code": "`ZBJW_S`"
+        }     
+    ],
+    "ZBJW_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **ZEROBASE Jiwoong**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "zerobase",
+            "code": "`ZBJW_R`"
+        }             
+    ],
+    "ZBZH_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **ZEROBASE Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "zerobase",
+            "code": "`ZBZH_C`"
+        }          
+    ],
+    "ZBZH_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **ZEROBASE Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "zerobase",
+            "code": "`ZBZH_B`"
+        }               
+    ],
+    "ZBZH_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **ZEROBASE Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "zerobase",
+            "code": "`ZBZH_A`"
+        }     
+    ],
+    "ZBZH_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **ZEROBASE Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "zerobase",
+            "code": "`ZBZH_S`"
+        }     
+    ],
+    "ZBZH_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **ZEROBASE Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "zerobase",
+            "code": "`ZBZH_R`"
+        }             
+    ],
+    "ZBMT_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **ZEROBASE Matthew**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "zerobase",
+            "code": "`ZBMT_C`"
+        }          
+    ],
+    "ZBMT_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **ZEROBASE Matthew**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "zerobase",
+            "code": "`ZBMT_B`"
+        }               
+    ],
+    "ZBMT_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **ZEROBASE Matthew**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "zerobase",
+            "code": "`ZBMT_A`"
+        }     
+    ],
+    "ZBMT_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **ZEROBASE Matthew**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "zerobase",
+            "code": "`ZBMT_S`"
+        }     
+    ],
+    "ZBMT_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **ZEROBASE Matthew**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "zerobase",
+            "code": "`ZBMT_R`"
+        }             
+    ],
+    "ZBTR_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **ZEROBASE Taerae**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "zerobase",
+            "code": "`ZBTR_C`"
+        }          
+    ],
+    "ZBTR_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **ZEROBASE Taerae**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "zerobase",
+            "code": "`ZBTR_B`"
+        }               
+    ],
+    "ZBTR_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **ZEROBASE Taerae**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "zerobase",
+            "code": "`ZBTR_A`"
+        }     
+    ],
+    "ZBTR_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **ZEROBASE Taerae**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "zerobase",
+            "code": "`ZBTR_S`"
+        }     
+    ],
+    "ZBTR_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **ZEROBASE Taerae**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "zerobase",
+            "code": "`ZBTR_R`"
+        }             
+    ],
+    "ZBRC_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **ZEROBASE Ricky**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "zerobase",
+            "code": "`ZBRC_C`"
+        }          
+    ],
+    "ZBRC_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **ZEROBASE Ricky**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "zerobase",
+            "code": "`ZBRC_B`"
+        }               
+    ],
+    "ZBRC_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **ZEROBASE Ricky**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "zerobase",
+            "code": "`ZBRC_A`"
+        }     
+    ],
+    "ZBRC_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **ZEROBASE Ricky**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "zerobase",
+            "code": "`ZBRC_S`"
+        }     
+    ],
+    "ZBRC_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **ZEROBASE Ricky**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "zerobase",
+            "code": "`ZBRC_R`"
+        }             
+    ],
+    "ZBGV_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **ZEROBASE Gyuvin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "zerobase",
+            "code": "`ZBGV_C`"
+        }          
+    ],
+    "ZBGV_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **ZEROBASE Gyuvin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "zerobase",
+            "code": "`ZBGV_B`"
+        }               
+    ],
+    "ZBGV_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **ZEROBASE Gyuvin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "zerobase",
+            "code": "`ZBGV_A`"
+        }     
+    ],
+    "ZBGV_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **ZEROBASE Gyuvin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "zerobase",
+            "code": "`ZBGV_S`"
+        }     
+    ],
+    "ZBGV_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **ZEROBASE Gyuvin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "zerobase",
+            "code": "`ZBGV_R`"
+        }             
+    ],
+    "ZBGW_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **ZEROBASE Gunwook**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "zerobase",
+            "code": "`ZBGW_C`"
+        }          
+    ],
+    "ZBGW_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **ZEROBASE Gunwook**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "zerobase",
+            "code": "`ZBGW_B`"
+        }               
+    ],
+    "ZBGW_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **ZEROBASE Gunwook**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "zerobase",
+            "code": "`ZBGW_A`"
+        }     
+    ],
+    "ZBGW_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **ZEROBASE Gunwook**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "zerobase",
+            "code": "`ZBGW_S`"
+        }     
+    ],
+    "ZBGW_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **ZEROBASE Gunwook**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "zerobase",
+            "code": "`ZBGW_R`"
+        }             
+    ],
+    "ZBYJ_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **ZEROBASE Yujin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "zerobase",
+            "code": "`ZBYJ_C`"
+        }          
+    ],
+    "ZBYJ_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **ZEROBASE Yujin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "zerobase",
+            "code": "`ZBYJ_B`"
+        }               
+    ],
+    "ZBYJ_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **ZEROBASE Yujin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "zerobase",
+            "code": "`ZBYJ_A`"
+        }     
+    ],
+    "ZBYJ_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **ZEROBASE Yujin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "zerobase",
+            "code": "`ZBYJ_S`"
+        }     
+    ],
+    "ZBYJ_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **ZEROBASE Yujin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "zerobase",
+            "code": "`ZBYJ_R`"
+        }                 
     ]
 }
     
