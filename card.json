@@ -2022,7 +2022,412 @@
             "theme": "card1",
             "inv": "zerobase",
             "code": "`ZBYJ_R`"
-        }                 
+        } 
+    ],
+    "SHB_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Shine Hanbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "shine",
+            "code": "`SHB_C`"
+        }          
+    ],
+    "SHB_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Shine Hanbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "shine",
+            "code": "`SHB_B`"
+        }               
+    ],
+    "SHB_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Shine Hanbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "shine",
+            "code": "`SHB_A`"
+        }     
+    ],
+    "SHB_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Shine Hanbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "shine",
+            "code": "`SHB_S`"
+        }     
+    ],
+    "SHB_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Shine Hanbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "shine",
+            "code": "`SHB_R`"
+        } 
+    ],
+    "SJW_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Shine Jiwoong**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "shine",
+            "code": "`SJW_C`"
+        }          
+    ],
+    "SJW_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Shine Jiwoong**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "shine",
+            "code": "`SJW_B`"
+        }               
+    ],
+    "SJW_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Shine Jiwoong**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "shine",
+            "code": "`SJW_A`"
+        }     
+    ],
+    "SJW_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Shine Jiwoong**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "shine",
+            "code": "`SJW_S`"
+        }     
+    ],
+    "SJW_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Shine Jiwoong**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "shine",
+            "code": "`SJW_R`"
+        }  
+     ],
+    "SZH_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Shine Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "shine",
+            "code": "`SZH_C`"
+        }          
+    ],
+    "SZH_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Shine Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "shine",
+            "code": "`SZH_B`"
+        }               
+    ],
+    "SZH_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Shine Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "shine",
+            "code": "`SZH_A`"
+        }     
+    ],
+    "SZH_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Shine Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "shine",
+            "code": "`SZH_S`"
+        }     
+    ],
+    "SZH_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Shine Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "shine",
+            "code": "`SZH_R`"
+        } 
+    ],
+    "SMT_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Shine Matthew**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "shine",
+            "code": "`SMT_C`"
+        }          
+    ],
+    "SMT_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Shine Matthew**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "shine",
+            "code": "`SMT_B`"
+        }               
+    ],
+    "SMT_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Shine Matthew**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "shine",
+            "code": "`SMT_A`"
+        }     
+    ],
+    "SMT_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Shine Matthew**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "shine",
+            "code": "`SMT_S`"
+        }     
+    ],
+    "SMT_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Shine Matthew**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "shine",
+            "code": "`SMT_R`"
+        } 
+    ],
+    "STR_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Shine Taerae**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "shine",
+            "code": "`STR_C`"
+        }          
+    ],
+    "STR_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Shine Taerae**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "shine",
+            "code": "`STR_B`"
+        }               
+    ],
+    "STR_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Shine Taerae**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "shine",
+            "code": "`STR_A`"
+        }     
+    ],
+    "STR_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Shine Taerae**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "shine",
+            "code": "`STR_S`"
+        }     
+    ],
+    "STR_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Shine Taerae**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "shine",
+            "code": "`STR_R`"
+        }  
+    ],
+    "SRC_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Shine Ricky**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "shine",
+            "code": "`SRC_C`"
+        }          
+    ],
+    "SRC_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Shine Ricky**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "shine",
+            "code": "`SRC_B`"
+        }               
+    ],
+    "SRC_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Shine Ricky**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "shine",
+            "code": "`SRC_A`"
+        }     
+    ],
+    "SRC_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Shine Ricky**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "shine",
+            "code": "`SRC_S`"
+        }     
+    ],
+    "SRC_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Shine Ricky**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "shine",
+            "code": "`SRC_R`"
+        }
+    ],
+    "SGV_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Shine Gyuvin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "shine",
+            "code": "`SGV_C`"
+        }          
+    ],
+    "SGV_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Shine Gyuvin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "shine",
+            "code": "`SGV_B`"
+        }               
+    ],
+    "SGV_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Shine Gyuvin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "shine",
+            "code": "`SGV_A`"
+        }     
+    ],
+    "SGV_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Shine Gyuvin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "shine",
+            "code": "`SGV_S`"
+        }     
+    ],
+    "SGV_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Shine Gyuvin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "shine",
+            "code": "`SGV_R`"
+        }        
+    ],
+    "SGW_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Shine Gunwook**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "shine",
+            "code": "`SGW_C`"
+        }          
+    ],
+    "SGW_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Shine Gunwook**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "shine",
+            "code": "`SGW_B`"
+        }               
+    ],
+    "SGW_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Shine Gunwook**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "shine",
+            "code": "`SGW_A`"
+        }     
+    ],
+    "SGW_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Shine Gunwook**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "shine",
+            "code": "`SGW_S`"
+        }     
+    ],
+    "SGW_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Shine Gunwook**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "shine",
+            "code": "`SGW_R`"
+        }  
+     ],
+    "SYJ_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Shine Yujin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "shine",
+            "code": "`SYJ_C`"
+        }          
+    ],
+    "SYJ_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Shine Yujin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "shine",
+            "code": "`SYJ_B`"
+        }               
+    ],
+    "SYJ_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Shine Yujin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "shine",
+            "code": "`SYJ_A`"
+        }     
+    ],
+    "SYJ_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Shine Yujin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "shine",
+            "code": "`SYJ_S`"
+        }     
+    ],
+    "SYJ_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Shine Yujin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "shine",
+            "code": "`SYJ_R`"
+        }                                     
     ]
 }
     
