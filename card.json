@@ -370,7 +370,7 @@
     ],
     "ZB1YJ_C": [
         {
-            "name": "<:c_grade:1126649406230384671> **ZEROBASEONE Yujin",
+            "name": "<:c_grade:1126649406230384671> **ZEROBASEONE Yujin**",
             "image": "https://media.discordapp.net/attachments/1130028532773421076/1130042625345458256/Untitled321_20230716153022.png",
             "theme": "card1",
             "inv": "zerobaseone",
@@ -1212,7 +1212,367 @@
             "theme": "card1",
             "inv": "ourseason",
             "code": "`OSYJ_R`"
-        }        
+        }    
+    ],
+    "HIAHB_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Here I Am Hanbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "hereiam",
+            "code": "`HIAHB_C`"
+        }          
+    ],
+    "HIAHB_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Here I Am Hanbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "hereiam",
+            "code": "`HIAHB_B`"
+        }               
+    ],
+    "HIAHB_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Here I Am Hanbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "hereiam",
+            "code": "`HIAHB_A`"
+        }     
+    ],
+    "HIAHB_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Here I Am Hanbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "hereiam",
+            "code": "`HIAHB_S`"
+        }     
+    ],
+    "HIAHB_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Here I Am Hanbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "hereiam",
+            "code": "`HIAHB_R`"
+        }   
+    ],
+    "HIAJW_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Here I Am Jiwoong**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "hereiam",
+            "code": "`HIAJW_C`"
+        }          
+    ],
+    "HIAJW_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Here I Am Jiwoong**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "hereiam",
+            "code": "`HIAJW_B`"
+        }               
+    ],
+    "HIAJW_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Here I Am Jiwoong**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "hereiam",
+            "code": "`HIAJW_A`"
+        }     
+    ],
+    "HIAJW_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Here I Am Jiwoong**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "hereiam",
+            "code": "`HIAJW_S`"
+        }     
+    ],
+    "HIAJW_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Here I Am Jiwoong**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "hereiam",
+            "code": "`HIAJW_R`"
+        }  
+    ],
+    "HIAZH_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Here I Am Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "hereiam",
+            "code": "`HIAZH_C`"
+        }          
+    ],
+    "HIAZH_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Here I Am Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "hereiam",
+            "code": "`HIAZH_B`"
+        }               
+    ],
+    "HIAZH_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Here I Am Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "hereiam",
+            "code": "`HIAZH_A`"
+        }     
+    ],
+    "HIAZH_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Here I Am Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "hereiam",
+            "code": "`HIAZH_S`"
+        }     
+    ],
+    "HIAZH_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Here I Am Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "hereiam",
+            "code": "`HIAZH_R`"
+        } 
+    ],
+    "HIAMT_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Here I Am Matthew**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "hereiam",
+            "code": "`HIAMT_C`"
+        }          
+    ],
+    "HIAMT_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Here I Am Matthew**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "hereiam",
+            "code": "`HIAMT_B`"
+        }               
+    ],
+    "HIAMT_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Here I Am Matthew**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "hereiam",
+            "code": "`HIAMT_A`"
+        }     
+    ],
+    "HIAMT_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Here I Am Matthew**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "hereiam",
+            "code": "`HIAMT_S`"
+        }     
+    ],
+    "HIAMT_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Here I Am Matthew**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "hereiam",
+            "code": "`HIAMT_R`"
+        } 
+    ],
+    "HIATR_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Here I Am Taerae**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "hereiam",
+            "code": "`HIATR_C`"
+        }          
+    ],
+    "HIATR_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Here I Am Taerae**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "hereiam",
+            "code": "`HIATR_B`"
+        }               
+    ],
+    "HIATR_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Here I Am Taerae**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "hereiam",
+            "code": "`HIATR_A`"
+        }     
+    ],
+    "HIATR_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Here I Am Taerae**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "hereiam",
+            "code": "`HIATR_S`"
+        }     
+    ],
+    "HIATR_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Here I Am Taerae**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "hereiam",
+            "code": "`HIATR_R`"
+        } 
+    ],
+    "HIARC_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Here I Am Ricky**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "hereiam",
+            "code": "`HIARC_C`"
+        }          
+    ],
+    "HIARC_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Here I Am Ricky**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "hereiam",
+            "code": "`HIARC_B`"
+        }               
+    ],
+    "HIARC_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Here I Am Ricky**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "hereiam",
+            "code": "`HIARC_A`"
+        }     
+    ],
+    "HIARC_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Here I Am Ricky**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "hereiam",
+            "code": "`HIARC_S`"
+        }     
+    ],
+    "HIARC_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Here I Am Ricky**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "hereiam",
+            "code": "`HIARC_R`"
+        }   
+    ],
+    "HIAGV_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Here I Am Gyuvin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "hereiam",
+            "code": "`HIAGV_C`"
+        }          
+    ],
+    "HIAGV_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Here I Am Gyuvin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "hereiam",
+            "code": "`HIAGV_B`"
+        }               
+    ],
+    "HIAGV_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Here I Am Gyuvin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "hereiam",
+            "code": "`HIAGV_A`"
+        }     
+    ],
+    "HIAGV_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Here I Am Gyuvin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "hereiam",
+            "code": "`HIAGV_S`"
+        }     
+    ],
+    "HIAGV_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Here I Am Gyuvin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "hereiam",
+            "code": "`HIAGV_R`"
+        }   
+    ],
+    "HIAGW_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Here I Am Gunwook**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "hereiam",
+            "code": "`HIAGW_C`"
+        }          
+    ],
+    "HIAGW_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Here I Am Gunwoonk**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "hereiam",
+            "code": "`HIAGW_B`"
+        }               
+    ],
+    "HIAGW_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Here I Am Gunwoonk**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "hereiam",
+            "code": "`HIAGW_A`"
+        }     
+    ],
+    "HIAGW_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Here I Am Gunwook**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "hereiam",
+            "code": "`HIAGW_S`"
+        }     
+     ],
+    "HIATW_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Here I Am Gunwook**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "hereiam",
+            "code": "`HIAGW_R`"
+        }                              
     ]
 }
     
