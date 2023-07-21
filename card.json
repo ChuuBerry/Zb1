@@ -8,6 +8,186 @@
             "code": "`IBHB_C`"
         }
     ],
+    "HBHB_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Happy Birthday Hanbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "birthday",
+            "code": "`HBHB_C`"
+        }          
+    ],
+    "HBHB_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Happy Birthday Hanbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "birthday",
+            "code": "`HBHB_B`"
+        }               
+    ],
+    "HBHB_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Happy Birthday Hanbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "birthday",
+            "code": "`HBHB_A`"
+        }     
+    ],
+    "HBHB_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Happy Birthday Hanbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "birthday",
+            "code": "`HBHB_S`"
+        }     
+    ],
+    "HBHB_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Happy Birthday Hanbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "birthday",
+            "code": "`HBHB_R`"
+        } 
+    ],
+    "HBMT_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Happy Birthday Matthew**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "birthday",
+            "code": "`HBMT_C`"
+        }          
+    ],
+    "HBMT_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Happy Birthday Matthew**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "birthday",
+            "code": "`HBMT_B`"
+        }               
+    ],
+    "HBMT_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Happy Birthday Matthew**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "birthday",
+            "code": "`HBMT_A`"
+        }     
+    ],
+    "HBMT_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Happy Birthday Matthew**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "birthday",
+            "code": "`HBMT_S`"
+        }     
+    ],
+    "HBMT_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Happy Birthday Matthew**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "birthday",
+            "code": "`HBMT_R`"
+        } 
+    ],
+    "HBTR_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Happy Birthday Taerae**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "birthday",
+            "code": "`HBTR_C`"
+        }          
+    ],
+    "HBTR_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Happy Birthday Taerae**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "birthday",
+            "code": "`HBTR_B`"
+        }               
+    ],
+    "HBTR_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Happy Birthday Taerae**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "birthday",
+            "code": "`HBTT_A`"
+        }     
+    ],
+    "HBTR_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Happy Birthday Taerae**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "birthday",
+            "code": "`HBTR_S`"
+        }     
+    ],
+    "HBTR_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Happy Birthday Taerae**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "birthday",
+            "code": "`HBTR_R`"
+        }   
+    ],
+    "HBRC_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Happy Birthday Ricky**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "birthday",
+            "code": "`HBRC_C`"
+        }          
+    ],
+    "HBRC_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Happy Birthday Ricky**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "birthday",
+            "code": "`HBRC_B`"
+        }               
+    ],
+    "HBRC_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Happy Birthday Ricky**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "birthday",
+            "code": "`HBRC_A`"
+        }     
+    ],
+    "HBRC_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Happy Birthday Ricky**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "birthday",
+            "code": "`HBRC_S`"
+        }     
+    ],
+    "HBRC_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Happy Birthday Ricky**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "birthday",
+            "code": "`HBRC_R`"
+        }                                
+    ],
     "ZB1HB_C": [
         {
             "name": "<:c_grade:1126649406230384671> **ZEROBASEONE Hanbin**",
