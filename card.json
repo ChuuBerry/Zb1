@@ -186,6 +186,186 @@
             "theme": "card1",
             "inv": "birthday",
             "code": "`HBRC_R`"
+        }  
+    ],
+    "BDHB_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **June 13th Hanbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "birthdate",
+            "code": "`BDHB_C`"
+        }          
+    ],
+    "BDHB_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **June 13th Hanbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "birthdate",
+            "code": "`BDHB_B`"
+        }               
+    ],
+    "BDHB_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **June 13th Hanbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "birthdate",
+            "code": "`BDHB_A`"
+        }     
+    ],
+    "BDHB_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **June 13th Hanbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "birthdate",
+            "code": "`BDHB_S`"
+        }     
+    ],
+    "BDHB_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **June 13th Hanbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "birthdate",
+            "code": "`BDHB_R`"
+        }   
+    ],
+    "BDMT_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **May 28th Matthew**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "birthdate",
+            "code": "`BDMT_C`"
+        }          
+    ],
+    "BDMT_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **May 28th Matthew**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "birthdate",
+            "code": "`BDMT_B`"
+        }               
+    ],
+    "BDMT_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **May 28th Matthew**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "birthdate",
+            "code": "`BDMT_A`"
+        }     
+    ],
+    "BDMT_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **May 28th Matthew**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "birthdate",
+            "code": "`BDMT_S`"
+        }     
+    ],
+    "BDMT_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **May 28th Matthew**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "birthdate",
+            "code": "`BDMT_R`"
+        }    
+     ],
+    "BDTR_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **July 14th Taerae**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "birthdate",
+            "code": "`BDTR_C`"
+        }          
+    ],
+    "BDTR_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **July 14th Taerae**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "birthdate",
+            "code": "`BDTR_B`"
+        }               
+    ],
+    "BDTR_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **July 14th Taerae**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "birthdate",
+            "code": "`BDTR_A`"
+        }     
+    ],
+    "BDTR_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **July 14th Taerae**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "birthdate",
+            "code": "`BDTR_S`"
+        }     
+    ],
+    "BDTR_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **July 14th Taerae**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "birthdate",
+            "code": "`BDTR_R`"
+        } 
+     ],
+    "BDRC_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **May 20th Ricky**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "birthdate",
+            "code": "`BDRC_C`"
+        }          
+    ],
+    "BDRC_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **May 20th Ricky**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "birthdate",
+            "code": "`BDRC_B`"
+        }               
+    ],
+    "BDRC_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **May 20th Ricky**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "birthdate",
+            "code": "`BDRC_A`"
+        }     
+    ],
+    "BDRC_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **May 20th Ricky**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "birthdate",
+            "code": "`BDRC_S`"
+        }     
+    ],
+    "BDRC_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **May 20th Ricky**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "birthdate",
+            "code": "`BDRC_R`"
         }                                
     ],
     "ZB1HB_C": [
