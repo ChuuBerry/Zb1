@@ -11,7 +11,7 @@
     "SRHB_C": [
         {
             "name": "<:c_grade:1126649406230384671> **SSZB1 Release Hanbin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1132342164676948018/1132342478125666334/Untitled321_20230723000147.png",
             "theme": "card1",
             "inv": "sszb1release",
             "code": "`SRHB_C`"
@@ -20,7 +20,7 @@
     "SRHB_B": [
         {
             "name": "<:b_grade:1126649508089057352> **SSZB1 Release Hanbin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1132342164676948018/1132342478440251422/Untitled321_20230723000150.png",
             "theme": "card1",
             "inv": "sszb1release",
             "code": "`SRHB_B`"
@@ -29,7 +29,7 @@
     "SRHB_A": [
         {
             "name": "<:a_grade:1126649781272461413> **SSZB1 Release Hanbin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1132342164676948018/1132342478700294204/Untitled321_20230723000153.png",
             "theme": "card1",
             "inv": "sszb1release",
             "code": "`SRHB_A`"
@@ -38,7 +38,7 @@
     "SRHB_S": [
         {
             "name": "<:s_grade:1126649890148196504> **SSZB1 Release Hanbin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1132342164676948018/1132342478968721559/Untitled321_20230723000156.png",
             "theme": "card1",
             "inv": "sszb1release",
             "code": "`SRHB_S`"
@@ -47,7 +47,7 @@
     "SRHB_R": [
         {
             "name": "<:r_grade:1126649980296380457> **SSZB1 Release Hanbin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1132342164676948018/1132342479304278197/Untitled321_20230723000159.png",
             "theme": "card1",
             "inv": "sszb1release",
             "code": "`SRHB_R`"
@@ -56,7 +56,7 @@
     "SRJW_C": [
         {
             "name": "<:c_grade:1126649406230384671> **SSZB1 Release Jiwoong**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1132342164676948018/1132342715837861989/Untitled321_20230723000123.png",
             "theme": "card1",
             "inv": "sszb1release",
             "code": "`SRJW_C`"
@@ -65,7 +65,7 @@
     "SRJW_B": [
         {
             "name": "<:b_grade:1126649508089057352> **SSZB1 Release Jiwoong**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1132342164676948018/1132342716194369626/Untitled321_20230723000126.png",
             "theme": "card1",
             "inv": "sszb1release",
             "code": "`SRJW_B`"
@@ -74,7 +74,7 @@
     "SRJW_A": [
         {
             "name": "<:a_grade:1126649781272461413> **SSZB1 Release Jiwoong**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1132342164676948018/1132342716597030912/Untitled321_20230723000129.png",
             "theme": "card1",
             "inv": "sszb1release",
             "code": "`SRJW_A`"
@@ -83,7 +83,7 @@
     "SRJW_S": [
         {
             "name": "<:s_grade:1126649890148196504> **SSZB1 Release Jiwoong**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1132342164676948018/1132342716907401247/Untitled321_20230723000131.png",
             "theme": "card1",
             "inv": "sszb1release",
             "code": "`SRJW_S`"
@@ -92,7 +92,7 @@
     "SRJW_R": [
         {
             "name": "<:r_grade:1126649980296380457> **SSZB1 Release Jiwoong**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1132342164676948018/1132342717339406446/Untitled321_20230723000134.png",
             "theme": "card1",
             "inv": "sszb1release",
             "code": "`SRJW_R`"
@@ -101,7 +101,7 @@
     "SRZH_C": [
         {
             "name": "<:c_grade:1126649406230384671> **SSZB1 Release Zhang Hao**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1132342164676948018/1132342902144635060/Untitled321_20230723000059.png",
             "theme": "card1",
             "inv": "sszb1release",
             "code": "`SRZH_C`"
@@ -110,7 +110,7 @@
     "SRZH_B": [
         {
             "name": "<:b_grade:1126649508089057352> **SSZB1 Release Zhang Hao**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1132342164676948018/1132342902434054235/Untitled321_20230723000102.png",
             "theme": "card1",
             "inv": "sszb1release",
             "code": "`SRZH_B`"
@@ -119,7 +119,7 @@
     "SRZH_A": [
         {
             "name": "<:a_grade:1126649781272461413> **SSZB1 Release Zhang Hao**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1132342164676948018/1132342902689890354/Untitled321_20230723000105.png",
             "theme": "card1",
             "inv": "sszb1release",
             "code": "`SRZH_A`"
@@ -128,7 +128,7 @@
     "SRZH_S": [
         {
             "name": "<:s_grade:1126649890148196504> **SSZB1 Release Zhang Hao**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1132342164676948018/1132342903130296380/Untitled321_20230723000109.png",
             "theme": "card1",
             "inv": "sszb1release",
             "code": "`SRZH_S`"
@@ -137,7 +137,7 @@
     "SRZH_R": [
         {
             "name": "<:r_grade:1126649980296380457> **SSZB1 Release Zhang Hao**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1132342164676948018/1132342903587471440/Untitled321_20230723000111.png",
             "theme": "card1",
             "inv": "sszb1release",
             "code": "`SRZH_R`"
@@ -146,7 +146,7 @@
     "SRMT_C": [
         {
             "name": "<:c_grade:1126649406230384671> **SSZB1 Release Matthew**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1132342164676948018/1132343113097166928/Untitled321_20230723000032.png",
             "theme": "card1",
             "inv": "sszb1release",
             "code": "`SRMT_C`"
@@ -155,7 +155,7 @@
     "SRMT_B": [
         {
             "name": "<:b_grade:1126649508089057352> **SSZB1 Release Matthew**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1132342164676948018/1132343113487229058/Untitled321_20230723000036.png",
             "theme": "card1",
             "inv": "sszb1release",
             "code": "`SRMT_B`"
@@ -164,7 +164,7 @@
     "SRMT_A": [
         {
             "name": "<:a_grade:1126649781272461413> **SSZB1 Release Matthew**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1132342164676948018/1132343113768255568/Untitled321_20230723000039.png",
             "theme": "card1",
             "inv": "sszb1release",
             "code": "`SRMT_A`"
@@ -173,7 +173,7 @@
     "SRMT_S": [
         {
             "name": "<:s_grade:1126649890148196504> **SSZB1 Release Matthew**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1132342164676948018/1132343114107985950/Untitled321_20230723000042.png",
             "theme": "card1",
             "inv": "sszb1release",
             "code": "`SRMT_S`"
@@ -182,7 +182,7 @@
     "SRMT_R": [
         {
             "name": "<:r_grade:1126649980296380457> **SSZB1 Release Matthew**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1132342164676948018/1132343114342875296/Untitled321_20230723000047.png",
             "theme": "card1",
             "inv": "sszb1release",
             "code": "`SRMT_R`"
@@ -191,7 +191,7 @@
     "SRTR_C": [
         {
             "name": "<:c_grade:1126649406230384671> **SSZB1 Release Taerae**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1132342164676948018/1132343302197366856/Untitled321_20230723000011.png",
             "theme": "card1",
             "inv": "sszb1release",
             "code": "`SRTR_C`"
@@ -200,7 +200,7 @@
     "SRTR_B": [
         {
             "name": "<:b_grade:1126649508089057352> **SSZB1 Release Taerae**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1132342164676948018/1132343302579032164/Untitled321_20230723000014.png",
             "theme": "card1",
             "inv": "sszb1release",
             "code": "`SRTR_B`"
@@ -209,7 +209,7 @@
     "SRTR_A": [
         {
             "name": "<:a_grade:1126649781272461413> **SSZB1 Release Taerae**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1132342164676948018/1132343303036219524/Untitled321_20230723000016.png",
             "theme": "card1",
             "inv": "sszb1release",
             "code": "`SRTR_A`"
@@ -218,7 +218,7 @@
     "SRTR_S": [
         {
             "name": "<:s_grade:1126649890148196504> **SSZB1 Release Taerae**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1132342164676948018/1132343303606636584/Untitled321_20230723000019.png",
             "theme": "card1",
             "inv": "sszb1release",
             "code": "`SRTR_S`"
@@ -227,7 +227,7 @@
     "SRTR_R": [
         {
             "name": "<:r_grade:1126649980296380457> **SSZB1 Release Taerae**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1132342164676948018/1132343303942189268/Untitled321_20230723000022.png",
             "theme": "card1",
             "inv": "sszb1release",
             "code": "`SRTR_R`"
@@ -236,7 +236,7 @@
     "SRRC_C": [
         {
             "name": "<:c_grade:1126649406230384671> **SSZB1 Release Ricky**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1132342164676948018/1132343480723718225/Untitled321_20230722235947.png",
             "theme": "card1",
             "inv": "sszb1release",
             "code": "`SRRC_C`"
@@ -245,7 +245,7 @@
     "SRRC_B": [
         {
             "name": "<:b_grade:1126649508089057352> **SSZB1 Release Ricky**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1132342164676948018/1132343481059266680/Untitled321_20230722235950.png",
             "theme": "card1",
             "inv": "sszb1release",
             "code": "`SRRC_B`"
@@ -254,7 +254,7 @@
     "SRRC_A": [
         {
             "name": "<:a_grade:1126649781272461413> **SSZB1 Release Ricky**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1132342164676948018/1132343481352851507/Untitled321_20230722235953.png",
             "theme": "card1",
             "inv": "sszb1release",
             "code": "`SRRC_A`"
@@ -263,7 +263,7 @@
     "SRRC_S": [
         {
             "name": "<:s_grade:1126649890148196504> **SSZB1 Release Ricky**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1132342164676948018/1132343481692602479/Untitled321_20230722235956.png",
             "theme": "card1",
             "inv": "sszb1release",
             "code": "`SRRC_S`"
@@ -272,7 +272,7 @@
     "SRRC_R": [
         {
             "name": "<:r_grade:1126649980296380457> **SSZB1 Release Ricky**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1132342164676948018/1132343481969430540/Untitled321_20230722235959.png",
             "theme": "card1",
             "inv": "sszb1release",
             "code": "`SRRC_R`"
@@ -281,7 +281,7 @@
     "SRGV_C": [
         {
             "name": "<:c_grade:1126649406230384671> **SSZB1 Release Gyuvin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1132342164676948018/1132343675901456414/Untitled321_20230722235925.png",
             "theme": "card1",
             "inv": "sszb1release",
             "code": "`SRGV_C`"
@@ -290,7 +290,7 @@
     "SRGV_B": [
         {
             "name": "<:b_grade:1126649508089057352> **SSZB1 Release Gyuvin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1132342164676948018/1132343676182478939/Untitled321_20230722235927.png",
             "theme": "card1",
             "inv": "sszb1release",
             "code": "`SRGV_B`"
@@ -299,7 +299,7 @@
     "SRGV_A": [
         {
             "name": "<:a_grade:1126649781272461413> **SSZB1 Release Gyuvin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1132342164676948018/1132343676425744504/Untitled321_20230722235930.png",
             "theme": "card1",
             "inv": "sszb1release",
             "code": "`SRGV_A`"
@@ -308,7 +308,7 @@
     "SRGV_S": [
         {
             "name": "<:s_grade:1126649890148196504> **SSZB1 Release Gyuvin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1132342164676948018/1132343676652240926/Untitled321_20230722235933.png",
             "theme": "card1",
             "inv": "sszb1release",
             "code": "`SRGV_S`"
@@ -317,7 +317,7 @@
     "SRGV_R": [
         {
             "name": "<:r_grade:1126649980296380457> **SSZB1 Release Gyuvin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1132342164676948018/1132343676899700796/Untitled321_20230722235936.png",
             "theme": "card1",
             "inv": "sszb1release",
             "code": "`SRGV_R`"
@@ -326,7 +326,7 @@
     "SRGW_C": [
         {
             "name": "<:c_grade:1126649406230384671> **SSZB1 Release Gunwook**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1132342164676948018/1132343883666292818/Untitled321_20230722235902.png",
             "theme": "card1",
             "inv": "sszb1release",
             "code": "`SRGW_C`"
@@ -335,7 +335,7 @@
     "SRGW_B": [
         {
             "name": "<:b_grade:1126649508089057352> **SSZB1 Release Gunwook**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1132342164676948018/1132343883943120917/Untitled321_20230722235905.png",
             "theme": "card1",
             "inv": "sszb1release",
             "code": "`SRGW_B`"
@@ -344,7 +344,7 @@
     "SRGW_A": [
         {
             "name": "<:a_grade:1126649781272461413> **SSZB1 Release Gunwook**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1132342164676948018/1132343884341583963/Untitled321_20230722235908.png",
             "theme": "card1",
             "inv": "sszb1release",
             "code": "`SRGW_A`"
@@ -353,7 +353,7 @@
     "SRGW_S": [
         {
             "name": "<:s_grade:1126649890148196504> **SSZB1 Release Gunwook**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1132342164676948018/1132343884630986863/Untitled321_20230722235910.png",
             "theme": "card1",
             "inv": "sszb1release",
             "code": "`SRGW_S`"
@@ -362,7 +362,7 @@
     "SRGW_R": [
         {
             "name": "<:r_grade:1126649980296380457> **SSZB1 Release Gunwook**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1132342164676948018/1132343884928786592/Untitled321_20230722235913.png",
             "theme": "card1",
             "inv": "sszb1release",
             "code": "`SRGW_R`"
@@ -371,7 +371,7 @@
     "SRYJ_C": [
         {
             "name": "<:c_grade:1126649406230384671> **SSZB1 Release Yujin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1132342164676948018/1132344077740949585/Untitled321_20230722235833.png",
             "theme": "card1",
             "inv": "sszb1release",
             "code": "`SRYJ_C`"
@@ -380,7 +380,7 @@
     "SRYJ_B": [
         {
             "name": "<:b_grade:1126649508089057352> **SSZB1 Release Yujin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1132342164676948018/1132344077996789861/Untitled321_20230722235836.png",
             "theme": "card1",
             "inv": "sszb1release",
             "code": "`SRYJ_B`"
@@ -389,7 +389,7 @@
     "SRYJ_A": [
         {
             "name": "<:a_grade:1126649781272461413> **SSZB1 Release Yujin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1132342164676948018/1132344078273618061/Untitled321_20230722235840.png",
             "theme": "card1",
             "inv": "sszb1release",
             "code": "`SRYJ_A`"
@@ -398,7 +398,7 @@
     "SRYJ_S": [
         {
             "name": "<:s_grade:1126649890148196504> **SSZB1 Release Yujin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1132342164676948018/1132344078533673030/Untitled321_20230722235842.png",
             "theme": "card1",
             "inv": "sszb1release",
             "code": "`SRYJ_S`"
@@ -407,7 +407,7 @@
     "SRYJ_R": [
         {
             "name": "<:r_grade:1126649980296380457> **SSZB1 Release Yujin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1132342164676948018/1132344078789513246/Untitled321_20230722235845.png",
             "theme": "card1",
             "inv": "sszb1release",
             "code": "`SRYJ_R`"
