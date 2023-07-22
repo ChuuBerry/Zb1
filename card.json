@@ -8,6 +8,411 @@
             "code": "`IBHB_C`"
         }
     ],
+    "SRHB_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **SSZB1 Release Hanbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "sszb1release",
+            "code": "`SRHB_C`"
+        }          
+    ],
+    "SRHB_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **SSZB1 Release Hanbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "sszb1release",
+            "code": "`SRHB_B`"
+        }               
+    ],
+    "SRHB_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **SSZB1 Release Hanbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "sszb1release",
+            "code": "`SRHB_A`"
+        }     
+    ],
+    "SRHB_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **SSZB1 Release Hanbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "sszb1release",
+            "code": "`SRHB_S`"
+        }     
+    ],
+    "SRHB_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **SSZB1 Release Hanbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "sszb1release",
+            "code": "`SRHB_R`"
+        }   
+    ],
+    "SRJW_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **SSZB1 Release Jiwoong**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "sszb1release",
+            "code": "`SRJW_C`"
+        }          
+    ],
+    "SRJW_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **SSZB1 Release Jiwoong**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "sszb1release",
+            "code": "`SRJW_B`"
+        }               
+    ],
+    "SRJW_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **SSZB1 Release Jiwoong**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "sszb1release",
+            "code": "`SRJW_A`"
+        }     
+    ],
+    "SRJW_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **SSZB1 Release Jiwoong**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "sszb1release",
+            "code": "`SRJW_S`"
+        }     
+    ],
+    "SRJW_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **SSZB1 Release Jiwoong**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "sszb1release",
+            "code": "`SRJW_R`"
+        }  
+    ],
+    "SRZH_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **SSZB1 Release Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "sszb1release",
+            "code": "`SRZH_C`"
+        }          
+    ],
+    "SRZH_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **SSZB1 Release Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "sszb1release",
+            "code": "`SRZH_B`"
+        }               
+    ],
+    "SRZH_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **SSZB1 Release Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "sszb1release",
+            "code": "`SRZH_A`"
+        }     
+    ],
+    "SRZH_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **SSZB1 Release Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "sszb1release",
+            "code": "`SRZH_S`"
+        }     
+    ],
+    "SRZH_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **SSZB1 Release Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "sszb1release",
+            "code": "`SRZH_R`"
+        }    
+    ],
+    "SRMT_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **SSZB1 Release Matthew**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "sszb1release",
+            "code": "`SRMT_C`"
+        }          
+    ],
+    "SRMT_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **SSZB1 Release Matthew**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "sszb1release",
+            "code": "`SRMT_B`"
+        }               
+    ],
+    "SRMT_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **SSZB1 Release Matthew**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "sszb1release",
+            "code": "`SRMT_A`"
+        }     
+    ],
+    "SRMT_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **SSZB1 Release Matthew**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "sszb1release",
+            "code": "`SRMT_S`"
+        }     
+    ],
+    "SRMT_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **SSZB1 Release Matthew**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "sszb1release",
+            "code": "`SRMT_R`"
+        }  
+    ],
+    "SRTR_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **SSZB1 Release Taerae**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "sszb1release",
+            "code": "`SRTR_C`"
+        }          
+    ],
+    "SRTR_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **SSZB1 Release Taerae**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "sszb1release",
+            "code": "`SRTR_B`"
+        }               
+    ],
+    "SRTR_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **SSZB1 Release Taerae**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "sszb1release",
+            "code": "`SRTR_A`"
+        }     
+    ],
+    "SRTR_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **SSZB1 Release Taerae**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "sszb1release",
+            "code": "`SRTR_S`"
+        }     
+    ],
+    "SRTR_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **SSZB1 Release Taerae**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "sszb1release",
+            "code": "`SRTR_R`"
+        } 
+    ],
+    "SRRC_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **SSZB1 Release Ricky**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "sszb1release",
+            "code": "`SRRC_C`"
+        }          
+    ],
+    "SRRC_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **SSZB1 Release Ricky**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "sszb1release",
+            "code": "`SRRC_B`"
+        }               
+    ],
+    "SRRC_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **SSZB1 Release Ricky**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "sszb1release",
+            "code": "`SRRC_A`"
+        }     
+    ],
+    "SRRC_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **SSZB1 Release Ricky**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "sszb1release",
+            "code": "`SRRC_S`"
+        }     
+    ],
+    "SRRC_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **SSZB1 Release Ricky**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "sszb1release",
+            "code": "`SRRC_R`"
+        }   
+    ],
+    "SRGV_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **SSZB1 Release Gyuvin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "sszb1release",
+            "code": "`SRGV_C`"
+        }          
+    ],
+    "SRGV_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **SSZB1 Release Gyuvin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "sszb1release",
+            "code": "`SRGV_B`"
+        }               
+    ],
+    "SRGV_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **SSZB1 Release Gyuvin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "sszb1release",
+            "code": "`SRGV_A`"
+        }     
+    ],
+    "SRGV_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **SSZB1 Release Gyuvin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "sszb1release",
+            "code": "`SRGV_S`"
+        }     
+    ],
+    "SRGV_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **SSZB1 Release Gyuvin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "sszb1release",
+            "code": "`SRGV_R`"
+        }   
+    ],
+    "SRGW_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **SSZB1 Release Gunwook**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "sszb1release",
+            "code": "`SRGW_C`"
+        }          
+    ],
+    "SRGW_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **SSZB1 Release Gunwook**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "sszb1release",
+            "code": "`SRGW_B`"
+        }               
+    ],
+    "SRGW_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **SSZB1 Release Gunwook**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "sszb1release",
+            "code": "`SRGW_A`"
+        }     
+    ],
+    "SRGW_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **SSZB1 Release Gunwook**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "sszb1release",
+            "code": "`SRGW_S`"
+        }     
+    ],
+    "SRGW_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **SSZB1 Release Gunwook**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "sszb1release",
+            "code": "`SRGW_R`"
+        }  
+    ],
+    "SRYJ_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **SSZB1 Release Yujin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "sszb1release",
+            "code": "`SRYJ_C`"
+        }          
+    ],
+    "SRYJ_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **SSZB1 Release Yujin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "sszb1release",
+            "code": "`SRYJ_B`"
+        }               
+    ],
+    "SRYJ_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **SSZB1 Release Yujin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "sszb1release",
+            "code": "`SRYJ_A`"
+        }     
+    ],
+    "SRYJ_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **SSZB1 Release Yujin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "sszb1release",
+            "code": "`SRYJ_S`"
+        }     
+    ],
+    "SRYJ_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **SSZB1 Release Yujin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "sszb1release",
+            "code": "`SRYJ_R`"
+        }                                        
+    ],
     "HBHB_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Happy Birthday Hanbin**",
