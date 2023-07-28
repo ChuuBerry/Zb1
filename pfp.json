@@ -123,6 +123,13 @@
             "name": "**Our Season Yujin Limited PFP**",
             "image": "https://media.discordapp.net/attachments/1131049928324554823/1131994762384261220/Untitled444_20230722010237.png",
             "code": "`OSYJ_PFP`"
-        }               
+        }
+    ],
+    "HBZH_PFP": [
+        {
+            "name": "**Happy Birthday Zhang Hao Limited PFP**",
+            "image": "https://media.discordapp.net/attachments/1131049928324554823/1134498401480876154/Untitled444_20230728225107.png",
+            "code": "`HBZH_PFP`"
+        }    
     ]
 }
