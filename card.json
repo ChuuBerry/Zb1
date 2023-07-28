@@ -188,6 +188,231 @@
             "code": "`AWMT_R`"
         }  
     ],
+    "AWTR_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Always Taerae**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "always",
+            "code": "`AWTR_C`"
+        }          
+    ],
+    "AWTR_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Always Taerae**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "always",
+            "code": "`AWTR_B`"
+        }               
+    ],
+    "AWTR_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Always Taerae**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "always",
+            "code": "`AWTR_A`"
+        }     
+    ],
+    "AWTR_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Always Taerae**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "always",
+            "code": "`AWTR_S`"
+        }     
+    ],
+    "AWTR_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Always Taerae**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "always",
+            "code": "`AWTR_R`"
+        }    
+    ],
+    "AWRC_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Always Ricky**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "always",
+            "code": "`AWRC_C`"
+        }          
+    ],
+    "AWRC_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Always Ricky**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "always",
+            "code": "`AWRC_B`"
+        }               
+    ],
+    "AWRC_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Always Ricky**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "always",
+            "code": "`AWRC_A`"
+        }     
+    ],
+    "AWRC_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Always Ricky**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "always",
+            "code": "`AWRC_S`"
+        }     
+    ],
+    "AWRC_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Always Ricky**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "always",
+            "code": "`AWRC_R`"
+        }  
+    ],
+    "AWGV_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Always Gyuvin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "always",
+            "code": "`AWGV_C`"
+        }          
+    ],
+    "AWGV_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Always Gyuvin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "always",
+            "code": "`AWGV_B`"
+        }               
+    ],
+    "AWGV_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Always Gyuvin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "always",
+            "code": "`AWGV_A`"
+        }     
+    ],
+    "AWGV_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Always Gyuvin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "always",
+            "code": "`AWGV_S`"
+        }     
+    ],
+    "AWGV_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Always Gyuvin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "always",
+            "code": "`AWGV_R`"
+        } 
+    ],
+    "AWGW_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Always Gunwook**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "always",
+            "code": "`AWGW_C`"
+        }          
+    ],
+    "AWGW_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Always Gunwook**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "always",
+            "code": "`AWGW_B`"
+        }               
+    ],
+    "AWGW_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Always Gunwook**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "always",
+            "code": "`AWGW_A`"
+        }     
+    ],
+    "AWGW_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Always Gunwook**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "always",
+            "code": "`AWGW_S`"
+        }     
+    ],
+    "AWGW_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Always Gunwook**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "always",
+            "code": "`AWGW_R`"
+        }    
+    ],
+    "AWYJ_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Always Yujin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "always",
+            "code": "`AWYJ_C`"
+        }          
+    ],
+    "AWYJ_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Always Yujin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "always",
+            "code": "`AWYJ_B`"
+        }               
+    ],
+    "AWYJ_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Always Yujin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "always",
+            "code": "`AWYJ_A`"
+        }     
+    ],
+    "AWYJ_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Always Yujin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "always",
+            "code": "`AWYJ_S`"
+        }     
+    ],
+    "AWYJ_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Always Yujin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "always",
+            "code": "`AWYJ_R`"
+        }    
+    ],
     "BDZH_C": [
         {
             "name": "<:c_grade:1126649406230384671> **July 25th Zhang Hao**",
