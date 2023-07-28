@@ -8,6 +8,96 @@
             "code": "`IBHB_C`"
         }
     ],
+    "BDZH_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **July 25th Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "birthday",
+            "code": "`BDZH_C`"
+        }          
+    ],
+    "BDZH_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **July 25th Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "birthday",
+            "code": "`BDZH_B`"
+        }               
+    ],
+    "BDZH_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **July 25th Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "birthday",
+            "code": "`BDZH_A`"
+        }     
+    ],
+    "BDZH_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **July 25th Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "birthday",
+            "code": "`BDZH_S`"
+        }     
+    ],
+    "BDZH_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **July 25th Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "birthday",
+            "code": "`BDZH_R`"
+        }         
+    ],
+    "HBZH_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Happy Birthday Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "birthday",
+            "code": "`HBZH_C`"
+        }          
+    ],
+    "HBZH_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Happy Birthday Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "birthday",
+            "code": "`HBZH_B`"
+        }               
+    ],
+    "HBZH_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Happy Birthday Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "birthday",
+            "code": "`HBZH_A`"
+        }     
+    ],
+    "HBZH_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Happy Birthday Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "birthday",
+            "code": "`HBZH_S`"
+        }     
+    ],
+    "HBZH_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Happy Birthday Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "birthday",
+            "code": "`HBZH_R`"
+        }         
+    ],
     "SRHB_C": [
         {
             "name": "<:c_grade:1126649406230384671> **SSZB1 Release Hanbin**",
