@@ -11,52 +11,52 @@
     "BDZH_C": [
         {
             "name": "<:c_grade:1126649406230384671> **July 25th Zhang Hao**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130444105919516744/1134088091347456061/Untitled321_20230727193928.png",
             "theme": "card1",
-            "inv": "birthday",
+            "inv": "birthdatr",
             "code": "`BDZH_C`"
         }          
     ],
     "BDZH_B": [
         {
             "name": "<:b_grade:1126649508089057352> **July 25th Zhang Hao**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130444105919516744/1134088091611705354/Untitled321_20230727193932.png",
             "theme": "card1",
-            "inv": "birthday",
+            "inv": "birthdate",
             "code": "`BDZH_B`"
         }               
     ],
     "BDZH_A": [
         {
             "name": "<:a_grade:1126649781272461413> **July 25th Zhang Hao**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130444105919516744/1134088091846582292/Untitled321_20230727193936.png",
             "theme": "card1",
-            "inv": "birthday",
+            "inv": "birthdatr",
             "code": "`BDZH_A`"
         }     
     ],
     "BDZH_S": [
         {
             "name": "<:s_grade:1126649890148196504> **July 25th Zhang Hao**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130444105919516744/1134088092228259880/Untitled321_20230727193940.png",
             "theme": "card1",
-            "inv": "birthday",
+            "inv": "birthdate",
             "code": "`BDZH_S`"
         }     
     ],
     "BDZH_R": [
         {
             "name": "<:r_grade:1126649980296380457> **July 25th Zhang Hao**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130444105919516744/1134088092500897812/Untitled321_20230727193943.png",
             "theme": "card1",
-            "inv": "birthday",
+            "inv": "birthdate",
             "code": "`BDZH_R`"
         }         
     ],
     "HBZH_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Happy Birthday Zhang Hao**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130444105919516744/1134088064143196260/Untitled321_20230727193957.png",
             "theme": "card1",
             "inv": "birthday",
             "code": "`HBZH_C`"
@@ -65,7 +65,7 @@
     "HBZH_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Happy Birthday Zhang Hao**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130444105919516744/1134088064587796641/Untitled321_20230727194000.png",
             "theme": "card1",
             "inv": "birthday",
             "code": "`HBZH_B`"
@@ -74,7 +74,7 @@
     "HBZH_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Happy Birthday Zhang Hao**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130444105919516744/1134088064986267719/Untitled321_20230727194003.png",
             "theme": "card1",
             "inv": "birthday",
             "code": "`HBZH_A`"
@@ -83,7 +83,7 @@
     "HBZH_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Happy Birthday Zhang Hao**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130444105919516744/1134088065237909575/Untitled321_20230727194006.png",
             "theme": "card1",
             "inv": "birthday",
             "code": "`HBZH_S`"
@@ -92,7 +92,7 @@
     "HBZH_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Happy Birthday Zhang Hao**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130444105919516744/1134088065510543461/Untitled321_20230727194009.png",
             "theme": "card1",
             "inv": "birthday",
             "code": "`HBZH_R`"
