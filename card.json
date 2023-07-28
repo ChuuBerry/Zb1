@@ -8,6 +8,186 @@
             "code": "`IBHB_C`"
         }
     ],
+    "AWHB_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Always Hanbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "always",
+            "code": "`AWHB_C`"
+        }          
+    ],
+    "AWHB_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Always Hanbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "always",
+            "code": "`AWHB_B`"
+        }               
+    ],
+    "AWHB_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Always Hanbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "always",
+            "code": "`AWHB_A`"
+        }     
+    ],
+    "AWHB_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Always Hanbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "always",
+            "code": "`AWHB_S`"
+        }     
+    ],
+    "AWHB_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Always Hanbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "always",
+            "code": "`AWHB_R`"
+        }  
+    ],
+    "AWJW_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Always Jiwoong**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "always",
+            "code": "`AWJW_C`"
+        }          
+    ],
+    "AWJW_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Always Jiwoonh**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "always",
+            "code": "`AWJW_B`"
+        }               
+    ],
+    "AWJW_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Always Jiwoong**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "always",
+            "code": "`AWJW_A`"
+        }     
+    ],
+    "AWJW_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Always Jiwoong**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "always",
+            "code": "`AWJW_S`"
+        }     
+    ],
+    "AWJW_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Always Jiwoong**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "always",
+            "code": "`AWJW_R`"
+        }   
+    ],    
+    "AWZH_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Always Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "always",
+            "code": "`AWZH_C`"
+        }          
+    ],
+    "AWZH_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Always Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "always",
+            "code": "`AWZH_B`"
+        }               
+    ],
+    "AWZH_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Always Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "always",
+            "code": "`AWZH_A`"
+        }     
+    ],
+    "AWZH_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Always Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "always",
+            "code": "`AWZH_S`"
+        }     
+    ],
+    "AWZH_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Always Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "always",
+            "code": "`AWZH_R`"
+        }  
+    ],
+    "AWMT_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Always Matthew**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "always",
+            "code": "`AWMT_C`"
+        }          
+    ],
+    "AWMT_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Always Matthew**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "always",
+            "code": "`AWMT_B`"
+        }               
+    ],
+    "AWMT_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Always Matthew**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "always",
+            "code": "`AWMT_A`"
+        }     
+    ],
+    "AWMT_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Always Matthew**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "always",
+            "code": "`AWMT_S`"
+        }     
+    ],
+    "AWMT_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Always Matthew**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "always",
+            "code": "`AWMT_R`"
+        }  
+    ],
     "BDZH_C": [
         {
             "name": "<:c_grade:1126649406230384671> **July 25th Zhang Hao**",
@@ -24,7 +204,7 @@
             "theme": "card1",
             "inv": "birthdate",
             "code": "`BDZH_B`"
-        }               
+        }    
     ],
     "BDZH_A": [
         {
