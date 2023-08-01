@@ -416,7 +416,7 @@
     "NKHB_C": [
         {
             "name": "<:c_grade:1126649406230384671> **New Kids Hanbin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130061643217387551/1130061840433549312/Untitled439_20230716170054.png",
             "theme": "card1",
             "inv": "newkids",
             "code": "`NKHB_C`"
@@ -425,7 +425,7 @@
     "NKHB_B": [
         {
             "name": "<:b_grade:1126649508089057352> **New Kids Hanbin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130061643217387551/1130061840806854707/Untitled439_20230716170057.png",
             "theme": "card1",
             "inv": "newkids",
             "code": "`NKHB_B`"
@@ -434,7 +434,7 @@
     "NKHB_A": [
         {
             "name": "<:a_grade:1126649781272461413> **New Kids Hanbin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130061643217387551/1130061841138192435/Untitled439_20230716170100.png",
             "theme": "card1",
             "inv": "newkids",
             "code": "`NKHB_A`"
@@ -443,7 +443,7 @@
     "NKHB_S": [
         {
             "name": "<:s_grade:1126649890148196504> **New Kids Hanbin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130061643217387551/1130061841540857916/Untitled439_20230716170102.png",
             "theme": "card1",
             "inv": "newkids",
             "code": "`NKHB_S`"
@@ -452,7 +452,7 @@
     "NKHB_R": [
         {
             "name": "<:r_grade:1126649980296380457> **New Kids Hanbin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130061643217387551/1130061841909940344/Untitled439_20230716170106.png",
             "theme": "card1",
             "inv": "newkids",
             "code": "`NKHB_R`"
@@ -461,7 +461,7 @@
     "NKJW_C": [
         {
             "name": "<:c_grade:1126649406230384671> **New Kids Jiwoong**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130061643217387551/1130061866949943306/Untitled439_20230716170032.png",
             "theme": "card1",
             "inv": "newkids",
             "code": "`NKJW_C`"
@@ -470,7 +470,7 @@
     "NKJW_B": [
         {
             "name": "<:b_grade:1126649508089057352> **New Kids Jiwoong**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130061643217387551/1130061867256139906/Untitled439_20230716170034.png",
             "theme": "card1",
             "inv": "newkids",
             "code": "`NKJW_B`"
@@ -479,7 +479,7 @@
     "NKJW_A": [
         {
             "name": "<:a_grade:1126649781272461413> **New Kids Jiwoong**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130061643217387551/1130061867621031986/Untitled439_20230716170037.png",
             "theme": "card1",
             "inv": "newkids",
             "code": "`NKJW_A`"
@@ -488,7 +488,7 @@
     "NKJW_S": [
         {
             "name": "<:s_grade:1126649890148196504> **New Kids Jiwoong**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130061643217387551/1130061867923034142/Untitled439_20230716170040.png",
             "theme": "card1",
             "inv": "newkids",
             "code": "`NKJW_S`"
@@ -497,7 +497,7 @@
     "NKJW_R": [
         {
             "name": "<:r_grade:1126649980296380457> **New Kids Jiwoong**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130061643217387551/1130061868191465472/Untitled439_20230716170042.png",
             "theme": "card1",
             "inv": "newkids",
             "code": "`NKJW_R`"
@@ -506,7 +506,7 @@
     "NKZH_C": [
         {
             "name": "<:c_grade:1126649406230384671> **New Kids Zhang Hao**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130061643217387551/1130061993538240572/Untitled439_20230716170007.png",
             "theme": "card1",
             "inv": "newkids",
             "code": "`NKZH_C`"
@@ -515,7 +515,7 @@
     "NKZH_B": [
         {
             "name": "<:b_grade:1126649508089057352> **New Kids Zhang Hao**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130061643217387551/1130061993781502042/Untitled439_20230716170010.png",
             "theme": "card1",
             "inv": "newkids",
             "code": "`NKZH_B`"
@@ -524,7 +524,7 @@
     "NKZH_A": [
         {
             "name": "<:a_grade:1126649781272461413> **New Kids Zhang Hao**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130061643217387551/1130061994020581416/Untitled439_20230716170012.png",
             "theme": "card1",
             "inv": "newkids",
             "code": "`NKZH_A`"
@@ -533,7 +533,7 @@
     "NKZH_S": [
         {
             "name": "<:s_grade:1126649890148196504> **New Kids Zhang Hao**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130061643217387551/1130061994293215232/Untitled439_20230716170015.png",
             "theme": "card1",
             "inv": "newkids",
             "code": "`NKZH_S`"
@@ -542,7 +542,7 @@
     "NKZH_R": [
         {
             "name": "<:r_grade:1126649980296380457> **New Kids Zhang Hao**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130061643217387551/1130061994519699466/Untitled439_20230716170018.png",
             "theme": "card1",
             "inv": "newkids",
             "code": "`NKZH_R`"
@@ -551,7 +551,7 @@
     "NKMT_C": [
         {
             "name": "<:c_grade:1126649406230384671> **New Kids Matthew**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130061643217387551/1130062020981567538/Untitled439_20230716165941.png",
             "theme": "card1",
             "inv": "newkids",
             "code": "`NKMT_C`"
@@ -560,7 +560,7 @@
     "NKMT_B": [
         {
             "name": "<:b_grade:1126649508089057352> **New Kids Matthew**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130061643217387551/1130062021291933796/Untitled439_20230716165944.png",
             "theme": "card1",
             "inv": "newkids",
             "code": "`NKMT_B`"
@@ -569,7 +569,7 @@
     "NKMT_A": [
         {
             "name": "<:a_grade:1126649781272461413> **New Kids Matthew**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130061643217387551/1130062021572956200/Untitled439_20230716165947.png",
             "theme": "card1",
             "inv": "newkids",
             "code": "`NKMT_A`"
@@ -578,7 +578,7 @@
     "NKMT_S": [
         {
             "name": "<:s_grade:1126649890148196504> **New Kids Matthew**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130061643217387551/1130062021975617626/Untitled439_20230716165950.png",
             "theme": "card1",
             "inv": "newkids",
             "code": "`NKMT_S`"
@@ -587,7 +587,7 @@
     "NKMT_R": [
         {
             "name": "<:r_grade:1126649980296380457> **New Kids Matthew**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130061643217387551/1130062022285987860/Untitled439_20230716165953.png",
             "theme": "card1",
             "inv": "newkids",
             "code": "`NKMT_R`"
@@ -596,7 +596,7 @@
     "NKTR_C": [
         {
             "name": "<:c_grade:1126649406230384671> **New Kids Taerae**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130061643217387551/1130062049498648637/Untitled439_20230716165906.png",
             "theme": "card1",
             "inv": "newkids",
             "code": "`NKTR_C`"
@@ -605,7 +605,7 @@
     "NKTR_B": [
         {
             "name": "<:b_grade:1126649508089057352> **New Kids Taerae**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130061643217387551/1130062049817407498/Untitled439_20230716165909.png",
             "theme": "card1",
             "inv": "newkids",
             "code": "`NKTR_B`"
@@ -614,7 +614,7 @@
     "NKTR_A": [
         {
             "name": "<:a_grade:1126649781272461413> **New Kids Taerae**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130061643217387551/1130062050115199047/Untitled439_20230716165911.png",
             "theme": "card1",
             "inv": "newkids",
             "code": "`NKTR_A`"
@@ -623,7 +623,7 @@
     "NKTR_S": [
         {
             "name": "<:s_grade:1126649890148196504> **New Kids Taerae**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130061643217387551/1130062050454941736/Untitled439_20230716165917.png",
             "theme": "card1",
             "inv": "newkids",
             "code": "`NKTR_S`"
@@ -632,7 +632,7 @@
     "NKTR_R": [
         {
             "name": "<:r_grade:1126649980296380457> **New Kids Taerae**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130061643217387551/1130062050949865552/Untitled439_20230716165921.png",
             "theme": "card1",
             "inv": "newkids",
             "code": "`NKTR_R`"
@@ -641,7 +641,7 @@
     "NKRC_C": [
         {
             "name": "<:c_grade:1126649406230384671> **New Kids Ricky**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130061643217387551/1130062080263868427/Untitled439_20230716165825.png",
             "theme": "card1",
             "inv": "newkids",
             "code": "`NKRC_C`"
@@ -650,7 +650,7 @@
     "NKRC_B": [
         {
             "name": "<:b_grade:1126649508089057352> **New Kids Ricky**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130061643217387551/1130062080679092244/Untitled439_20230716165827.png",
             "theme": "card1",
             "inv": "newkids",
             "code": "`NKRC_B`"
@@ -659,7 +659,7 @@
     "NKRC_A": [
         {
             "name": "<:a_grade:1126649781272461413> **New Kids Ricky**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130061643217387551/1130062081249529926/Untitled439_20230716165830.png",
             "theme": "card1",
             "inv": "newkids",
             "code": "`NKRC_A`"
@@ -668,7 +668,7 @@
     "NKRC_S": [
         {
             "name": "<:s_grade:1126649890148196504> **New Kids Ricky**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130061643217387551/1130062081580875796/Untitled439_20230716165833.png",
             "theme": "card1",
             "inv": "newkids",
             "code": "`NKRC_S`"
@@ -677,7 +677,7 @@
     "NKRC_R": [
         {
             "name": "<:r_grade:1126649980296380457> **New Kids Ricky**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130061643217387551/1130062082012893184/Untitled439_20230716165838.png",
             "theme": "card1",
             "inv": "newkids",
             "code": "`NKRC_R`"
@@ -686,7 +686,7 @@
     "NKGV_C": [
         {
             "name": "<:c_grade:1126649406230384671> **New Kids Gyuvin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130061643217387551/1130062108273410048/Untitled439_20230716165804.png",
             "theme": "card1",
             "inv": "newkids",
             "code": "`NKGV_C`"
@@ -695,7 +695,7 @@
     "NKGV_B": [
         {
             "name": "<:b_grade:1126649508089057352> **New Kids Gyuvin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130061643217387551/1130062108604776489/Untitled439_20230716165807.png",
             "theme": "card1",
             "inv": "newkids",
             "code": "`NKGV_B`"
@@ -704,7 +704,7 @@
     "NKGV_A": [
         {
             "name": "<:a_grade:1126649781272461413> **New Kids Gyuvin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130061643217387551/1130062108961284127/Untitled439_20230716165810.png",
             "theme": "card1",
             "inv": "newkids",
             "code": "`NKGV_A`"
@@ -713,7 +713,7 @@
     "NKGV_S": [
         {
             "name": "<:s_grade:1126649890148196504> **New Kids Gyuvin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130061643217387551/1130062109271654511/Untitled439_20230716165812.png",
             "theme": "card1",
             "inv": "newkids",
             "code": "`NKGV_S`"
@@ -722,7 +722,7 @@
     "NKGV_R": [
         {
             "name": "<:r_grade:1126649980296380457> **New Kids Gyuvin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130061643217387551/1130062109540098079/Untitled439_20230716165815.png",
             "theme": "card1",
             "inv": "newkids",
             "code": "`NKGV_R`"
@@ -731,7 +731,7 @@
     "NKGW_C": [
         {
             "name": "<:c_grade:1126649406230384671> **New Kids Gunwook**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130061643217387551/1130062133724463184/Untitled439_20230716165732.png",
             "theme": "card1",
             "inv": "newkids",
             "code": "`NKGW_C`"
@@ -740,7 +740,7 @@
     "NKGW_B": [
         {
             "name": "<:b_grade:1126649508089057352> **New Kids Gunwook**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130061643217387551/1130062134034825258/Untitled439_20230716165736.png",
             "theme": "card1",
             "inv": "newkids",
             "code": "`NKGW_B`"
@@ -749,7 +749,7 @@
     "NKGW_A": [
         {
             "name": "<:a_grade:1126649781272461413> **New Kids Gunwook**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130061643217387551/1130062134370377748/Untitled439_20230716165739.png",
             "theme": "card1",
             "inv": "newkids",
             "code": "`NKGW_A`"
@@ -758,7 +758,7 @@
     "NKGW_S": [
         {
             "name": "<:s_grade:1126649890148196504> **New Kids Gunwook**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130061643217387551/1130062134672359525/Untitled439_20230716165742.png",
             "theme": "card1",
             "inv": "newkids",
             "code": "`NKGW_S`"
@@ -767,7 +767,7 @@
     "NKGW_R": [
         {
             "name": "<:r_grade:1126649980296380457> **New Kids Gunwook**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130061643217387551/1130062135045660712/Untitled439_20230716165746.png",
             "theme": "card1",
             "inv": "newkids",
             "code": "`NKGW_R`"
@@ -776,7 +776,7 @@
     "NKYJ_C": [
         {
             "name": "<:c_grade:1126649406230384671> **New Kids Yujin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130061643217387551/1130062160756756500/Untitled439_20230716165657.png",
             "theme": "card1",
             "inv": "newkids",
             "code": "`NKYJ_C`"
@@ -785,7 +785,7 @@
     "NKYJ_B": [
         {
             "name": "<:b_grade:1126649508089057352> **New Kids Yujin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130061643217387551/1130062161134223360/Untitled439_20230716165700.png",
             "theme": "card1",
             "inv": "newkids",
             "code": "`NKYJ_B`"
@@ -794,7 +794,7 @@
     "NKYJ_A": [
         {
             "name": "<:a_grade:1126649781272461413> **New Kids Yujin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130061643217387551/1130062161448800277/Untitled439_20230716165703.png",
             "theme": "card1",
             "inv": "newkids",
             "code": "`NKYJ_A`"
@@ -803,7 +803,7 @@
     "NKYJ_S": [
         {
             "name": "<:s_grade:1126649890148196504> **New Kids Yujin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130061643217387551/1130062161830477874/Untitled439_20230716165708.png",
             "theme": "card1",
             "inv": "newkids",
             "code": "`NKYJ_S`"
@@ -812,7 +812,7 @@
     "NKYJ_R": [
         {
             "name": "<:r_grade:1126649980296380457> **New Kids Yujin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1130061643217387551/1130062162312826950/Untitled439_20230716165711.png",
             "theme": "card1",
             "inv": "newkids",
             "code": "`NKYJ_R`"
