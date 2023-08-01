@@ -8,6 +8,411 @@
             "code": "`IBHB_C`"
         }
     ],
+    "NAHB_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Not Alone Hanbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "notalone",
+            "code": "`NAHB_C`"
+        }          
+    ],
+    "NAHB_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Not Alone Hanbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "notalone",
+            "code": "`NAHB_B`"
+        }               
+    ],
+    "NAHB_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Not Alone Hanbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "notalone",
+            "code": "`NAHB_A`"
+        }     
+    ],
+    "NAHB_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Not Alone Hanbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "notalone",
+            "code": "`NAHB_S`"
+        }     
+    ],
+    "NAHB_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Not Alone Hanbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "not alone",
+            "code": "`NAHB_R`"
+        }  
+    ],
+    "NAJW_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Not Alone Jiwoong**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "notalone",
+            "code": "`NAJW_C`"
+        }          
+    ],
+    "NAJW_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Not Alone Jiwoong**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "notalone",
+            "code": "`NAJW_B`"
+        }               
+    ],
+    "NAJW_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Not Alone Jiwoong**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "notalone",
+            "code": "`NAJW_A`"
+        }     
+    ],
+    "NAJW_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Not Alone Jiwoong**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "notalone",
+            "code": "`NAJW_S`"
+        }     
+    ],
+    "NAJW_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Not Alone Jiwoong**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "not alone",
+            "code": "`NAJW_R`"
+        } 
+    ],
+    "NAZH_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Not Alone Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "notalone",
+            "code": "`NAZH_C`"
+        }          
+    ],
+    "NAZH_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Not Alone Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "notalone",
+            "code": "`NAZH_B`"
+        }               
+    ],
+    "NAZH_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Not Alone Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "notalone",
+            "code": "`NAZH_A`"
+        }     
+    ],
+    "NAZH_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Not Alone Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "notalone",
+            "code": "`NAZH_S`"
+        }     
+    ],
+    "NAZH_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Not Alone Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "not alone",
+            "code": "`NAZH_R`"
+        }   
+    ],
+    "NAMT_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Not Alone Matthew**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "notalone",
+            "code": "`NAMT_C`"
+        }          
+    ],
+    "NAMT_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Not Alone Matthew**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "notalone",
+            "code": "`NAMT_B`"
+        }               
+    ],
+    "NAMT_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Not Alone Matthew**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "notalone",
+            "code": "`NAMT_A`"
+        }     
+    ],
+    "NAMT_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Not Alone Matthew**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "notalone",
+            "code": "`NAMT_S`"
+        }     
+    ],
+    "NAMT_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Not Alone Matthew**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "not alone",
+            "code": "`NAMT_R`"
+        }  
+    ],
+    "NATR_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Not Alone Taerae**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "notalone",
+            "code": "`NATR_C`"
+        }          
+    ],
+    "NATR_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Not Alone Taerae**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "notalone",
+            "code": "`NATR_B`"
+        }               
+    ],
+    "NATR_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Not Alone Taerae**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "notalone",
+            "code": "`NATR_A`"
+        }     
+    ],
+    "NATR_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Not Alone Taerae**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "notalone",
+            "code": "`NATR_S`"
+        }     
+    ],
+    "NATR_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Not Alone Taerae**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "not alone",
+            "code": "`NATR_R`"
+        }    
+    ],
+    "NARC_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Not Alone Ricky**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "notalone",
+            "code": "`NARC_C`"
+        }          
+    ],
+    "NARC_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Not Alone Ricky**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "notalone",
+            "code": "`NARC_B`"
+        }               
+    ],
+    "NARC_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Not Alone Ricky**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "notalone",
+            "code": "`NARC_A`"
+        }     
+    ],
+    "NARC_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Not Alone Ricky**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "notalone",
+            "code": "`NARC_S`"
+        }     
+    ],
+    "NARC_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Not Alone Ricky**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "not alone",
+            "code": "`NARC_R`"
+        }    
+    ],
+    "NAGV_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Not Alone Gyuvin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "notalone",
+            "code": "`NAGV_C`"
+        }          
+    ],
+    "NAGV_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Not Alone Gyuvin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "notalone",
+            "code": "`NAGV_B`"
+        }               
+    ],
+    "NAGV_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Not Alone Gyuvin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "notalone",
+            "code": "`NAGV_A`"
+        }     
+    ],
+    "NAGV_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Not Alone Gyuvin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "notalone",
+            "code": "`NAGV_S`"
+        }     
+    ],
+    "NAGV_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Not Alone Gyuvin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "not alone",
+            "code": "`NAGV_R`"
+        }    
+    ],
+    "NAGW_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Not Alone Gunwook**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "notalone",
+            "code": "`NAGW_C`"
+        }          
+    ],
+    "NAGW_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Not Alone Gunwook**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "notalone",
+            "code": "`NAGW_B`"
+        }               
+    ],
+    "NAGW_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Not Alone Gunwook**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "notalone",
+            "code": "`NAGW_A`"
+        }     
+    ],
+    "NAGW_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Not Alone Gunwook**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "notalone",
+            "code": "`NAGW_S`"
+        }     
+    ],
+    "NAGW_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Not Alone Gunwook**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "not alone",
+            "code": "`NAGW_R`"
+        } 
+    ],
+    "NAYJ_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Not Alone Yujin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "notalone",
+            "code": "`NAYJ_C`"
+        }          
+    ],
+    "NAYJ_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Not Alone Yujin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "notalone",
+            "code": "`NAYJ_B`"
+        }               
+    ],
+    "NAYJ_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Not Alone Yujin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "notalone",
+            "code": "`NAYJ_A`"
+        }     
+    ],
+    "NAYJ_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Not Alone Yujin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "notalone",
+            "code": "`NAYJ_S`"
+        }     
+    ],
+    "NAYJ_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Not Alone Yujin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "not alone",
+            "code": "`NAYJ_R`"
+        }     
+    ],
     "NKHB_C": [
         {
             "name": "<:c_grade:1126649406230384671> **New Kids Hanbin**",
