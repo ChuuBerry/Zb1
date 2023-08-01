@@ -8,6 +8,411 @@
             "code": "`IBHB_C`"
         }
     ],
+    "NKHB_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **New Kids Hanbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "newkids",
+            "code": "`NKHB_C`"
+        }          
+    ],
+    "NKHB_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **New Kids Hanbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "newkids",
+            "code": "`NKHB_B`"
+        }               
+    ],
+    "NKHB_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **New Kids Hanbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "newkids",
+            "code": "`NKHB_A`"
+        }     
+    ],
+    "NKHB_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **New Kids Hanbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "newkids",
+            "code": "`NKHB_S`"
+        }     
+    ],
+    "NKHB_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **New Kids Hanbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "newkids",
+            "code": "`NKHB_R`"
+        }  
+    ],
+    "NKJW_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **New Kids Jiwoong**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "newkids",
+            "code": "`NKJW_C`"
+        }          
+    ],
+    "NKJW_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **New Kids Jiwoong**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "newkids",
+            "code": "`NKJW_B`"
+        }               
+    ],
+    "NKJW_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **New Kids Jiwoong**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "newkids",
+            "code": "`NKJW_A`"
+        }     
+    ],
+    "NKJW_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **New Kids Jiwoong**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "newkids",
+            "code": "`NKJW_S`"
+        }     
+    ],
+    "NKJW_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **New Kids Jiwoong**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "newkids",
+            "code": "`NKJW_R`"
+        }  
+    ],
+    "NKZH_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **New Kids Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "newkids",
+            "code": "`NKZH_C`"
+        }          
+    ],
+    "NKZH_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **New Kids Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "newkids",
+            "code": "`NKZH_B`"
+        }               
+    ],
+    "NKZH_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **New Kids Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "newkids",
+            "code": "`NKZH_A`"
+        }     
+    ],
+    "NKZH_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **New Kids Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "newkids",
+            "code": "`NKZH_S`"
+        }     
+    ],
+    "NKZH_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **New Kids Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "newkids",
+            "code": "`NKZH_R`"
+        }    
+    ],
+    "NKMT_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **New Kids Matthew**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "newkids",
+            "code": "`NKMT_C`"
+        }          
+    ],
+    "NKMT_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **New Kids Matthew**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "newkids",
+            "code": "`NKMT_B`"
+        }               
+    ],
+    "NKMT_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **New Kids Matthew**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "newkids",
+            "code": "`NKMT_A`"
+        }     
+    ],
+    "NKMT_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **New Kids Matthew**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "newkids",
+            "code": "`NKMT_S`"
+        }     
+    ],
+    "NKMT_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **New Kids Matthew**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "newkids",
+            "code": "`NKMT_R`"
+        }      
+    ],
+    "NKTR_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **New Kids Taerae**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "newkids",
+            "code": "`NKTR_C`"
+        }          
+    ],
+    "NKTR_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **New Kids Taerae**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "newkids",
+            "code": "`NKTR_B`"
+        }               
+    ],
+    "NKTR_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **New Kids Taerae**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "newkids",
+            "code": "`NKTR_A`"
+        }     
+    ],
+    "NKTR_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **New Kids Taerae**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "newkids",
+            "code": "`NKTR_S`"
+        }     
+    ],
+    "NKTR_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **New Kids Taerae**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "newkids",
+            "code": "`NKTR_R`"
+        }  
+    ],
+    "NKRC_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **New Kids Ricky**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "newkids",
+            "code": "`NKRC_C`"
+        }          
+    ],
+    "NKRC_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **New Kids Ricky**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "newkids",
+            "code": "`NKRC_B`"
+        }               
+    ],
+    "NKRC_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **New Kids Ricky**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "newkids",
+            "code": "`NKRC_A`"
+        }     
+    ],
+    "NKRC_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **New Kids Ricky**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "newkids",
+            "code": "`NKRC_S`"
+        }     
+    ],
+    "NKRC_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **New Kids Ricky**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "newkids",
+            "code": "`NKRC_R`"
+        }   
+   ],
+    "NKGV_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **New Kids Gyuvin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "newkids",
+            "code": "`NKGV_C`"
+        }          
+    ],
+    "NKGV_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **New Kids Gyuvin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "newkids",
+            "code": "`NKGV_B`"
+        }               
+    ],
+    "NKGV_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **New Kids Gyuvin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "newkids",
+            "code": "`NKGV_A`"
+        }     
+    ],
+    "NKGV_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **New Kids Gyuvin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "newkids",
+            "code": "`NKGV_S`"
+        }     
+    ],
+    "NKGV_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **New Kids Gyuvin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "newkids",
+            "code": "`NKGV_R`"
+        } 
+   ],
+    "NKGW_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **New Kids Gunwook**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "newkids",
+            "code": "`NKGW_C`"
+        }          
+    ],
+    "NKGW_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **New Kids Gunwook**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "newkids",
+            "code": "`NKGW_B`"
+        }               
+    ],
+    "NKGW_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **New Kids Gunwook**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "newkids",
+            "code": "`NKGW_A`"
+        }     
+    ],
+    "NKGW_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **New Kids Gunwook**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "newkids",
+            "code": "`NKGW_S`"
+        }     
+    ],
+    "NKGW_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **New Kids Gunwook**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "newkids",
+            "code": "`NKGW_R`"
+        }   
+    ],
+    "NKYJ_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **New Kids Yujin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "newkids",
+            "code": "`NKYJ_C`"
+        }          
+    ],
+    "NKYJ_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **New Kids Yujin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "newkids",
+            "code": "`NKYJ_B`"
+        }               
+    ],
+    "NKYJ_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **New Kids Yujin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "newkids",
+            "code": "`NKYJ_A`"
+        }     
+    ],
+    "NKYJ_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **New Kids Yujin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "newkids",
+            "code": "`NKYJ_S`"
+        }     
+    ],
+    "NKYJ_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **New Kids Yujin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "newkids",
+            "code": "`NKYJ_R`"
+        }      
+    ],
     "AWHB_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Always Hanbin**",
