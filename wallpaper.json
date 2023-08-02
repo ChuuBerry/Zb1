@@ -1,16 +1,16 @@
 {
-    "FR1_WP": [
+    "ZB1FR1_WP": [
         {
             "name": "`Free` **ZEROBASEONE Wallpaper#1**",
             "image": "https://media.discordapp.net/attachments/1135843503507787856/1135843657715568650/Untitled295_20230801155552.png",
-            "code": "`FR1_WP`"
+            "code": "`ZB1FR1_WP`"
         }
     ],
-    "FR2_WP": [
+    "ZB1FR2_WP": [
         {
             "name": "`Free` **ZEROBASEONE Wallpaper#2**",
             "image": "https://media.discordapp.net/attachments/1135843503507787856/1135843759184154634/Untitled295_20230801155609.png",
-            "code": "`FR2_WP`"
+            "code": "`ZB1FR2_WP`"
         }
     ]
 }
