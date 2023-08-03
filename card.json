@@ -8,6 +8,141 @@
             "code": "`IBHB_C`"
         }
     ],
+    "FDK_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Fighting DK**",
+            "image": "https://media.discordapp.net/attachments/1136271135110086668/1136271215774924911/Enhypen_20230802201410.png",
+            "theme": "card1",
+            "inv": "fighting",
+            "code": "`FDK_C`"
+        }          
+    ],
+    "FDK_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Fighting DK**",
+            "image": "https://media.discordapp.net/attachments/1136271135110086668/1136271216089509958/Enhypen_20230802201413.png",
+            "theme": "card1",
+            "inv": "fighting",
+            "code": "`FDK_B`"
+        }               
+    ],
+    "FDK_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Fighting DK**",
+            "image": "https://media.discordapp.net/attachments/1136271135110086668/1136271216597016647/Enhypen_20230802201416.png",
+            "theme": "card1",
+            "inv": "fighting",
+            "code": "`FDK_A`"
+        }     
+    ],
+    "FDK_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Fighting DK**",
+            "image": "https://media.discordapp.net/attachments/1136271135110086668/1136271217020633139/Enhypen_20230802201419.png",
+            "theme": "card1",
+            "inv": "coolwithyou",
+            "code": "`FDK_S`"
+        }     
+    ],
+    "FDK_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Fighting DK**",
+            "image": "https://media.discordapp.net/attachments/1136271135110086668/1136271217477824592/Enhypen_20230802201422.png",
+            "theme": "card1",
+            "inv": "fighting",
+            "code": "`FDK_R`"
+        }    
+    ],
+    "FHS_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Fighting Hoshi**",
+            "image": "https://media.discordapp.net/attachments/1136271135110086668/1136271243121786952/Enhypen_20230802201432.png",
+            "theme": "card1",
+            "inv": "fighting",
+            "code": "`FHS_C`"
+        }          
+    ],
+    "FHS_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Fighting Hoshi**",
+            "image": "https://media.discordapp.net/attachments/1136271135110086668/1136271243411197962/Enhypen_20230802201435.png",
+            "theme": "card1",
+            "inv": "fighting",
+            "code": "`FHS_B`"
+        }               
+    ],
+    "FHS_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Fighting Hoshi**",
+            "image": "https://media.discordapp.net/attachments/1136271135110086668/1136271243658674196/Enhypen_20230802201438.png",
+            "theme": "card1",
+            "inv": "fighting",
+            "code": "`FHS_A`"
+        }     
+    ],
+    "FHS_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Fighting Hoshi**",
+            "image": "https://media.discordapp.net/attachments/1136271135110086668/1136271243952259152/Enhypen_20230802201440.png",
+            "theme": "card1",
+            "inv": "coolwithyou",
+            "code": "`FHS_S`"
+        }     
+    ],
+    "FHS_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Fighting Hoshi**",
+            "image": "https://media.discordapp.net/attachments/1136271135110086668/1136271244191338527/Enhypen_20230802201443.png",
+            "theme": "card1",
+            "inv": "fighting",
+            "code": "`FHS_R`"
+        }
+    ],
+    "FSK_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Fighting Seungkwan**",
+            "image": "https://media.discordapp.net/attachments/1136271135110086668/1136271268400873492/Enhypen_20230802201453.png",
+            "theme": "card1",
+            "inv": "fighting",
+            "code": "`FSK_C`"
+        }          
+    ],
+    "FSK_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Fighting Seungkwan**",
+            "image": "https://media.discordapp.net/attachments/1136271135110086668/1136271268681887814/Enhypen_20230802201456.png",
+            "theme": "card1",
+            "inv": "fighting",
+            "code": "`FSK_B`"
+        }               
+    ],
+    "FSK_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Fighting Seungkwan**",
+            "image": "https://media.discordapp.net/attachments/1136271135110086668/1136271268979691640/Enhypen_20230802201459.png",
+            "theme": "card1",
+            "inv": "fighting",
+            "code": "`FSK_A`"
+        }     
+    ],
+    "FSK_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Fighting Seungkwan**",
+            "image": "https://media.discordapp.net/attachments/1136271135110086668/1136271269218762783/Enhypen_20230802201502.png",
+            "theme": "card1",
+            "inv": "coolwithyou",
+            "code": "`FSK_S`"
+        }     
+    ],
+    "FSK_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Fighting Seungkwan**",
+            "image": "https://media.discordapp.net/attachments/1136271135110086668/1136271269457834044/Enhypen_20230802201505.png",
+            "theme": "card1",
+            "inv": "fighting",
+            "code": "`FSK_R`"
+        }        
+    ],
     "CWYMJ_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Cool With You Minji**",
