@@ -11,7 +11,7 @@
     "BKMA_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Broken Melodies Mark**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1136297449900736512/Nct_Dream_20230802215637.png",
             "theme": "card1",
             "inv": "brokenmelodies",
             "code": "`BKMA_C`"
@@ -20,7 +20,7 @@
     "BKMA_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Broken Melodies Mark**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1136297450164994099/Nct_Dream_20230802215656.png",
             "theme": "card1",
             "inv": "brokenmelodies",
             "code": "`BKMA_B`"
@@ -29,7 +29,7 @@
     "BKMA_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Broken Melodies Mark**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1136297450508914778/Nct_Dream_20230802215659.png",
             "theme": "card1",
             "inv": "brokenmelodies",
             "code": "`BKMA_A`"
@@ -38,7 +38,7 @@
     "BKMA_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Broken Melodies Mark**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1136297450785734676/Nct_Dream_20230802215702.png",
             "theme": "card1",
             "inv": "brokenmelodies",
             "code": "`BKMA_S`"
@@ -47,7 +47,7 @@
     "BKMA_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Broken Melodies Mark**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1136297451037409310/Nct_Dream_20230802215705.png",
             "theme": "card1",
             "inv": "brokenmelodies",
             "code": "`BKMA_R`"
@@ -56,7 +56,7 @@
     "BKRJ_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Broken Melodies Renjun**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1136297483585204397/Nct_Dream_20230802215719.png",
             "theme": "card1",
             "inv": "brokenmelodies",
             "code": "`BKRJ_C`"
@@ -65,7 +65,7 @@
     "BKRJ_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Broken Melodies Renjun**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1136297484159828088/Nct_Dream_20230802215722.png",
             "theme": "card1",
             "inv": "brokenmelodies",
             "code": "`BKRJ_B`"
@@ -74,7 +74,7 @@
     "BKRJ_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Broken Melodies Renjun**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1136297484537307208/Nct_Dream_20230802215724.png",
             "theme": "card1",
             "inv": "brokenmelodies",
             "code": "`BKRJ_A`"
@@ -83,7 +83,7 @@
     "BKRJ_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Broken Melodies Renjun**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1136297484910604448/Nct_Dream_20230802215727.png",
             "theme": "card1",
             "inv": "brokenmelodies",
             "code": "`BKRJ_S`"
@@ -92,7 +92,7 @@
     "BKRJ_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Broken Melodies Renjun**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1136297485254541444/Nct_Dream_20230802215730.png",
             "theme": "card1",
             "inv": "brokenmelodies",
             "code": "`BKRJ_R`"
@@ -101,7 +101,7 @@
     "BKJN_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Broken Melodies Jeno**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1136297510906900601/Nct_Dream_20230802215740.png",
             "theme": "card1",
             "inv": "brokenmelodies",
             "code": "`BKJN_C`"
@@ -110,7 +110,7 @@
     "BKJN_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Broken Melodies Jeno**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1136297511217266718/Nct_Dream_20230802215745.png",
             "theme": "card1",
             "inv": "brokenmelodies",
             "code": "`BKJN_B`"
@@ -119,7 +119,7 @@
     "BKJN_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Broken Melodies Jeno**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1136297511481516033/Nct_Dream_20230802215748.png",
             "theme": "card1",
             "inv": "brokenmelodies",
             "code": "`BKJN_A`"
@@ -128,7 +128,7 @@
     "BKJN_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Broken Melodies Jeno**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1136297511875772459/Nct_Dream_20230802215752.png",
             "theme": "card1",
             "inv": "brokenmelodies",
             "code": "`BKJN_S`"
@@ -137,7 +137,7 @@
     "BKJN_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Broken Melodies Jeno**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1136297512316186635/Nct_Dream_20230802215755.png",
             "theme": "card1",
             "inv": "brokenmelodies",
             "code": "`BKJN_R`"
@@ -146,7 +146,7 @@
     "BKHC_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Broken Melodies Haechan**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1136297538803204177/Nct_Dream_20230802215806.png",
             "theme": "card1",
             "inv": "brokenmelodies",
             "code": "`BKHC_C`"
@@ -155,7 +155,7 @@
     "BKHC_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Broken Melodies Haechan**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1136297539520446624/Nct_Dream_20230802215810.png",
             "theme": "card1",
             "inv": "brokenmelodies",
             "code": "`BKHC_B`"
@@ -164,7 +164,7 @@
     "BKHC_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Broken Melodies Haechan**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1136297539851780246/Nct_Dream_20230802215813.png",
             "theme": "card1",
             "inv": "brokenmelodies",
             "code": "`BKHC_A`"
@@ -173,7 +173,7 @@
     "BKHC_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Broken Melodies Haechan**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1136297540157984840/Nct_Dream_20230802215816.png",
             "theme": "card1",
             "inv": "brokenmelodies",
             "code": "`BKHC_S`"
@@ -182,7 +182,7 @@
     "BKHC_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Broken Melodies Haechan**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1136297540577394819/Nct_Dream_20230802215819.png",
             "theme": "card1",
             "inv": "brokenmelodies",
             "code": "`BKHC_R`"
@@ -191,7 +191,7 @@
     "BKJM_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Broken Melodies Jaemin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1136297561259511828/Nct_Dream_20230802215827.png",
             "theme": "card1",
             "inv": "brokenmelodies",
             "code": "`BKJM_C`"
@@ -200,7 +200,7 @@
     "BKJM_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Broken Melodies Jaemin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1136297561540538498/Nct_Dream_20230802215831.png",
             "theme": "card1",
             "inv": "brokenmelodies",
             "code": "`BKJM_B`"
@@ -209,7 +209,7 @@
     "BKJM_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Broken Melodies Jaemin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1136297561922216006/Nct_Dream_20230802215834.png",
             "theme": "card1",
             "inv": "brokenmelodies",
             "code": "`BKJM_A`"
@@ -218,7 +218,7 @@
     "BKJM_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Broken Melodies Jaemin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1136297562303893554/Nct_Dream_20230802215836.png",
             "theme": "card1",
             "inv": "brokenmelodies",
             "code": "`BKJM_S`"
@@ -227,7 +227,7 @@
     "BKJM_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Broken Melodies Jaemin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1136297562786242701/Nct_Dream_20230802215839.png",
             "theme": "card1",
             "inv": "brokenmelodies",
             "code": "`BKJM_R`"
@@ -236,7 +236,7 @@
     "BKCL_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Broken Melodies Chenle**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1136297588019187803/Nct_Dream_20230802215846.png",
             "theme": "card1",
             "inv": "brokenmelodies",
             "code": "`BKCL_C`"
@@ -245,7 +245,7 @@
     "BKCL_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Broken Melodies Chenle**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1136297588405059664/Nct_Dream_20230802215849.png",
             "theme": "card1",
             "inv": "brokenmelodies",
             "code": "`BKCL_B`"
@@ -254,7 +254,7 @@
     "BKCL_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Broken Melodies Chenle**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1136297588778356916/Nct_Dream_20230802215852.png",
             "theme": "card1",
             "inv": "brokenmelodies",
             "code": "`BKCL_A`"
@@ -263,7 +263,7 @@
     "BKCL_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Broken Melodies Chenle**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1136297589650751508/Nct_Dream_20230802215856.png",
             "theme": "card1",
             "inv": "brokenmelodies",
             "code": "`BKCL_S`"
@@ -272,7 +272,7 @@
     "BKCL_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Broken Melodies Chenle**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1136297590409936936/Nct_Dream_20230802215859.png",
             "theme": "card1",
             "inv": "brokenmelodies",
             "code": "`BKCL_R`"
@@ -281,7 +281,7 @@
     "BKJS_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Broken Melodies Jisung**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1136297614728507392/Nct_Dream_20230802215907.png",
             "theme": "card1",
             "inv": "brokenmelodies",
             "code": "`BKJS_C`"
@@ -290,7 +290,7 @@
     "BKJS_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Broken Melodies Jisung**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1136297615009517689/Nct_Dream_20230802215909.png",
             "theme": "card1",
             "inv": "brokenmelodies",
             "code": "`BKJS_B`"
@@ -299,7 +299,7 @@
     "BKJS_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Broken Melodies Jisung**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1136297615277965312/Nct_Dream_20230802215912.png",
             "theme": "card1",
             "inv": "brokenmelodies",
             "code": "`BKJS_A`"
@@ -308,7 +308,7 @@
     "BKJS_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Broken Melodies Jisung**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1136297615533813841/Nct_Dream_20230802215915.png",
             "theme": "card1",
             "inv": "brokenmelodies",
             "code": "`BKJS_S`"
@@ -317,7 +317,7 @@
     "BKJS_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Broken Melodies Jisung**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1136297615802241034/Nct_Dream_20230802215918.png",
             "theme": "card1",
             "inv": "brokenmelodies",
             "code": "`BKJS_R`"
