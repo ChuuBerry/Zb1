@@ -8,6 +8,186 @@
             "code": "`IBHB_C`"
         }
     ],
+    "SKR_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Spicy Karina**",
+            "image": "https://media.discordapp.net/attachments/1136214742399197284/1136315478709641216/Aespa_20230802230959.png",
+            "theme": "card1",
+            "inv": "spicy",
+            "code": "`SKR_C`"
+        }          
+    ],
+    "SKR_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Spicy Karina**",
+            "image": "https://media.discordapp.net/attachments/1136214742399197284/1136315479070363720/Aespa_20230802231003.png",
+            "theme": "card1",
+            "inv": "spicy",
+            "code": "`SKR_B`"
+        }               
+    ],
+    "SKR_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Spicy Karina**",
+            "image": "https://media.discordapp.net/attachments/1136214742399197284/1136315479363948584/Aespa_20230802231006.png",
+            "theme": "card1",
+            "inv": "spicy",
+            "code": "`SKR_A`"
+        }     
+    ],
+    "SKR_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Spicy Karina**",
+            "image": "https://media.discordapp.net/attachments/1136214742399197284/1136315479623999498/Aespa_20230802231011.png",
+            "theme": "card1",
+            "inv": "spicy",
+            "code": "`SKR_S`"
+        }     
+    ],
+    "SKR_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Spicy Karina**",
+            "image": "https://media.discordapp.net/attachments/1136214742399197284/1136315479934374049/Aespa_20230802231014.png",
+            "theme": "card1",
+            "inv": "spicy",
+            "code": "`SKR_R`"
+        } 
+    ],
+    "SGS_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Spicy Giselle**",
+            "image": "https://media.discordapp.net/attachments/1136214742399197284/1136315503393132687/Aespa_20230802231022.png",
+            "theme": "card1",
+            "inv": "spicy",
+            "code": "`SGS_C`"
+        }          
+    ],
+    "SGS_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Spicy Giselle**",
+            "image": "https://media.discordapp.net/attachments/1136214742399197284/1136315503669940316/Aespa_20230802231025.png",
+            "theme": "card1",
+            "inv": "spicy",
+            "code": "`SGS_B`"
+        }               
+    ],
+    "SGS_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Spicy Giselle**",
+            "image": "https://media.discordapp.net/attachments/1136214742399197284/1136315504101966034/Aespa_20230802231028.png",
+            "theme": "card1",
+            "inv": "spicy",
+            "code": "`SGS_A`"
+        }     
+    ],
+    "SGS_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Spicy Giselle**",
+            "image": "https://media.discordapp.net/attachments/1136214742399197284/1136315504433303804/Aespa_20230802231030.png",
+            "theme": "card1",
+            "inv": "spicy",
+            "code": "`SGS_S`"
+        }     
+    ],
+    "SGS_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Spicy Giselle**",
+            "image": "https://media.discordapp.net/attachments/1136214742399197284/1136315504802414723/Aespa_20230802231033.png",
+            "theme": "card1",
+            "inv": "spicy",
+            "code": "`SGS_R`"
+        }   
+    ],
+    "SWT_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Spicy Winter**",
+            "image": "https://media.discordapp.net/attachments/1136214742399197284/1136315527439056907/Aespa_20230802231040.png",
+            "theme": "card1",
+            "inv": "spicy",
+            "code": "`SWT_C`"
+        }          
+    ],
+    "SWT_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Spicy Winter**",
+            "image": "https://media.discordapp.net/attachments/1136214742399197284/1136315527711698974/Aespa_20230802231043.png",
+            "theme": "card1",
+            "inv": "spicy",
+            "code": "`SWT_B`"
+        }               
+    ],
+    "SWT_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Spicy Winter**",
+            "image": "https://media.discordapp.net/attachments/1136214742399197284/1136315527950762065/Aespa_20230802231046.png",
+            "theme": "card1",
+            "inv": "spicy",
+            "code": "`SWT_A`"
+        }     
+    ],
+    "SWT_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Spicy Winter**",
+            "image": "https://media.discordapp.net/attachments/1136214742399197284/1136315528198234112/Aespa_20230802231048.png",
+            "theme": "card1",
+            "inv": "spicy",
+            "code": "`SWT_S`"
+        }     
+    ],
+    "SWT_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Spicy Winter**",
+            "image": "https://media.discordapp.net/attachments/1136214742399197284/1136315528764469258/Aespa_20230802231051.png",
+            "theme": "card1",
+            "inv": "spicy",
+            "code": "`SWT_R`"
+        }   
+    ],
+    "SNN_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Spicy Ningning**",
+            "image": "https://media.discordapp.net/attachments/1136214742399197284/1136315558242025503/Aespa_20230802231105.png",
+            "theme": "card1",
+            "inv": "spicy",
+            "code": "`SNN_C`"
+        }          
+    ],
+    "SNN_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Spicy Ningning**",
+            "image": "https://media.discordapp.net/attachments/1136214742399197284/1136315558632116285/Aespa_20230802231108.png",
+            "theme": "card1",
+            "inv": "spicy",
+            "code": "`SNN_B`"
+        }               
+    ],
+    "SNN_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Spicy Ningning**",
+            "image": "https://media.discordapp.net/attachments/1136214742399197284/1136315558963445900/Aespa_20230802231110.png",
+            "theme": "card1",
+            "inv": "spicy",
+            "code": "`SNN_A`"
+        }     
+    ],
+    "SNN_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Spicy Ningning**",
+            "image": "https://media.discordapp.net/attachments/1136214742399197284/1136315559592607795/Aespa_20230802231112.png",
+            "theme": "card1",
+            "inv": "spicy",
+            "code": "`SNN_S`"
+        }     
+    ],
+    "SNN_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Spicy Ningning**",
+            "image": "https://media.discordapp.net/attachments/1136214742399197284/1136315559882002631/Aespa_20230802231116.png",
+            "theme": "card1",
+            "inv": "spicy",
+            "code": "`SNN_R`"
+        }     
+    ],
     "FDK_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Fighting DK**",
