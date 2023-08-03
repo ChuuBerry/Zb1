@@ -8,6 +8,231 @@
             "code": "`IBHB_C`"
         }
     ],
+    "SMBX_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Save Me, Kill Me BX**",
+            "image": "https://media.discordapp.net/attachments/1136226650892271716/1136294996060950599/CIX_20230802214704.png",
+            "theme": "card1",
+            "inv": "savemekillme",
+            "code": "`SMBX_C`"
+        }          
+    ],
+    "SMBX_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Save Me, Kill Me BX**",
+            "image": "https://media.discordapp.net/attachments/1136226650892271716/1136294996308406324/CIX_20230802214708.png",
+            "theme": "card1",
+            "inv": "savemekillme",
+            "code": "`SMBX_B`"
+        }               
+    ],
+    "SMBX_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Save Me, Kill Me BX**",
+            "image": "https://media.discordapp.net/attachments/1136226650892271716/1136294996568440893/CIX_20230802214711.png",
+            "theme": "card1",
+            "inv": "savemekillme",
+            "code": "`SMBX_A`"
+        }     
+    ],
+    "SMBX_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Save Me, Kill Me BX**",
+            "image": "https://media.discordapp.net/attachments/1136226650892271716/1136294996828508180/CIX_20230802214715.png",
+            "theme": "card1",
+            "inv": "savemekillme",
+            "code": "`SMBX_S`"
+        }     
+    ],
+    "SMBX_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Save Me, Kill Me BX**",
+            "image": "https://media.discordapp.net/attachments/1136226650892271716/1136294997113712670/CIX_20230802214717.png",
+            "theme": "card1",
+            "inv": "savemekillme",
+            "code": "`SMBX_R`"
+        }   
+    ],
+    "SMSH_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Save Me, Kill Me Seunghun**",
+            "image": "https://media.discordapp.net/attachments/1136226650892271716/1136295025265889502/CIX_20230802214728.png",
+            "theme": "card1",
+            "inv": "savemekillme",
+            "code": "`SMBX_C`"
+        }          
+    ],
+    "SMSH_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Save Me, Kill Me Seunghun**",
+            "image": "https://media.discordapp.net/attachments/1136226650892271716/1136295025613996032/CIX_20230802214731.png",
+            "theme": "card1",
+            "inv": "savemekillme",
+            "code": "`SMSH_B`"
+        }               
+    ],
+    "SMSH_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Save Me, Kill Me Seunghun**",
+            "image": "https://media.discordapp.net/attachments/1136226650892271716/1136295025882447972/CIX_20230802214734.png",
+            "theme": "card1",
+            "inv": "savemekillme",
+            "code": "`SMSH_A`"
+        }     
+    ],
+    "SMSH_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Save Me, Kill Me Seunghun**",
+            "image": "https://media.discordapp.net/attachments/1136226650892271716/1136295026121527427/CIX_20230802214736.png",
+            "theme": "card1",
+            "inv": "savemekillme",
+            "code": "`SMSH_S`"
+        }     
+    ],
+    "SMSH_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Save Me, Kill Me Seunghun**",
+            "image": "https://media.discordapp.net/attachments/1136226650892271716/1136295026368970802/CIX_20230802214739.png",
+            "theme": "card1",
+            "inv": "savemekillme",
+            "code": "`SMSH_R`"
+        }   
+    ],
+    "SMJY_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Save Me, Kill Me Jinyoung**",
+            "image": "https://media.discordapp.net/attachments/1136226650892271716/1136295059000672296/CIX_20230802214748.png",
+            "theme": "card1",
+            "inv": "savemekillme",
+            "code": "`SMJY_C`"
+        }          
+    ],
+    "SMJY_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Save Me, Kill Me Jinyoung**",
+            "image": "https://media.discordapp.net/attachments/1136226650892271716/1136295059365560480/CIX_20230802214751.png",
+            "theme": "card1",
+            "inv": "savemekillme",
+            "code": "`SMJY_B`"
+        }               
+    ],
+    "SMJY_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Save Me, Kill Me Jinyoung**",
+            "image": "https://media.discordapp.net/attachments/1136226650892271716/1136295059638198363/CIX_20230802214754.png",
+            "theme": "card1",
+            "inv": "savemekillme",
+            "code": "`SMJY_A`"
+        }     
+    ],
+    "SMJY_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Save Me, Kill Me Jinyoung**",
+            "image": "https://media.discordapp.net/attachments/1136226650892271716/1136295059994706030/CIX_20230802214758.png",
+            "theme": "card1",
+            "inv": "savemekillme",
+            "code": "`SMJY_S`"
+        }     
+    ],
+    "SMJY_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Save Me, Kill Me Jinyoung**",
+            "image": "https://media.discordapp.net/attachments/1136226650892271716/1136295060334452846/CIX_20230802214803.png",
+            "theme": "card1",
+            "inv": "savemekillme",
+            "code": "`SMJY_R`"
+        }    
+    ],
+    "SMYH_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Save Me, Kill Me Yonghee**",
+            "image": "https://media.discordapp.net/attachments/1136226650892271716/1136295091376496670/CIX_20230802214814.png",
+            "theme": "card1",
+            "inv": "savemekillme",
+            "code": "`SMYH_C`"
+        }          
+    ],
+    "SMYH_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Save Me, Kill Me Yonghee**",
+            "image": "https://media.discordapp.net/attachments/1136226650892271716/1136295091879809205/CIX_20230802214818.png",
+            "theme": "card1",
+            "inv": "savemekillme",
+            "code": "`SMYH_B`"
+        }               
+    ],
+    "SMYH_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Save Me, Kill Me Yonghee**",
+            "image": "https://media.discordapp.net/attachments/1136226650892271716/1136295092152451072/CIX_20230802214820.png",
+            "theme": "card1",
+            "inv": "savemekillme",
+            "code": "`SMYH_A`"
+        }     
+    ],
+    "SMYH_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Save Me, Kill Me Yonghee**",
+            "image": "https://media.discordapp.net/attachments/1136226650892271716/1136295092521541662/CIX_20230802214823.png",
+            "theme": "card1",
+            "inv": "savemekillme",
+            "code": "`SMYH_S`"
+        }     
+    ],
+    "SMYH_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Save Me, Kill Me Yonghee**",
+            "image": "https://media.discordapp.net/attachments/1136226650892271716/1136295092748029982/CIX_20230802214827.png",
+            "theme": "card1",
+            "inv": "savemekillme",
+            "code": "`SMYH_R`"
+        }    
+    ],
+    "SMHS_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Save Me, Kill Me Hyunsuk**",
+            "image": "https://media.discordapp.net/attachments/1136226650892271716/1136295115724439663/CIX_20230802214846.png",
+            "theme": "card1",
+            "inv": "savemekillme",
+            "code": "`SMHS_C`"
+        }          
+    ],
+    "SMHS_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Save Me, Kill Me Hyunsuk**",
+            "image": "https://media.discordapp.net/attachments/1136226650892271716/1136295116030627920/CIX_20230802214849.png",
+            "theme": "card1",
+            "inv": "savemekillme",
+            "code": "`SMHS_B`"
+        }               
+    ],
+    "SMHS_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Save Me, Kill Me Hyunsuk**",
+            "image": "https://media.discordapp.net/attachments/1136226650892271716/1136295116303237140/CIX_20230802214852.png",
+            "theme": "card1",
+            "inv": "savemekillme",
+            "code": "`SMHS_A`"
+        }     
+    ],
+    "SMHS_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Save Me, Kill Me Hyunsuk**",
+            "image": "https://media.discordapp.net/attachments/1136226650892271716/1136295116575883335/CIX_20230802214855.png",
+            "theme": "card1",
+            "inv": "savemekillme",
+            "code": "`SMHS_S`"
+        }     
+    ],
+    "SMHS_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Save Me, Kill Me Hyunsuk**",
+            "image": "https://media.discordapp.net/attachments/1136226650892271716/1136295116823351418/CIX_20230802214858.png",
+            "theme": "card1",
+            "inv": "savemekillme",
+            "code": "`SMHS_R`"
+        }     
+    ],
     "SKR_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Spicy Karina**",
