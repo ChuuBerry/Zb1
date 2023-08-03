@@ -8,6 +8,321 @@
             "code": "`IBHB_C`"
         }
     ],
+    "BKMA_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Broken Melodies Mark**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "brokenmelodies",
+            "code": "`BKMA_C`"
+        }          
+    ],
+    "BKMA_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Broken Melodies Mark**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "brokenmelodies",
+            "code": "`BKMA_B`"
+        }               
+    ],
+    "BKMA_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Broken Melodies Mark**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "brokenmelodies",
+            "code": "`BKMA_A`"
+        }     
+    ],
+    "BKMA_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Broken Melodies Mark**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "brokenmelodies",
+            "code": "`BKMA_S`"
+        }     
+    ],
+    "BKMA_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Broken Melodies Mark**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "brokenmelodies",
+            "code": "`BKMA_R`"
+        } 
+    ],
+    "BKRJ_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Broken Melodies Renjun**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "brokenmelodies",
+            "code": "`BKRJ_C`"
+        }          
+    ],
+    "BKRJ_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Broken Melodies Renjun**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "brokenmelodies",
+            "code": "`BKRJ_B`"
+        }               
+    ],
+    "BKRJ_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Broken Melodies Renjun**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "brokenmelodies",
+            "code": "`BKRJ_A`"
+        }     
+    ],
+    "BKRJ_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Broken Melodies Renjun**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "brokenmelodies",
+            "code": "`BKRJ_S`"
+        }     
+    ],
+    "BKRJ_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Broken Melodies Renjun**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "brokenmelodies",
+            "code": "`BKRJ_R`"
+        }    
+    ],
+    "BKJN_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Broken Melodies Jeno**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "brokenmelodies",
+            "code": "`BKJN_C`"
+        }          
+    ],
+    "BKJN_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Broken Melodies Jeno**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "brokenmelodies",
+            "code": "`BKJN_B`"
+        }               
+    ],
+    "BKJN_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Broken Melodies Jeno**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "brokenmelodies",
+            "code": "`BKJN_A`"
+        }     
+    ],
+    "BKJN_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Broken Melodies Jeno**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "brokenmelodies",
+            "code": "`BKJN_S`"
+        }     
+    ],
+    "BKJN_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Broken Melodies Jeno**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "brokenmelodies",
+            "code": "`BKJN_R`"
+        } 
+    ],
+    "BKHC_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Broken Melodies Haechan**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "brokenmelodies",
+            "code": "`BKHC_C`"
+        }          
+    ],
+    "BKHC_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Broken Melodies Haechan**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "brokenmelodies",
+            "code": "`BKHC_B`"
+        }               
+    ],
+    "BKHC_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Broken Melodies Haechan**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "brokenmelodies",
+            "code": "`BKHC_A`"
+        }     
+    ],
+    "BKHC_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Broken Melodies Haechan**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "brokenmelodies",
+            "code": "`BKHC_S`"
+        }     
+    ],
+    "BKHC_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Broken Melodies Haechan**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "brokenmelodies",
+            "code": "`BKHC_R`"
+        }   
+    ],
+    "BKJM_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Broken Melodies Jaemin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "brokenmelodies",
+            "code": "`BKJM_C`"
+        }          
+    ],
+    "BKJM_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Broken Melodies Jaemin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "brokenmelodies",
+            "code": "`BKJM_B`"
+        }               
+    ],
+    "BKJM_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Broken Melodies Jaemin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "brokenmelodies",
+            "code": "`BKJM_A`"
+        }     
+    ],
+    "BKJM_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Broken Melodies Jaemin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "brokenmelodies",
+            "code": "`BKJM_S`"
+        }     
+    ],
+    "BKJM_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Broken Melodies Jaemin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "brokenmelodies",
+            "code": "`BKJM_R`"
+        } 
+    ],
+    "BKCL_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Broken Melodies Chenle**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "brokenmelodies",
+            "code": "`BKCL_C`"
+        }          
+    ],
+    "BKCL_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Broken Melodies Chenle**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "brokenmelodies",
+            "code": "`BKCL_B`"
+        }               
+    ],
+    "BKCL_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Broken Melodies Chenle**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "brokenmelodies",
+            "code": "`BKCL_A`"
+        }     
+    ],
+    "BKCL_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Broken Melodies Chenle**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "brokenmelodies",
+            "code": "`BKCL_S`"
+        }     
+    ],
+    "BKCL_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Broken Melodies Chenle**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "brokenmelodies",
+            "code": "`BKCL_R`"
+        }      
+    ],
+    "BKJS_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Broken Melodies Jisung**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "brokenmelodies",
+            "code": "`BKJS_C`"
+        }          
+    ],
+    "BKJS_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Broken Melodies Jisung**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "brokenmelodies",
+            "code": "`BKJS_B`"
+        }               
+    ],
+    "BKJS_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Broken Melodies Jisung**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "brokenmelodies",
+            "code": "`BKJS_A`"
+        }     
+    ],
+    "BKJS_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Broken Melodies Jisung**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "brokenmelodies",
+            "code": "`BKJS_S`"
+        }     
+    ],
+    "BKJS_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Broken Melodies Jisung**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "brokenmelodies",
+            "code": "`BKJS_R`"
+        }      
+    ],
     "KYJ_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Kitsch Yujin**",
