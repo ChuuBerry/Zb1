@@ -8,6 +8,231 @@
             "code": "`IBHB_C`"
         }
     ],
+    "CWYMJ_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Cool With You Minji**",
+            "image": "https://media.discordapp.net/attachments/1136226630432473269/1136236020862550016/NewJeans_20230802175254.png",
+            "theme": "card1",
+            "inv": "coolwithyou",
+            "code": "`CWYMJ_C`"
+        }          
+    ],
+    "CWYMJ_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Cool With You Minji**",
+            "image": "https://media.discordapp.net/attachments/1136226630432473269/1136236021185523772/NewJeans_20230802175257.png",
+            "theme": "card1",
+            "inv": "coolwithyou",
+            "code": "`CWYMJ_B`"
+        }               
+    ],
+    "CWYMJ_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Cool With You Minji**",
+            "image": "https://media.discordapp.net/attachments/1136226630432473269/1136236021554610216/NewJeans_20230802175300.png",
+            "theme": "card1",
+            "inv": "coolwithyou",
+            "code": "`CWYMJ_A`"
+        }     
+    ],
+    "CWYMJ_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Cool With You Minji**",
+            "image": "https://media.discordapp.net/attachments/1136226630432473269/1136236021894357022/NewJeans_20230802175303.png",
+            "theme": "card1",
+            "inv": "coolwithyou",
+            "code": "`CWYMJ_S`"
+        }     
+    ],
+    "CWYMJ_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Cool With You Minji**",
+            "image": "https://media.discordapp.net/attachments/1136226630432473269/1136236022410260642/NewJeans_20230802175306.png",
+            "theme": "card1",
+            "inv": "coolwithyou",
+            "code": "`CWYMJ_R`"
+        } 
+    ],
+    "CWYHN_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Cool With You Hanni**",
+            "image": "https://media.discordapp.net/attachments/1136226630432473269/1136236046586224681/NewJeans_20230802175314.png",
+            "theme": "card1",
+            "inv": "coolwithyou",
+            "code": "`CWYHN_C`"
+        }          
+    ],
+    "CWYHN_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Cool With You Hanni**",
+            "image": "https://media.discordapp.net/attachments/1136226630432473269/1136236046833684480/NewJeans_20230802175317.png",
+            "theme": "card1",
+            "inv": "coolwithyou",
+            "code": "`CWYHN_B`"
+        }               
+    ],
+    "CWYHN_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Cool With You Hanni**",
+            "image": "https://media.discordapp.net/attachments/1136226630432473269/1136236047118905344/NewJeans_20230802175320.png",
+            "theme": "card1",
+            "inv": "coolwithyou",
+            "code": "`CWYHN_A`"
+        }     
+    ],
+    "CWYHN_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Cool With You Hanni**",
+            "image": "https://media.discordapp.net/attachments/1136226630432473269/1136236047349588088/NewJeans_20230802175324.png",
+            "theme": "card1",
+            "inv": "coolwithyou",
+            "code": "`CWYHN_S`"
+        }     
+    ],
+    "CWYHN_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Cool With You Hanni**",
+            "image": "https://media.discordapp.net/attachments/1136226630432473269/1136236047592853554/NewJeans_20230802175328.png",
+            "theme": "card1",
+            "inv": "coolwithyou",
+            "code": "`CWYHN_R`"
+        }   
+    ],
+    "CWYDN_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Cool With You Danielle**",
+            "image": "https://media.discordapp.net/attachments/1136226630432473269/1136236071466831924/NewJeans_20230802175337.png",
+            "theme": "card1",
+            "inv": "coolwithyou",
+            "code": "`CWYDN_C`"
+        }          
+    ],
+    "CWYDN_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Cool With You Danielle**",
+            "image": "https://media.discordapp.net/attachments/1136226630432473269/1136236076688756806/NewJeans_20230802175341.png",
+            "theme": "card1",
+            "inv": "coolwithyou",
+            "code": "`CWYDN_B`"
+        }               
+    ],
+    "CWYDN_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Cool With You Danielle**",
+            "image": "https://media.discordapp.net/attachments/1136226630432473269/1136236077213040730/NewJeans_20230802175343.png",
+            "theme": "card1",
+            "inv": "coolwithyou",
+            "code": "`CWYDN_A`"
+        }     
+    ],
+    "CWYDN_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Cool With You Danielle**",
+            "image": "https://media.discordapp.net/attachments/1136226630432473269/1136236077473075200/NewJeans_20230802175346.png",
+            "theme": "card1",
+            "inv": "coolwithyou",
+            "code": "`CWYDN_S`"
+        }     
+    ],
+    "CWYDN_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Cool With You Danielle**",
+            "image": "https://media.discordapp.net/attachments/1136226630432473269/1136236077758304286/NewJeans_20230802175349.png",
+            "theme": "card1",
+            "inv": "coolwithyou",
+            "code": "`CWYDN_R`"
+        }  
+    ],
+    "CWYHR_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Cool With You Haerin**",
+            "image": "https://media.discordapp.net/attachments/1136226630432473269/1136236156183380029/NewJeans_20230802175357.png",
+            "theme": "card1",
+            "inv": "coolwithyou",
+            "code": "`CWYHR_C`"
+        }          
+    ],
+    "CWYHR_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Cool With You Haerin**",
+            "image": "https://media.discordapp.net/attachments/1136226630432473269/1136236156481179710/NewJeans_20230802175359.png",
+            "theme": "card1",
+            "inv": "coolwithyou",
+            "code": "`CWYHR_B`"
+        }               
+    ],
+    "CWYHR_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Cool With You Haerin**",
+            "image": "https://media.discordapp.net/attachments/1136226630432473269/1136236156820914176/NewJeans_20230802175403.png",
+            "theme": "card1",
+            "inv": "coolwithyou",
+            "code": "`CWYHR_A`"
+        }     
+    ],
+    "CWYHR_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Cool With You Haerin**",
+            "image": "https://media.discordapp.net/attachments/1136226630432473269/1136236157131313272/NewJeans_20230802175405.png",
+            "theme": "card1",
+            "inv": "coolwithyou",
+            "code": "`CWYHR_S`"
+        }     
+    ],
+    "CWYHR_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Cool With You Haerin**",
+            "image": "https://media.discordapp.net/attachments/1136226630432473269/1136236157496201299/NewJeans_20230802175408.png",
+            "theme": "card1",
+            "inv": "coolwithyou",
+            "code": "`CWYHR_R`"
+        }   
+    ],
+    "CWYHI_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Cool With You Hyein**",
+            "image": "https://media.discordapp.net/attachments/1136226630432473269/1136236181043036241/NewJeans_20230802175417.png",
+            "theme": "card1",
+            "inv": "coolwithyou",
+            "code": "`CWYHI_C`"
+        }          
+    ],
+    "CWYHI_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Cool With You Hyein**",
+            "image": "https://media.discordapp.net/attachments/1136226630432473269/1136236181416333412/NewJeans_20230802175424.png",
+            "theme": "card1",
+            "inv": "coolwithyou",
+            "code": "`CWYHI_B`"
+        }               
+    ],
+    "CWYHI_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Cool With You Hyein**",
+            "image": "https://media.discordapp.net/attachments/1136226630432473269/1136236181764448286/NewJeans_20230802175426.png",
+            "theme": "card1",
+            "inv": "coolwithyou",
+            "code": "`CWYHI_A`"
+        }     
+    ],
+    "CWYHI_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Cool With You Hyein**",
+            "image": "https://media.discordapp.net/attachments/1136226630432473269/1136236182074835005/NewJeans_20230802175429.png",
+            "theme": "card1",
+            "inv": "coolwithyou",
+            "code": "`CWYHI_S`"
+        }     
+    ],
+    "CWYHI_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Cool With You Hyein**",
+            "image": "https://media.discordapp.net/attachments/1136226630432473269/1136236182347468930/NewJeans_20230802175432.png",
+            "theme": "card1",
+            "inv": "coolwithyou",
+            "code": "`CWYHI_R`"
+        }      
+    ],
     "NAHB_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Not Alone Hanbin**",
