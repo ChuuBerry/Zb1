@@ -8,6 +8,276 @@
             "code": "`IBHB_C`"
         }
     ],
+    "KYJ_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Kitsch Yujin**",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1136292883012521984/IVE_20230802213929.png",
+            "theme": "card1",
+            "inv": "kitsch",
+            "code": "`KYJ_C`"
+        }          
+    ],
+    "KYJ_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Kitsch Yujin**",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1136292883268370582/IVE_20230802213932.png",
+            "theme": "card1",
+            "inv": "kitsch",
+            "code": "`KYJ_B`"
+        }               
+    ],
+    "KYJ_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Kitsch Yujin**",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1136292883616501871/IVE_20230802213935.png",
+            "theme": "card1",
+            "inv": "kitsch",
+            "code": "`KYJ_A`"
+        }     
+    ],
+    "KYJ_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Kitsch Yujin**",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1136292883993993346/IVE_20230802213937.png",
+            "theme": "card1",
+            "inv": "kitsch",
+            "code": "`KYJ_S`"
+        }     
+    ],
+    "KYJ_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Kitsch Yujin**",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1136292884291784734/IVE_20230802213941.png",
+            "theme": "card1",
+            "inv": "kitsch",
+            "code": "`KYJ_R`"
+        }  
+    ],
+    "KGE_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Kitsch Gaeul**",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1136292909457612870/IVE_20230802213950.png",
+            "theme": "card1",
+            "inv": "kitsch",
+            "code": "`KGE_C`"
+        }          
+    ],
+    "KGE_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Kitsch Gaeul**",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1136292909780570162/IVE_20230802213953.png",
+            "theme": "card1",
+            "inv": "kitsch",
+            "code": "`KGE_B`"
+        }               
+    ],
+    "KGE_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Kitsch Gaeul**",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1136292910191616091/IVE_20230802213955.png",
+            "theme": "card1",
+            "inv": "kitsch",
+            "code": "`KGE_A`"
+        }     
+    ],
+    "KGE_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Kitsch Gaeul**",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1136292910644613120/IVE_20230802213958.png",
+            "theme": "card1",
+            "inv": "kitsch",
+            "code": "`KGE_S`"
+        }     
+    ],
+    "KGE_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Kitsch Gaeul**",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1136292911110164610/IVE_20230802214001.png",
+            "theme": "card1",
+            "inv": "kitsch",
+            "code": "`KGE_R`"
+        }   
+    ],
+    "KRE_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Kitsch Rei**",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1136292934958985226/IVE_20230802214009.png",
+            "theme": "card1",
+            "inv": "kitsch",
+            "code": "`KRE_C`"
+        }          
+    ],
+    "KRE_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Kitsch Rei**",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1136292935265161357/IVE_20230802214011.png",
+            "theme": "card1",
+            "inv": "kitsch",
+            "code": "`KRE_B`"
+        }               
+    ],
+    "KRE_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Kitsch Rei**",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1136292935529414747/IVE_20230802214014.png",
+            "theme": "card1",
+            "inv": "kitsch",
+            "code": "`KRE_A`"
+        }     
+    ],
+    "KRE_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Kitsch Rei**",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1136292935785263114/IVE_20230802214017.png",
+            "theme": "card1",
+            "inv": "kitsch",
+            "code": "`KRR_S`"
+        }     
+    ],
+    "KRE_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Kitsch Rei**",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1136292936074674318/IVE_20230802214019.png",
+            "theme": "card1",
+            "inv": "kitsch",
+            "code": "`KYJ_R`"
+        }      
+    ],
+    "KWY_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Kitsch Wonyoung**",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1136292961131446362/IVE_20230802214029.png",
+            "theme": "card1",
+            "inv": "kitsch",
+            "code": "`KWY_C`"
+        }          
+    ],
+    "KWY_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Kitsch Wonyoung**",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1136292961387290694/IVE_20230802214031.png",
+            "theme": "card1",
+            "inv": "kitsch",
+            "code": "`KWY_B`"
+        }               
+    ],
+    "KWY_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Kitsch Wonyoung**",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1136292961706049536/IVE_20230802214034.png",
+            "theme": "card1",
+            "inv": "kitsch",
+            "code": "`KWY_A`"
+        }     
+    ],
+    "KWY_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Kitsch Wonyoung**",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1136292961936752682/IVE_20230802214037.png",
+            "theme": "card1",
+            "inv": "kitsch",
+            "code": "`KWY_S`"
+        }     
+    ],
+    "KWY_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Kitsch Wonyoung**",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1136292962171625492/IVE_20230802214039.png",
+            "theme": "card1",
+            "inv": "kitsch",
+            "code": "`KWY_R`"
+        } 
+    ],
+    "KLI_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Kitsch Liz**",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1136292995604422757/IVE_20230802214048.png",
+            "theme": "card1",
+            "inv": "kitsch",
+            "code": "`KLI_C`"
+        }          
+    ],
+    "KLI_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Kitsch Liz**",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1136292995935768706/IVE_20230802214052.png",
+            "theme": "card1",
+            "inv": "kitsch",
+            "code": "`KLI_B`"
+        }               
+    ],
+    "KLI_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Kitsch Liz**",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1136292996233568296/IVE_20230802214055.png",
+            "theme": "card1",
+            "inv": "kitsch",
+            "code": "`KLI_A`"
+        }     
+    ],
+    "KLI_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Kitsch Liz**",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1136292996539764806/IVE_20230802214057.png",
+            "theme": "card1",
+            "inv": "kitsch",
+            "code": "`KLI_S`"
+        }     
+    ],
+    "KLI_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Kitsch Liz**",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1136292996820766780/IVE_20230802214101.png",
+            "theme": "card1",
+            "inv": "kitsch",
+            "code": "`KLI_R`"
+        }      
+    ],
+    "KLS_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Kitsch Leeseo**",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1136293025505607812/IVE_20230802214109.png",
+            "theme": "card1",
+            "inv": "kitsch",
+            "code": "`KLS_C`"
+        }          
+    ],
+    "KLS_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Kitsch Leeseo**",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1136293025761468500/IVE_20230802214112.png",
+            "theme": "card1",
+            "inv": "kitsch",
+            "code": "`KLS_B`"
+        }               
+    ],
+    "KLS_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Kitsch Leeseo**",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1136293026084425838/IVE_20230802214115.png",
+            "theme": "card1",
+            "inv": "kitsch",
+            "code": "`KLS_A`"
+        }     
+    ],
+    "KLS_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Kitsch Leeseo**",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1136293026336079965/IVE_20230802214117.png",
+            "theme": "card1",
+            "inv": "kitsch",
+            "code": "`KLS_S`"
+        }     
+    ],
+    "KLS_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Kitsch Leeseo**",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1136293026558386226/IVE_20230802214120.png",
+            "theme": "card1",
+            "inv": "kitsch",
+            "code": "`KLS_R`"
+        }      
+    ],
     "SMBX_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Save Me, Kill Me BX**",
