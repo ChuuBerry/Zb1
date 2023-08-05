@@ -53,7 +53,42 @@
             "name": "`Free` **NewJeans Wallpaper#1**",
             "image": "https://media.discordapp.net/attachments/1135843503507787856/1136273939061031052/Untitled295_20230802202517.png",
             "code": "`NJFR1_WP`"
-        }        
+        }   
+    ],
+    "OECFR1_WP": [
+        {
+            "name": "`Free` **ODD EYE CIRCLE Wallpaper#1**",
+            "image": "https://media.discordapp.net/attachments/1135843503507787856/1136718397812514976/Untitled295_20230804015154.png",
+            "code": "`OECFR1_WP`"
+        }
+    ],
+    "OECEV1_WP": [
+        {
+            "name": "`Event` **ODD EYE CIRCLE Wallpaper#1**",
+            "image": "https://media.discordapp.net/attachments/1135843503507787856/1136718520936308796/Untitled295_20230804014413.png",
+            "code": "`OECEV1_WP`"
+        }   
+    ],
+    "DJJFR1_WP": [
+        {
+            "name": "`Free` **NCT DoJaeJung Wallpaper#1**",
+            "image": "https://media.discordapp.net/attachments/1135843503507787856/1136854789800607884/Untitled295_20230804105318.png",
+            "code": "`DJJFR1_WP`"
+        }  
+    ],
+    "LSFFR1_WP": [
+        {
+            "name": "`Free` **LE SSERAFIM Wallpaper#1**",
+            "image": "https://media.discordapp.net/attachments/1135843503507787856/1137274689065058355/Untitled295_20230805144240.png",
+            "code": "`LSFFR1_WP`"
+        } 
+    ],
+    "TXTFR1_WP": [
+        {
+            "name": "`Free` **TOMORROW X TOGETHER Wallpaper#1**",
+            "image": "https://media.discordapp.net/attachments/1135843503507787856/1137385033850683452/Untitled295_20230805215941.png",
+            "code": "`TXTFR1_WP`"
+        }    
     ]
 }
     
