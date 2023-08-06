@@ -8,6 +8,141 @@
             "code": "`IBHB_C`"
         }
     ],
+    "JNJS_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Je Ne Sais Quoi Jinsoul**",
+            "image": "https://media.discordapp.net/attachments/1136712583404068986/1136712843220222002/ODDEYECIRCLE_20230804012806.png",
+            "theme": "card1",
+            "inv": "jenesaisquoi",
+            "code": "`JNJS_C`"
+        }          
+    ],
+    "JNJS_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Je Ne Sais Quoi Jinsoul**",
+            "image": "https://media.discordapp.net/attachments/1136712583404068986/1136712843530604614/ODDEYECIRCLE_20230804012809.png",
+            "theme": "card1",
+            "inv": "jenesaisquoi",
+            "code": "`JNJS_B`"
+        }               
+    ],
+    "JNJS_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Je Ne Sais Quoi Jinsoul**",
+            "image": "https://media.discordapp.net/attachments/1136712583404068986/1136712843815833650/ODDEYECIRCLE_20230804012812.png",
+            "theme": "card1",
+            "inv": "jenesaisquoi",
+            "code": "`JNJS_A`"
+        }     
+    ],
+    "JNJS_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Je Ne Sais Quoi Jinsoul**",
+            "image": "https://media.discordapp.net/attachments/1136712583404068986/1136712844071669840/ODDEYECIRCLE_20230804012815.png",
+            "theme": "card1",
+            "inv": "jenesaisquoi",
+            "code": "`JNJS_S`"
+        }     
+    ],
+    "JNJS_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Je Ne Sais Quoi Jinsoul**",
+            "image": "https://media.discordapp.net/attachments/1136712583404068986/1136712844373676154/ODDEYECIRCLE_20230804012818.png",
+            "theme": "card1",
+            "inv": "jenesaisquoi",
+            "code": "`JNJS_R`"
+        } 
+    ],
+    "JNKL_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Je Ne Sais Quoi Kim Lip**",
+            "image": "https://media.discordapp.net/attachments/1136712583404068986/1136712868960686262/ODDEYECIRCLE_20230804012828.png",
+            "theme": "card1",
+            "inv": "jenesaisquoi",
+            "code": "`JNKL_C`"
+        }          
+    ],
+    "JNKL_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Je Ne Sais Quoi Kim Lip**",
+            "image": "https://media.discordapp.net/attachments/1136712583404068986/1136712869262655600/ODDEYECIRCLE_20230804012831.png",
+            "theme": "card1",
+            "inv": "jenesaisquoi",
+            "code": "`JNKL_B`"
+        }               
+    ],
+    "JNKL_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Je Ne Sais Quoi Kim Lip**",
+            "image": "https://media.discordapp.net/attachments/1136712583404068986/1136712869547888720/ODDEYECIRCLE_20230804012834.png",
+            "theme": "card1",
+            "inv": "jenesaisquoi",
+            "code": "`JNKL_A`"
+        }     
+    ],
+    "JNKL_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Je Ne Sais Quoi Kim Lip**",
+            "image": "https://media.discordapp.net/attachments/1136712583404068986/1136712869803720724/ODDEYECIRCLE_20230804012837.png",
+            "theme": "card1",
+            "inv": "jenesaisquoi",
+            "code": "`JNKL_S`"
+        }     
+    ],
+    "JNKL_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Je Ne Sais Quoi Kim Lip**",
+            "image": "https://media.discordapp.net/attachments/1136712583404068986/1136712870059593768/ODDEYECIRCLE_20230804012839.png",
+            "theme": "card1",
+            "inv": "jenesaisquoi",
+            "code": "`JNKL_R`"
+        } 
+    ],
+    "JNCE_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Je Ne Sais Quoi Choerry**",
+            "image": "https://media.discordapp.net/attachments/1136712583404068986/1136712894571106355/ODDEYECIRCLE_20230804012852.png",
+            "theme": "card1",
+            "inv": "jenesaisquoi",
+            "code": "`JNCE_C`"
+        }          
+    ],
+    "JNCE_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Je Ne Sais Quoi Choerry**",
+            "image": "https://media.discordapp.net/attachments/1136712583404068986/1136712895091187862/ODDEYECIRCLE_20230804012855.png",
+            "theme": "card1",
+            "inv": "jenesaisquoi",
+            "code": "`JNCE_B`"
+        }               
+    ],
+    "JNCE_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Je Ne Sais Quoi Choerry**",
+            "image": "https://media.discordapp.net/attachments/1136712583404068986/1136712895355424788/ODDEYECIRCLE_20230804012858.png",
+            "theme": "card1",
+            "inv": "jenesaisquoi",
+            "code": "`JNCE_A`"
+        }     
+    ],
+    "JNCE_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Je Ne Sais Quoi Choerry**",
+            "image": "https://media.discordapp.net/attachments/1136712583404068986/1136712895619682425/ODDEYECIRCLE_20230804012901.png",
+            "theme": "card1",
+            "inv": "jenesaisquoi",
+            "code": "`JNCE_S`"
+        }     
+    ],
+    "JNCE_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Je Ne Sais Quoi Choerry**",
+            "image": "https://media.discordapp.net/attachments/1136712583404068986/1136712895875526656/ODDEYECIRCLE_20230804012904.png",
+            "theme": "card1",
+            "inv": "jenesaisquoi",
+            "code": "`JNCE_R`"
+        }     
+    ],
     "PDY_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Perfume Doyoung**",
