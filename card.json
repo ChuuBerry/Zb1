@@ -8,6 +8,141 @@
             "code": "`IBHB_C`"
         }
     ],
+    "PDY_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Perfume Doyoung**",
+            "image": "https://media.discordapp.net/attachments/1136853254714703952/1136853436894294098/DJJ_20230804104746.png",
+            "theme": "card1",
+            "inv": "perfume",
+            "code": "`PDY_C`"
+        }          
+    ],
+    "PDY_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Perfume Doyoung**",
+            "image": "https://media.discordapp.net/attachments/1136853254714703952/1136853437162721290/DJJ_20230804104749.png",
+            "theme": "card1",
+            "inv": "perfume",
+            "code": "`PDY_B`"
+        }               
+    ],
+    "PDY_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Perfume Doyoung**",
+            "image": "https://media.discordapp.net/attachments/1136853254714703952/1136853437401800704/DJJ_20230804104752.png",
+            "theme": "card1",
+            "inv": "perfume",
+            "code": "`PDY_A`"
+        }     
+    ],
+    "PDY_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Perfume Doyoung**",
+            "image": "https://media.discordapp.net/attachments/1136853254714703952/1136853437754126386/DJJ_20230804104754.png",
+            "theme": "card1",
+            "inv": "perfume",
+            "code": "`PDY_S`"
+        }     
+    ],
+    "PDY_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Perfume Doyoung**",
+            "image": "https://media.discordapp.net/attachments/1136853254714703952/1136853438123216916/DJJ_20230804104757.png",
+            "theme": "card1",
+            "inv": "perfume",
+            "code": "`PDY_R`"
+        } 
+    ],
+    "PJH_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Perfume Jaehyun**",
+            "image": "https://media.discordapp.net/attachments/1136853254714703952/1136853460655022181/DJJ_20230804104811.png",
+            "theme": "card1",
+            "inv": "perfume",
+            "code": "`PJH_C`"
+        }          
+    ],
+    "PJH_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Perfume Jaehyun**",
+            "image": "https://media.discordapp.net/attachments/1136853254714703952/1136853460977991780/DJJ_20230804104814.png",
+            "theme": "card1",
+            "inv": "perfume",
+            "code": "`PJH_B`"
+        }               
+    ],
+    "PJH_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Perfume Jaehyun**",
+            "image": "https://media.discordapp.net/attachments/1136853254714703952/1136853461221265468/DJJ_20230804104817.png",
+            "theme": "card1",
+            "inv": "perfume",
+            "code": "`PJH_A`"
+        }     
+    ],
+    "PJH_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Perfume Jaehyun**",
+            "image": "https://media.discordapp.net/attachments/1136853254714703952/1136853461560991814/DJJ_20230804104820.png",
+            "theme": "card1",
+            "inv": "perfume",
+            "code": "`PJH_S`"
+        }     
+    ],
+    "PJH_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Perfume Jaehyun**",
+            "image": "https://media.discordapp.net/attachments/1136853254714703952/1136853461842018385/DJJ_20230804104822.png",
+            "theme": "card1",
+            "inv": "perfume",
+            "code": "`PJH_R`"
+        }  
+    ],
+    "PJW_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Perfume Jungwoo**",
+            "image": "https://media.discordapp.net/attachments/1136853254714703952/1136853483404939384/DJJ_20230804104832.png",
+            "theme": "card1",
+            "inv": "perfume",
+            "code": "`PJW_C`"
+        }          
+    ],
+    "PJW_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Perfume Jungwoo**",
+            "image": "https://media.discordapp.net/attachments/1136853254714703952/1136853483606257674/DJJ_20230804104834.png",
+            "theme": "card1",
+            "inv": "perfume",
+            "code": "`PJW_B`"
+        }               
+    ],
+    "PJW_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Perfume Jungwoo**",
+            "image": "https://media.discordapp.net/attachments/1136853254714703952/1136853483841142824/DJJ_20230804104837.png",
+            "theme": "card1",
+            "inv": "perfume",
+            "code": "`PJW_A`"
+        }     
+    ],
+    "PJW_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Perfume Jungwoo**",
+            "image": "https://media.discordapp.net/attachments/1136853254714703952/1136853484084416612/DJJ_20230804104840.png",
+            "theme": "card1",
+            "inv": "perfume",
+            "code": "`PJW_S`"
+        }     
+    ],
+    "PDY_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Perfume Jungwoo**",
+            "image": "https://media.discordapp.net/attachments/1136853254714703952/1136853484344455318/DJJ_20230804104842.png",
+            "theme": "card1",
+            "inv": "perfume",
+            "code": "`PDY_R`"
+        }     
+    ],
     "AFOJS_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Air Force One Jinsoul**",
