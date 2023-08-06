@@ -8,6 +8,141 @@
             "code": "`IBHB_C`"
         }
     ],
+    "AFOJS_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Air Force One Jinsoul**",
+            "image": "https://media.discordapp.net/attachments/1136712583404068986/1136875443212013608/ODDEYECIRCLE_20230804121506.png",
+            "theme": "card1",
+            "inv": "airforceone",
+            "code": "`AFOJS_C`"
+        }          
+    ],
+    "AFOJS_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Air Force One Jinsoul**",
+            "image": "https://media.discordapp.net/attachments/1136712583404068986/1136875443467862066/ODDEYECIRCLE_20230804121508.png",
+            "theme": "card1",
+            "inv": "airforceone",
+            "code": "`AFOJS_B`"
+        }               
+    ],
+    "AFOJS_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Air Force One Jinsoul**",
+            "image": "https://media.discordapp.net/attachments/1136712583404068986/1136875443698536458/ODDEYECIRCLE_20230804121511.png",
+            "theme": "card1",
+            "inv": "airforceone",
+            "code": "`AFOJS_A`"
+        }     
+    ],
+    "AFOJS_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Air Force One Jinsoul**",
+            "image": "https://media.discordapp.net/attachments/1136712583404068986/1136875444008931378/ODDEYECIRCLE_20230804121513.png",
+            "theme": "card1",
+            "inv": "airforceone",
+            "code": "`AFOJS_S`"
+        }     
+    ],
+    "AFOJS_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Air Force One Jinsoul**",
+            "image": "https://media.discordapp.net/attachments/1136712583404068986/1136875444348665907/ODDEYECIRCLE_20230804121516.png",
+            "theme": "card1",
+            "inv": "airforceone",
+            "code": "`AFOJS_R`"
+        }
+    ],
+    "AFOKL_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Air Force One Jinsoul**",
+            "image": "https://media.discordapp.net/attachments/1136712583404068986/1136875466662367283/ODDEYECIRCLE_20230804121524.png",
+            "theme": "card1",
+            "inv": "airforceone",
+            "code": "`AFOKL_C`"
+        }          
+    ],
+    "AFOKL_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Air Force One Jinsoul**",
+            "image": "https://media.discordapp.net/attachments/1136712583404068986/1136875466888847441/ODDEYECIRCLE_20230804121527.png",
+            "theme": "card1",
+            "inv": "airforceone",
+            "code": "`AFOKL_B`"
+        }               
+    ],
+    "AFOKL_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Air Force One Jinsoul**",
+            "image": "https://media.discordapp.net/attachments/1136712583404068986/1136875467119542344/ODDEYECIRCLE_20230804121529.png",
+            "theme": "card1",
+            "inv": "airforceone",
+            "code": "`AFOKL_A`"
+        }     
+    ],
+    "AFOKL_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Air Force One Jinsoul**",
+            "image": "https://media.discordapp.net/attachments/1136712583404068986/1136875467354427453/ODDEYECIRCLE_20230804121531.png",
+            "theme": "card1",
+            "inv": "airforceone",
+            "code": "`AFOKL_S`"
+        }     
+    ],
+    "AFOKL_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Air Force One Jinsoul**",
+            "image": "https://media.discordapp.net/attachments/1136712583404068986/1136875467723513956/ODDEYECIRCLE_20230804121535.png",
+            "theme": "card1",
+            "inv": "airforceone",
+            "code": "`AFOKL_R`"
+        }
+    ],
+    "AFOCE_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Air Force One Jinsoul**",
+            "image": "https://media.discordapp.net/attachments/1136712583404068986/1136875491329069128/ODDEYECIRCLE_20230804121542.png",
+            "theme": "card1",
+            "inv": "airforceone",
+            "code": "`AFOCE_C`"
+        }          
+    ],
+    "AFOCE_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Air Force One Jinsoul**",
+            "image": "https://media.discordapp.net/attachments/1136712583404068986/1136875491639431299/ODDEYECIRCLE_20230804121545.png",
+            "theme": "card1",
+            "inv": "airforceone",
+            "code": "`AFOCE_B`"
+        }               
+    ],
+    "AFOCE_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Air Force One Jinsoul**",
+            "image": "https://media.discordapp.net/attachments/1136712583404068986/1136875491874328716/ODDEYECIRCLE_20230804121547.png",
+            "theme": "card1",
+            "inv": "airforceone",
+            "code": "`AFOCE_A`"
+        }     
+    ],
+    "AFOCE_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Air Force One Jinsoul**",
+            "image": "https://media.discordapp.net/attachments/1136712583404068986/1136875492138561657/ODDEYECIRCLE_20230804121550.png",
+            "theme": "card1",
+            "inv": "airforceone",
+            "code": "`AFOCE_S`"
+        }     
+    ],
+    "AFOCE_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Air Force One Jinsoul**",
+            "image": "https://media.discordapp.net/attachments/1136712583404068986/1136875492394405938/ODDEYECIRCLE_20230804121552.png",
+            "theme": "card1",
+            "inv": "airforceone",
+            "code": "`AFOCE_R`"
+        }    
+    ],
     "BKMA_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Broken Melodies Mark**",
