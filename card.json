@@ -8,6 +8,231 @@
             "code": "`IBHB_C`"
         }
      ],
+    "SGRYJ_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Sugar Rush Ride Yeonjun**",
+            "image": "https://media.discordapp.net/attachments/1137383649952665620/1137383749798072401/TXT_20230805215539.png",
+            "theme": "card1",
+            "inv": "sugarushride",
+            "code": "`SGRYJ_C`"
+        }          
+    ],
+    "SGRYJ_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Sugar Rush Ride Yeonjun**",
+            "image": "https://media.discordapp.net/attachments/1137383649952665620/1137383750091669524/TXT_20230805215542.png",
+            "theme": "card1",
+            "inv": "sugarushride",
+            "code": "`AGRYJ_B`"
+        }               
+    ],
+    "SGRYJ_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Sugar Rush Ride Yeonjun**",
+            "image": "https://media.discordapp.net/attachments/1137383649952665620/1137383750599188510/TXT_20230805215545.png",
+            "theme": "card1",
+            "inv": "sugarushride",
+            "code": "`SGRYJ_A`"
+        }     
+    ],
+    "SGRYJ_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Sugar Rush Ride Yeonjun**",
+            "image": "https://media.discordapp.net/attachments/1137383649952665620/1137383750888591390/TXT_20230805215547.png",
+            "theme": "card1",
+            "inv": "sugarushride",
+            "code": "`SGRYJ_S`"
+        }     
+    ],
+    "SGRYJ_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Sugar Rush Ride Yeonjun**",
+            "image": "https://media.discordapp.net/attachments/1137383649952665620/1137383751270269049/TXT_20230805215550.png",
+            "theme": "card1",
+            "inv": "sugarushride",
+            "code": "`SGRYJ_R`"
+        } 
+     ],
+    "SGRSB_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Sugar Rush Ride Soobin**",
+            "image": "https://media.discordapp.net/attachments/1137383649952665620/1137383800515604612/TXT_20230805215518.png",
+            "theme": "card1",
+            "inv": "sugarushride",
+            "code": "`SGRSB_C`"
+        }          
+    ],
+    "SGRSB_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Sugar Rush Ride Soobin**",
+            "image": "https://media.discordapp.net/attachments/1137383649952665620/1137383800767250512/TXT_20230805215521.png",
+            "theme": "card1",
+            "inv": "sugarushride",
+            "code": "`SGRSB_B`"
+        }               
+    ],
+    "SGRSB_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Sugar Rush Ride Soobin**",
+            "image": "https://media.discordapp.net/attachments/1137383649952665620/1137383800985370644/TXT_20230805215524.png",
+            "theme": "card1",
+            "inv": "sugarushride",
+            "code": "`SGRSB_A`"
+        }     
+    ],
+    "SGRSB_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Sugar Rush Ride Soobin**",
+            "image": "https://media.discordapp.net/attachments/1137383649952665620/1137383801232830545/TXT_20230805215527.png",
+            "theme": "card1",
+            "inv": "sugarushride",
+            "code": "`SGRSB_S`"
+        }     
+    ],
+    "SGRSB_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Sugar Rush Ride Soobin**",
+            "image": "https://media.discordapp.net/attachments/1137383649952665620/1137383801463504978/TXT_20230805215530.png",
+            "theme": "card1",
+            "inv": "sugarushride",
+            "code": "`SGRSB_R`"
+        }    
+    ],
+    "SGRBG_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Sugar Rush Ride Beomgyu**",
+            "image": "https://media.discordapp.net/attachments/1137383649952665620/1137383825815646228/TXT_20230805215459.png",
+            "theme": "card1",
+            "inv": "sugarushride",
+            "code": "`SGRBG_C`"
+        }          
+    ],
+    "SGRBG_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Sugar Rush Ride Beomgyu**",
+            "image": "https://media.discordapp.net/attachments/1137383649952665620/1137383826088284190/TXT_20230805215502.png",
+            "theme": "card1",
+            "inv": "sugarushride",
+            "code": "`SGRBG_B`"
+        }               
+    ],
+    "SGRBG_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Sugar Rush Ride Beomgyu**",
+            "image": "https://media.discordapp.net/attachments/1137383649952665620/1137383826339938384/TXT_20230805215504.png",
+            "theme": "card1",
+            "inv": "sugarushride",
+            "code": "`SGRBG_A`"
+        }     
+    ],
+    "SGRBG_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Sugar Rush Ride Beomgyu**",
+            "image": "https://media.discordapp.net/attachments/1137383649952665620/1137383826646118492/TXT_20230805215507.png",
+            "theme": "card1",
+            "inv": "sugarushride",
+            "code": "`SGRBG_S`"
+        }     
+    ],
+    "SGRBG_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Sugar Rush Ride Beomgyu**",
+            "image": "https://media.discordapp.net/attachments/1137383649952665620/1137383826893590578/TXT_20230805215510.png",
+            "theme": "card1",
+            "inv": "sugarushride",
+            "code": "`SGRBG_R`"
+        } 
+    ],
+    "SGRTH_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Sugar Rush Ride Taehyun**",
+            "image": "https://media.discordapp.net/attachments/1137383649952665620/1137383850092273744/TXT_20230805215437.png",
+            "theme": "card1",
+            "inv": "sugarushride",
+            "code": "`SGRTH_C`"
+        }          
+    ],
+    "SGRTH_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Sugar Rush Ride Taehyun**",
+            "image": "https://media.discordapp.net/attachments/1137383649952665620/1137383850385879120/TXT_20230805215440.png",
+            "theme": "card1",
+            "inv": "sugarushride",
+            "code": "`SGRTH_B`"
+        }               
+    ],
+    "SGRTH_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Sugar Rush Ride Taehyun**",
+            "image": "https://media.discordapp.net/attachments/1137383649952665620/1137383850817880135/TXT_20230805215442.png",
+            "theme": "card1",
+            "inv": "sugarushride",
+            "code": "`SGRTH_A`"
+        }     
+    ],
+    "SGRTH_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Sugar Rush Ride Taehyun**",
+            "image": "https://media.discordapp.net/attachments/1137383649952665620/1137383851312816159/TXT_20230805215445.png",
+            "theme": "card1",
+            "inv": "sugarushride",
+            "code": "`SGRTH_S`"
+        }     
+    ],
+    "SGRTH_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Sugar Rush Ride Taehyun**",
+            "image": "https://media.discordapp.net/attachments/1137383649952665620/1137383855528095845/TXT_20230805215449.png",
+            "theme": "card1",
+            "inv": "sugarushride",
+            "code": "`SGRTH_R`"
+        }     
+    ],
+    "SGRHK_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Sugar Rush Ride Huening Kai**",
+            "image": "https://media.discordapp.net/attachments/1137383649952665620/1137383880014438520/TXT_20230805215413.png",
+            "theme": "card1",
+            "inv": "sugarushride",
+            "code": "`SGRHK_C`"
+        }          
+    ],
+    "SGRHK_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Sugar Rush Ride Huening Kai**",
+            "image": "https://media.discordapp.net/attachments/1137383649952665620/1137383880303841370/TXT_20230805215418.png",
+            "theme": "card1",
+            "inv": "sugarushride",
+            "code": "`SGRHK_B`"
+        }               
+    ],
+    "SGRHK_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Sugar Rush Ride Huening Kai**",
+            "image": "https://media.discordapp.net/attachments/1137383649952665620/1137383880597454869/TXT_20230805215422.png",
+            "theme": "card1",
+            "inv": "sugarushride",
+            "code": "`SGRHK_A`"
+        }     
+    ],
+    "SGRHK_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Sugar Rush Ride Huening Kai**",
+            "image": "https://media.discordapp.net/attachments/1137383649952665620/1137383880903630879/TXT_20230805215425.png",
+            "theme": "card1",
+            "inv": "sugarushride",
+            "code": "`SGRHK_S`"
+        }     
+    ],
+    "SGRHK_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Sugar Rush Ride Huening Kai**",
+            "image": "https://media.discordapp.net/attachments/1137383649952665620/1137383881172062288/TXT_20230805215427.png",
+            "theme": "card1",
+            "inv": "sugarushride",
+            "code": "`SGRHK_R`"
+        }     
+    ],
     "IAMCW_C": [
         {
             "name": "<:c_grade:1126649406230384671> **I'm a mess Chaewon**",
