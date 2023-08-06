@@ -7,6 +7,231 @@
             "inv": "inbloom",
             "code": "`IBHB_C`"
         }
+     ],
+    "IAMCW_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **I'm a mess Chaewon**",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1137272686523985950/LSF_20230805143400.png",
+            "theme": "card1",
+            "inv": "imamess",
+            "code": "`IAMCW_C`"
+        }          
+    ],
+    "IAMCW_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **I'm a mess Chaewon**",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1137272686750474240/LSF_20230805143403.png",
+            "theme": "card1",
+            "inv": "imamess",
+            "code": "`IAMCW_B`"
+        }               
+    ],
+    "IAMCW_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **I'm a mess Chaewon**",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1137272686964375592/LSF_20230805143405.png",
+            "theme": "card1",
+            "inv": "imamess",
+            "code": "`IAMCW_A`"
+        }     
+    ],
+    "IAMCW_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **I'm a mess Chaewon**",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1137272687228629023/LSF_20230805143409.png",
+            "theme": "card1",
+            "inv": "imamess",
+            "code": "`IAMCW_S`"
+        }     
+    ],
+    "IAMCW_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **I'm a mess Chaewon**",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1137272687526420500/LSF_20230805143411.png",
+            "theme": "card1",
+            "inv": "imamess",
+            "code": "`IAMCW_R`"
+        } 
+     ],
+    "IAMSK_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **I'm a mess Sakura**",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1137272770502328340/LSF_20230805143335.png",
+            "theme": "card1",
+            "inv": "imamess",
+            "code": "`IAMSK_C`"
+        }          
+    ],
+    "IAMSK_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **I'm a mess Sakura**",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1137272770997264404/LSF_20230805143337.png",
+            "theme": "card1",
+            "inv": "imamess",
+            "code": "`IAMSK_B`"
+        }               
+    ],
+    "IAMSK_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **I'm a mess Sakura**",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1137272771278295110/LSF_20230805143340.png",
+            "theme": "card1",
+            "inv": "imamess",
+            "code": "`IAMSK_A`"
+        }     
+    ],
+    "IAMSK_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **I'm a mess Sakura**",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1137272771508961280/LSF_20230805143342.png",
+            "theme": "card1",
+            "inv": "imamess",
+            "code": "`IAMSK_S`"
+        }     
+    ],
+    "IAMSK_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **I'm a mess Sakura**",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1137272771710296144/LSF_20230805143345.png",
+            "theme": "card1",
+            "inv": "imamess",
+            "code": "`IAMSK_R`"
+        } 
+     ],
+    "IAMYJ_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **I'm a mess Yunjin**",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1137273021531443260/LSF_20230805143312.png",
+            "theme": "card1",
+            "inv": "imamess",
+            "code": "`IAMYJ_C`"
+        }          
+    ],
+    "IAMYJ_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **I'm a mess Yunjin**",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1137273021804068926/LSF_20230805143315.png",
+            "theme": "card1",
+            "inv": "imamess",
+            "code": "`IAMYJ_B`"
+        }               
+    ],
+    "IAMYJ_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **I'm a mess Yunjin**",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1137273022085075044/LSF_20230805143317.png",
+            "theme": "card1",
+            "inv": "imamess",
+            "code": "`IAMYJ_A`"
+        }     
+    ],
+    "IAMYJ_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **I'm a mess Yunjin**",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1137273022370304021/LSF_20230805143320.png",
+            "theme": "card1",
+            "inv": "imamess",
+            "code": "`IAMYJ_S`"
+        }     
+    ],
+    "IAMYJ_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **I'm a mess Yunjin**",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1137273022634541116/LSF_20230805143323.png",
+            "theme": "card1",
+            "inv": "imamess",
+            "code": "`IAMYJ_R`"
+        }
+     ],
+    "IAMKZ_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **I'm a mess Kazuha**",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1137273176930385920/LSF_20230805143242.png",
+            "theme": "card1",
+            "inv": "imamess",
+            "code": "`IAMKZ_C`"
+        }          
+    ],
+    "IAMKZ_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **I'm a mess Kazuha**",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1137273177249169429/LSF_20230805143245.png",
+            "theme": "card1",
+            "inv": "imamess",
+            "code": "`IAMKZ_B`"
+        }               
+    ],
+    "IAMKZ_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **I'm a mess Kazuha**",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1137273177546969168/LSF_20230805143248.png",
+            "theme": "card1",
+            "inv": "imamess",
+            "code": "`IAMKZ_A`"
+        }     
+    ],
+    "IAMKZ_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **I'm a mess Kazuha**",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1137273177827967036/LSF_20230805143251.png",
+            "theme": "card1",
+            "inv": "imamess",
+            "code": "`IAMKZ_S`"
+        }     
+    ],
+    "IAMKZ_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **I'm a mess Kazuha**",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1137273178167726080/LSF_20230805143253.png",
+            "theme": "card1",
+            "inv": "imamess",
+            "code": "`IAMKZ_R`"
+        }    
+     ],
+    "IAMEC_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **I'm a mess Eunchae**",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1137273198816284743/LSF_20230805143217.png",
+            "theme": "card1",
+            "inv": "imamess",
+            "code": "`IAMEC_C`"
+        }          
+    ],
+    "IAMEC_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **I'm a mess Eunchae**",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1137273199051157614/LSF_20230805143220.png",
+            "theme": "card1",
+            "inv": "imamess",
+            "code": "`IAMEC_B`"
+        }               
+    ],
+    "IAMEC_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **I'm a mess Eunchae**",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1137273199340560434/LSF_20230805143223.png",
+            "theme": "card1",
+            "inv": "imamess",
+            "code": "`IAMEC_A`"
+        }     
+    ],
+    "IAMEC_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **I'm a mess Eunchae**",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1137273199558676500/LSF_20230805143227.png",
+            "theme": "card1",
+            "inv": "imamess",
+            "code": "`IAMEC_S`"
+        }     
+    ],
+    "IAMEC_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **I'm a mess Eunchae**",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1137273199797743696/LSF_20230805143230.png",
+            "theme": "card1",
+            "inv": "imamess",
+            "code": "`IAMEC_R`"
+        }     
     ],
     "JNJS_C": [
         {
