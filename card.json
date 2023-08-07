@@ -7,6 +7,411 @@
             "inv": "inbloom",
             "code": "`IBHB_C`"
         }
+      ],
+    "BHB_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Butterfly Hanbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "butterfly",
+            "code": "`BHB_C`"
+        }          
+    ],
+    "BHB_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Butterfly Hanbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "butterfly",
+            "code": "`BHB_B`"
+        }               
+    ],
+    "BHB_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Butterfly Hanbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "butterfly",
+            "code": "`BHB_A`"
+        }     
+    ],
+    "BHB_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Butterfly Hanbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "butterfly",
+            "code": "`BHB_S`"
+        }     
+    ],
+    "BHB_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Butterfly Hanbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "butterfly",
+            "code": "`BHB_R`"
+        }
+     ],
+    "BJW_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Butterfly Jiwoong**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "butterfly",
+            "code": "`BJW_C`"
+        }          
+    ],
+    "BJW_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Butterfly Jiwoong**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "butterfly",
+            "code": "`BJW_B`"
+        }               
+    ],
+    "BJW_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Butterfly Jiwoong**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "butterfly",
+            "code": "`BJW_A`"
+        }     
+    ],
+    "BJW_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Butterfly Jiwoong**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "butterfly",
+            "code": "`BJW_S`"
+        }     
+    ],
+    "BJW_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Butterfly Jiwoong**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "butterfly",
+            "code": "`BJW_R`"
+        }   
+     ],
+    "BZH_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Butterfly Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "butterfly",
+            "code": "`BZH_C`"
+        }          
+    ],
+    "BZH_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Butterfly Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "butterfly",
+            "code": "`BZH_B`"
+        }               
+    ],
+    "BZH_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Butterfly Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "butterfly",
+            "code": "`BZH_A`"
+        }     
+    ],
+    "BZH_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Butterfly Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "butterfly",
+            "code": "`BZH_S`"
+        }     
+    ],
+    "BZH_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Butterfly Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "butterfly",
+            "code": "`BZH_R`"
+        } 
+    ],
+    "BMT_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Butterfly Matthew**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "butterfly",
+            "code": "`BMT_C`"
+        }          
+    ],
+    "BMT_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Butterfly Matthew**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "butterfly",
+            "code": "`BMT_B`"
+        }               
+    ],
+    "BMT_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Butterfly Matthew**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "butterfly",
+            "code": "`BMT_A`"
+        }     
+    ],
+    "BMT_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Butterfly Matthew**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "butterfly",
+            "code": "`BMT_S`"
+        }     
+    ],
+    "BMT_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Butterfly Matthew**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "butterfly",
+            "code": "`BMT_R`"
+        } 
+    ],
+    "BTR_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Butterfly Taerae**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "butterfly",
+            "code": "`BTR_C`"
+        }          
+    ],
+    "BTR_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Butterfly Taerae**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "butterfly",
+            "code": "`BTR_B`"
+        }               
+    ],
+    "BTR_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Butterfly Taerae**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "butterfly",
+            "code": "`BTR_A`"
+        }     
+    ],
+    "BTR_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Butterfly Taerae**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "butterfly",
+            "code": "`BTR_S`"
+        }     
+    ],
+    "BTR_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Butterfly Taerae**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "butterfly",
+            "code": "`BTR_R`"
+        } 
+     ],
+    "BRC_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Butterfly Ricky**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "butterfly",
+            "code": "`BRC_C`"
+        }          
+    ],
+    "BRC_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Butterfly Ricky**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "butterfly",
+            "code": "`BRC_B`"
+        }               
+    ],
+    "BRC_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Butterfly Ricky**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "butterfly",
+            "code": "`BRC_A`"
+        }     
+    ],
+    "BRC_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Butterfly Ricky**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "butterfly",
+            "code": "`BRC_S`"
+        }     
+    ],
+    "BRC_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Butterfly Ricky**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "butterfly",
+            "code": "`BRC_R`"
+        }  
+     ],
+    "BGV_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Butterfly Gyuvin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "butterfly",
+            "code": "`BGV_C`"
+        }          
+    ],
+    "BGV_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Butterfly Gyuvin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "butterfly",
+            "code": "`BGV_B`"
+        }               
+    ],
+    "BGV_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Butterfly Gyuvin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "butterfly",
+            "code": "`BGV_A`"
+        }     
+    ],
+    "BGV_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Butterfly Gyuvin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "butterfly",
+            "code": "`BGV_S`"
+        }     
+    ],
+    "BGV_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Butterfly Gyuvin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "butterfly",
+            "code": "`BGV_R`"
+        } 
+     ],
+    "BGW_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Butterfly Gunwook**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "butterfly",
+            "code": "`BGW_C`"
+        }          
+    ],
+    "BGW_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Butterfly Gunwook**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "butterfly",
+            "code": "`BGW_B`"
+        }               
+    ],
+    "BGW_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Butterfly Gunwook**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "butterfly",
+            "code": "`BGW_A`"
+        }     
+    ],
+    "BGW_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Butterfly Gunwook**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "butterfly",
+            "code": "`BGW_S`"
+        }     
+    ],
+    "BGW_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Butterfly Gunwook**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "butterfly",
+            "code": "`BGW_R`"
+        }  
+     ],
+    "BYJ_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Butterfly Yujin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "butterfly",
+            "code": "`BYJ_C`"
+        }          
+    ],
+    "BYJ_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Butterfly Yujin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "butterfly",
+            "code": "`BYJ_B`"
+        }               
+    ],
+    "BYJ_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Butterfly Yujin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "butterfly",
+            "code": "`BYJ_A`"
+        }     
+    ],
+    "BYJ_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Butterfly Yujin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "butterfly",
+            "code": "`BYJ_S`"
+        }     
+    ],
+    "BYJ_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Butterfly Yujin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "butterfly",
+            "code": "`BYJ_R`"
+        }   
      ],
     "SGRYJ_C": [
         {
