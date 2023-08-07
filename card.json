@@ -11,7 +11,7 @@
     "BHB_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Butterfly Hanbin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1131543073491521546/1138054429438914560/Untitled439_Restored_20230807181659.png",
             "theme": "card1",
             "inv": "butterfly",
             "code": "`BHB_C`"
@@ -20,7 +20,7 @@
     "BHB_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Butterfly Hanbin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1131543073491521546/1138054429711532053/Untitled439_Restored_20230807181702.png",
             "theme": "card1",
             "inv": "butterfly",
             "code": "`BHB_B`"
@@ -29,7 +29,7 @@
     "BHB_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Butterfly Hanbin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1131543073491521546/1138054429938045029/Untitled439_Restored_20230807181704.png",
             "theme": "card1",
             "inv": "butterfly",
             "code": "`BHB_A`"
@@ -38,7 +38,7 @@
     "BHB_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Butterfly Hanbin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1131543073491521546/1138054430223249478/Untitled439_Restored_20230807181707.png",
             "theme": "card1",
             "inv": "butterfly",
             "code": "`BHB_S`"
@@ -47,7 +47,7 @@
     "BHB_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Butterfly Hanbin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1131543073491521546/1138054430525247488/Untitled439_Restored_20230807181710.png",
             "theme": "card1",
             "inv": "butterfly",
             "code": "`BHB_R`"
@@ -56,7 +56,7 @@
     "BJW_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Butterfly Jiwoong**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1131543073491521546/1138054453455487086/Untitled439_Restored_20230807181739.png",
             "theme": "card1",
             "inv": "butterfly",
             "code": "`BJW_C`"
@@ -65,7 +65,7 @@
     "BJW_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Butterfly Jiwoong**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1131543073491521546/1138054453711343657/Untitled439_Restored_20230807181742.png",
             "theme": "card1",
             "inv": "butterfly",
             "code": "`BJW_B`"
@@ -74,7 +74,7 @@
     "BJW_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Butterfly Jiwoong**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1131543073491521546/1138054453963006044/Untitled439_Restored_20230807181744.png",
             "theme": "card1",
             "inv": "butterfly",
             "code": "`BJW_A`"
@@ -83,7 +83,7 @@
     "BJW_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Butterfly Jiwoong**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1131543073491521546/1138054454248210522/Untitled439_Restored_20230807181747.png",
             "theme": "card1",
             "inv": "butterfly",
             "code": "`BJW_S`"
@@ -92,7 +92,7 @@
     "BJW_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Butterfly Jiwoong**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1131543073491521546/1138054454608924762/Untitled439_Restored_20230807181750.png",
             "theme": "card1",
             "inv": "butterfly",
             "code": "`BJW_R`"
@@ -101,7 +101,7 @@
     "BZH_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Butterfly Zhang Hao**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1131543073491521546/1138054480143851520/Untitled439_Restored_20230807181801.png",
             "theme": "card1",
             "inv": "butterfly",
             "code": "`BZH_C`"
@@ -110,7 +110,7 @@
     "BZH_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Butterfly Zhang Hao**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1131543073491521546/1138054480395522078/Untitled439_Restored_20230807181804.png",
             "theme": "card1",
             "inv": "butterfly",
             "code": "`BZH_B`"
@@ -119,7 +119,7 @@
     "BZH_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Butterfly Zhang Hao**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1131543073491521546/1138054480718471188/Untitled439_Restored_20230807181807.png",
             "theme": "card1",
             "inv": "butterfly",
             "code": "`BZH_A`"
@@ -128,7 +128,7 @@
     "BZH_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Butterfly Zhang Hao**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1131543073491521546/1138054480965926962/Untitled439_Restored_20230807181810.png",
             "theme": "card1",
             "inv": "butterfly",
             "code": "`BZH_S`"
@@ -137,7 +137,7 @@
     "BZH_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Butterfly Zhang Hao**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1131543073491521546/1138054481209200640/Untitled439_Restored_20230807181813.png",
             "theme": "card1",
             "inv": "butterfly",
             "code": "`BZH_R`"
@@ -146,7 +146,7 @@
     "BMT_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Butterfly Matthew**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1131543073491521546/1138054508195348541/Untitled439_Restored_20230807181832.png",
             "theme": "card1",
             "inv": "butterfly",
             "code": "`BMT_C`"
@@ -155,7 +155,7 @@
     "BMT_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Butterfly Matthew**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1131543073491521546/1138054508472176731/Untitled439_Restored_20230807181834.png",
             "theme": "card1",
             "inv": "butterfly",
             "code": "`BMT_B`"
@@ -164,7 +164,7 @@
     "BMT_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Butterfly Matthew**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1131543073491521546/1138054508799344670/Untitled439_Restored_20230807181842.png",
             "theme": "card1",
             "inv": "butterfly",
             "code": "`BMT_A`"
@@ -173,7 +173,7 @@
     "BMT_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Butterfly Matthew**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1131543073491521546/1138054509055180944/Untitled439_Restored_20230807181853.png",
             "theme": "card1",
             "inv": "butterfly",
             "code": "`BMT_S`"
@@ -182,7 +182,7 @@
     "BMT_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Butterfly Matthew**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1131543073491521546/1138054509315231754/Untitled439_Restored_20230807181855.png",
             "theme": "card1",
             "inv": "butterfly",
             "code": "`BMT_R`"
@@ -191,7 +191,7 @@
     "BTR_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Butterfly Taerae**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1131543073491521546/1138054533067571200/Untitled439_Restored_20230807181908.png",
             "theme": "card1",
             "inv": "butterfly",
             "code": "`BTR_C`"
@@ -200,7 +200,7 @@
     "BTR_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Butterfly Taerae**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1131543073491521546/1138054533734473748/Untitled439_Restored_20230807181911.png",
             "theme": "card1",
             "inv": "butterfly",
             "code": "`BTR_B`"
@@ -209,7 +209,7 @@
     "BTR_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Butterfly Taerae**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1131543073491521546/1138054534090993735/Untitled439_Restored_20230807181915.png",
             "theme": "card1",
             "inv": "butterfly",
             "code": "`BTR_A`"
@@ -218,7 +218,7 @@
     "BTR_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Butterfly Taerae**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1131543073491521546/1138054534355222538/Untitled439_Restored_20230807181918.png",
             "theme": "card1",
             "inv": "butterfly",
             "code": "`BTR_S`"
@@ -227,7 +227,7 @@
     "BTR_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Butterfly Taerae**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1131543073491521546/1138054534632054814/Untitled439_Restored_20230807181921.png",
             "theme": "card1",
             "inv": "butterfly",
             "code": "`BTR_R`"
@@ -236,7 +236,7 @@
     "BRC_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Butterfly Ricky**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1131543073491521546/1138054560028561408/Untitled439_Restored_20230807181958.png",
             "theme": "card1",
             "inv": "butterfly",
             "code": "`BRC_C`"
@@ -245,7 +245,7 @@
     "BRC_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Butterfly Ricky**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1131543073491521546/1138054560523493458/Untitled439_Restored_20230807182001.png",
             "theme": "card1",
             "inv": "butterfly",
             "code": "`BRC_B`"
@@ -254,7 +254,7 @@
     "BRC_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Butterfly Ricky**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1131543073491521546/1138054560884207668/Untitled439_Restored_20230807182003.png",
             "theme": "card1",
             "inv": "butterfly",
             "code": "`BRC_A`"
@@ -263,7 +263,7 @@
     "BRC_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Butterfly Ricky**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1131543073491521546/1138054561123274773/Untitled439_Restored_20230807182006.png",
             "theme": "card1",
             "inv": "butterfly",
             "code": "`BRC_S`"
@@ -272,7 +272,7 @@
     "BRC_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Butterfly Ricky**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1131543073491521546/1138054561416880179/Untitled439_Restored_20230807182008.png",
             "theme": "card1",
             "inv": "butterfly",
             "code": "`BRC_R`"
@@ -281,7 +281,7 @@
     "BGV_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Butterfly Gyuvin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1131543073491521546/1138054586326851584/Untitled439_Restored_20230807182021.png",
             "theme": "card1",
             "inv": "butterfly",
             "code": "`BGV_C`"
@@ -290,7 +290,7 @@
     "BGV_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Butterfly Gyuvin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1131543073491521546/1138054586628845618/Untitled439_Restored_20230807182024.png",
             "theme": "card1",
             "inv": "butterfly",
             "code": "`BGV_B`"
@@ -299,7 +299,7 @@
     "BGV_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Butterfly Gyuvin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1131543073491521546/1138054586851147818/Untitled439_Restored_20230807182028.png",
             "theme": "card1",
             "inv": "butterfly",
             "code": "`BGV_A`"
@@ -308,7 +308,7 @@
     "BGV_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Butterfly Gyuvin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1131543073491521546/1138054587102797897/Untitled439_Restored_20230807182031.png",
             "theme": "card1",
             "inv": "butterfly",
             "code": "`BGV_S`"
@@ -317,7 +317,7 @@
     "BGV_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Butterfly Gyuvin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1131543073491521546/1138054587367043132/Untitled439_Restored_20230807182034.png",
             "theme": "card1",
             "inv": "butterfly",
             "code": "`BGV_R`"
@@ -326,7 +326,7 @@
     "BGW_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Butterfly Gunwook**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1131543073491521546/1138054610540572722/Untitled439_Restored_20230807182047.png",
             "theme": "card1",
             "inv": "butterfly",
             "code": "`BGW_C`"
@@ -335,7 +335,7 @@
     "BGW_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Butterfly Gunwook**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1131543073491521546/1138054611073257633/Untitled439_Restored_20230807182050.png",
             "theme": "card1",
             "inv": "butterfly",
             "code": "`BGW_B`"
@@ -344,7 +344,7 @@
     "BGW_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Butterfly Gunwook**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1131543073491521546/1138054611459121212/Untitled439_Restored_20230807182052.png",
             "theme": "card1",
             "inv": "butterfly",
             "code": "`BGW_A`"
@@ -353,7 +353,7 @@
     "BGW_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Butterfly Gunwook**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1131543073491521546/1138054611824029827/Untitled439_Restored_20230807182055.png",
             "theme": "card1",
             "inv": "butterfly",
             "code": "`BGW_S`"
@@ -362,7 +362,7 @@
     "BGW_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Butterfly Gunwook**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1131543073491521546/1138054612096667648/Untitled439_Restored_20230807182057.png",
             "theme": "card1",
             "inv": "butterfly",
             "code": "`BGW_R`"
@@ -371,7 +371,7 @@
     "BYJ_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Butterfly Yujin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1131543073491521546/1138054637459603476/Untitled439_Restored_20230807182109.png",
             "theme": "card1",
             "inv": "butterfly",
             "code": "`BYJ_C`"
@@ -380,7 +380,7 @@
     "BYJ_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Butterfly Yujin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1131543073491521546/1138054637728055346/Untitled439_Restored_20230807182111.png",
             "theme": "card1",
             "inv": "butterfly",
             "code": "`BYJ_B`"
@@ -389,7 +389,7 @@
     "BYJ_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Butterfly Yujin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1131543073491521546/1138054637967126618/Untitled439_Restored_20230807182115.png",
             "theme": "card1",
             "inv": "butterfly",
             "code": "`BYJ_A`"
@@ -398,7 +398,7 @@
     "BYJ_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Butterfly Yujin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1131543073491521546/1138054638210383892/Untitled439_Restored_20230807182118.png",
             "theme": "card1",
             "inv": "butterfly",
             "code": "`BYJ_S`"
@@ -407,7 +407,7 @@
     "BYJ_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Butterfly Yujin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1131543073491521546/1138054638457864272/Untitled439_Restored_20230807182121.png",
             "theme": "card1",
             "inv": "butterfly",
             "code": "`BYJ_R`"
