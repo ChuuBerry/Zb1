@@ -102,6 +102,13 @@
             "name": "`Limited` **AESPA Wallpaper#1**",
             "image": "https://media.discordapp.net/attachments/1135843503507787856/1139583029862486026/Untitled295_20230811233508.png",
             "code": "AEL1_WP`"
+        }  
+    ],
+    "IZFR1_WP": [
+        {
+            "name": "`Free` **ITZY Wallpaper#1**",
+            "image": "https://media.discordapp.net/attachments/1135843503507787856/1139537109619855491/Untitled295_20230811203217.png",
+            "code": "`IZFR1_WP`"
         }    
     ]
 }
