@@ -88,6 +88,20 @@
             "name": "`Free` **TOMORROW X TOGETHER Wallpaper#1**",
             "image": "https://media.discordapp.net/attachments/1135843503507787856/1137385033850683452/Untitled295_20230805215941.png",
             "code": "`TXTFR1_WP`"
+        }
+    ],
+    "AEEV1_WP": [
+        {
+            "name": "`Event` **AESPA Better Things Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1135843503507787856/1139583147349119026/Untitled1174_20230811010630.png",
+            "code": "`AEEV1_WP`"
+        }
+    ],
+    "AEL1_WP": [
+        {
+            "name": "`Limited` **AESPA Wallpaper#1**",
+            "image": "https://media.discordapp.net/attachments/1135843503507787856/1139583029862486026/Untitled295_20230811233508.png",
+            "code": "AEL1_WP`"
         }    
     ]
 }
