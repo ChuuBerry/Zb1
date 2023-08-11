@@ -8,6 +8,231 @@
             "code": "`IBHB_C`"
         }
     ],
+    "CYJ_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Cake Yeji**",
+            "image": "https://media.discordapp.net/attachments/1139463622247067678/1139535955133464677/ITZY_20230811202559.png",
+            "theme": "card1",
+            "inv": "cake",
+            "code": "`CYJ_C`"
+        }          
+    ],
+    "CYJ_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Cake Yeji**",
+            "image": "https://media.discordapp.net/attachments/1139463622247067678/1139535955406106716/ITZY_20230811202601.png",
+            "theme": "card1",
+            "inv": "cake",
+            "code": "`CYJ_B`"
+        }               
+    ],
+    "CYJ_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Cake Yeji**",
+            "image": "https://media.discordapp.net/attachments/1139463622247067678/1139535955657756802/ITZY_20230811202604.png",
+            "theme": "card1",
+            "inv": "cake",
+            "code": "`CYJ_A`"
+        }     
+    ],
+    "CYJ_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Cake Yeji**",
+            "image": "https://media.discordapp.net/attachments/1139463622247067678/1139535955909410827/ITZY_20230811202607.png",
+            "theme": "card1",
+            "inv": "cake",
+            "code": "`CYJ_S`"
+        }     
+    ],
+    "CYJ_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Cake Yeji**",
+            "image": "https://media.discordapp.net/attachments/1139463622247067678/1139535956131721316/ITZY_20230811202611.png",
+            "theme": "card1",
+            "inv": "cake",
+            "code": "`CYJ_R`"
+        }
+    ],
+    "CLA_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Cake Lia**",
+            "image": "https://media.discordapp.net/attachments/1139463622247067678/1139535956400148551/ITZY_20230811202623.png",
+            "theme": "card1",
+            "inv": "cake",
+            "code": "`CLA_C`"
+        }          
+    ],
+    "CLA_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Cake Lia**",
+            "image": "https://media.discordapp.net/attachments/1139463622247067678/1139535956651802624/ITZY_20230811202627.png",
+            "theme": "card1",
+            "inv": "cake",
+            "code": "`CLA_B`"
+        }               
+    ],
+    "CLA_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Cake Lia**",
+            "image": "https://media.discordapp.net/attachments/1139463622247067678/1139535956953796668/ITZY_20230811202629.png",
+            "theme": "card1",
+            "inv": "cake",
+            "code": "`CLA_A`"
+        }     
+    ],
+    "CLA_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Cake Lia**",
+            "image": "https://media.discordapp.net/attachments/1139463622247067678/1139535957343862935/ITZY_20230811202632.png",
+            "theme": "card1",
+            "inv": "cake",
+            "code": "`CLA_S`"
+        }     
+    ],
+    "CLA_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Cake Lia**",
+            "image": "https://media.discordapp.net/attachments/1139463622247067678/1139535957683613696/ITZY_20230811202635.png",
+            "theme": "card1",
+            "inv": "cake",
+            "code": "`CLA_R`"       
+        }
+    ],
+    "CRJ_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Cake Ryujin**",
+            "image": "https://media.discordapp.net/attachments/1139463622247067678/1139535992085295134/ITZY_20230811202644.png",
+            "theme": "card1",
+            "inv": "cake",
+            "code": "`CRJ_C`"
+        }          
+    ],
+    "CRJ_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Cake Ryujin**",
+            "image": "https://media.discordapp.net/attachments/1139463622247067678/1139535992328560660/ITZY_20230811202647.png",
+            "theme": "card1",
+            "inv": "cake",
+            "code": "`CRJ_B`"
+        }               
+    ],
+    "CRJ_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Cake Ryujin**",
+            "image": "https://media.discordapp.net/attachments/1139463622247067678/1139535992668311662/ITZY_20230811202650.png",
+            "theme": "card1",
+            "inv": "cake",
+            "code": "`CRJ_A`"
+        }     
+    ],
+    "CRJ_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Cake Ryujin**",
+            "image": "https://media.discordapp.net/attachments/1139463622247067678/1139535992957710376/ITZY_20230811202653.png",
+            "theme": "card1",
+            "inv": "cake",
+            "code": "`CRJ_S`"
+        }     
+    ],
+    "CRJ_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Cake Ryujin**",
+            "image": "https://media.discordapp.net/attachments/1139463622247067678/1139535993242918912/ITZY_20230811202655.png",
+            "theme": "card1",
+            "inv": "cake",
+            "code": "`CRJ_R`"
+        }
+    ],
+    "CCY_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Cake Chaeryeong**",
+            "image": "https://media.discordapp.net/attachments/1139463622247067678/1139535993570078801/ITZY_20230811202709.png",
+            "theme": "card1",
+            "inv": "cake",
+            "code": "`CCY_C`"
+        }          
+    ],
+    "CCY_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Cake Chaeryeong**",
+            "image": "https://media.discordapp.net/attachments/1139463622247067678/1139535993922396220/ITZY_20230811202712.png",
+            "theme": "card1",
+            "inv": "cake",
+            "code": "`CCY_B`"
+        }               
+    ],
+    "CCY_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Cake Chaeryeong**",
+            "image": "https://media.discordapp.net/attachments/1139463622247067678/1139535994165678110/ITZY_20230811202716.png",
+            "theme": "card1",
+            "inv": "cake",
+            "code": "`CCY_A`"
+        }     
+    ],
+    "CCY_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Cake Chaeryeong**",
+            "image": "https://media.discordapp.net/attachments/1139463622247067678/1139535994408939610/ITZY_20230811202718.png",
+            "theme": "card1",
+            "inv": "cake",
+            "code": "`CCY_S`"
+        }     
+    ],
+    "CCY_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Cake Chaeryeong**",
+            "image": "https://media.discordapp.net/attachments/1139463622247067678/1139535994677370921/ITZY_20230811202721.png",
+            "theme": "card1",
+            "inv": "cake",
+            "code": "`CCY_R`"
+        } 
+    ],
+    "CYN_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Cake Yuna**",
+            "image": "https://media.discordapp.net/attachments/1139463622247067678/1139536015757934782/ITZY_20230811202731.png",
+            "theme": "card1",
+            "inv": "cake",
+            "code": "`CYN_C`"
+        }          
+    ],
+    "CYN_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Cake Yuna**",
+            "image": "https://media.discordapp.net/attachments/1139463622247067678/1139536015997022278/ITZY_20230811202743.png",
+            "theme": "card1",
+            "inv": "cake",
+            "code": "`CYN_B`"
+        }               
+    ],
+    "CYN_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Cake Yuna**",
+            "image": "https://media.discordapp.net/attachments/1139463622247067678/1139536016252866591/ITZY_20230811202746.png",
+            "theme": "card1",
+            "inv": "cake",
+            "code": "`CYN_A`"
+        }     
+    ],
+    "CYN_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Cake Yuna**",
+            "image": "https://media.discordapp.net/attachments/1139463622247067678/1139536016521298013/ITZY_20230811202748.png",
+            "theme": "card1",
+            "inv": "cake",
+            "code": "`CYN_S`"
+        }     
+    ],
+    "CYN_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Cake Yuna**",
+            "image": "https://media.discordapp.net/attachments/1139463622247067678/1139536016768774144/ITZY_20230811202752.png",
+            "theme": "card1",
+            "inv": "cake",
+            "code": "`CYN_R`"
+        }    
+    ],
     "BTKR_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Better Things Karina**",
