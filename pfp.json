@@ -599,6 +599,34 @@
             "name": "`Free` **I'm A Mess Eunchae PFP**",
             "image": "https://media.discordapp.net/attachments/1131049928324554823/1137274593053249597/Untitled444_20230805144105.png",
             "code": "`IAMEC_PFP`"
-        }        
+        }
+    ],
+    "BTKR_PFP": [
+        {
+            "name": "`Event` **Better Things Karina PFP**",
+            "image": "https://media.discordapp.net/attachments/1131049928324554823/1139441953918951444/Untitled1175_20230811011052.png",
+            "code": "`BTKR_PFP`"
+        }
+    ],
+    "BTGS_PFP": [
+        {
+            "name": "`Event` **Better Things Giselle PFP**",
+            "image": "https://media.discordapp.net/attachments/1131049928324554823/1139441954174812270/Untitled1175_20230811011054.png",
+            "code": "`BTGS_PFP`"
+        }
+    ],
+    "BTWT_PFP": [
+        {
+            "name": "`Event` **Better Things Winter PFP**",
+            "image": "https://media.discordapp.net/attachments/1131049928324554823/1139441954690695168/Untitled1175_20230811011056.png",
+            "code": "`BTWT_PFP`"
+        }
+    ],
+    "BTNN_PFP": [
+        {
+            "name": "`Event` **Better Things Ningning PFP**",
+            "image": "https://media.discordapp.net/attachments/1131049928324554823/1139441955756056576/Untitled1175_20230811011058.png",
+            "code": "`BTNN_PFP`"
+        }    
     ]
 }
