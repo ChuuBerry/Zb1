@@ -7,6 +7,186 @@
             "inv": "inbloom",
             "code": "`IBHB_C`"
         }
+    ],
+    "BTKR_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Better Things Karina**",
+            "image": "https://media.discordapp.net/attachments/1136214742399197284/1139444194499383336/AESPABetterThings_20230811011905.png",
+            "theme": "card1",
+            "inv": "betterthings",
+            "code": "`BTKR_C`"
+        }          
+    ],
+    "BTKR_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Better Things Karina**",
+            "image": "https://media.discordapp.net/attachments/1136214742399197284/1139444194805555200/AESPABetterThings_20230811011920.png",
+            "theme": "card1",
+            "inv": "betterthings",
+            "code": "`BTKR_B`"
+        }               
+    ],
+    "BTKR_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Better Things Karina**",
+            "image": "https://media.discordapp.net/attachments/1136214742399197284/1139444195086577765/AESPABetterThings_20230811011931.png",
+            "theme": "card1",
+            "inv": "betterthings",
+            "code": "`BTKR_A`"
+        }     
+    ],
+    "BTKR_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Better Things Karina**",
+            "image": "https://media.discordapp.net/attachments/1136214742399197284/1139444195359215696/AESPABetterThings_20230811011936.png",
+            "theme": "card1",
+            "inv": "betterthings",
+            "code": "`BTKR_S`"
+        }     
+    ],
+    "BTKR_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Better Things Karina**",
+            "image": "https://media.discordapp.net/attachments/1136214742399197284/1139444195610861588/AESPABetterThings_20230811011943.png",
+            "theme": "card1",
+            "inv": "betterthings",
+            "code": "`BTKR_R`"
+        }
+    ],
+    "BTGS_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Better Things Giselle**",
+            "image": "https://media.discordapp.net/attachments/1136214742399197284/1139444195858329651/AESPABetterThings_20230811012010.png",
+            "theme": "card1",
+            "inv": "betterthings",
+            "code": "`BTGS_C`"
+        }          
+    ],
+    "BTGS_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Better Things Giselle**",
+            "image": "https://media.discordapp.net/attachments/1136214742399197284/1139444196118384670/AESPABetterThings_20230811012014.png",
+            "theme": "card1",
+            "inv": "betterthings",
+            "code": "`BTGS_B`"
+        }               
+    ],
+    "BTGS_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Better Things Giselle**",
+            "image": "https://media.discordapp.net/attachments/1136214742399197284/1139444196399390832/AESPABetterThings_20230811012019.png",
+            "theme": "card1",
+            "inv": "betterthings",
+            "code": "`BTGS_A`"
+        }     
+    ],
+    "BTGS_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Better Things Giselle**",
+            "image": "https://media.discordapp.net/attachments/1136214742399197284/1139444196688801822/AESPABetterThings_20230811012024.png",
+            "theme": "card1",
+            "inv": "betterthings",
+            "code": "`BTGS_S`"
+        }     
+    ],
+    "BTGS_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Better Things Giselle**",
+            "image": "https://media.discordapp.net/attachments/1136214742399197284/1139444196978216991/AESPABetterThings_20230811012031.png",
+            "theme": "card1",
+            "inv": "betterthings",
+            "code": "`BTGS_R`"
+        }
+    ],
+    "BTWT_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Better Things Winter**",
+            "image": "https://media.discordapp.net/attachments/1136214742399197284/1139444238204018818/AESPABetterThings_20230811012053.png",
+            "theme": "card1",
+            "inv": "betterthings",
+            "code": "`BTWT_C`"
+        }          
+    ],
+    "BTWT_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Better Things Winter**",
+            "image": "https://media.discordapp.net/attachments/1136214742399197284/1139444238543753266/AESPABetterThings_20230811012056.png",
+            "theme": "card1",
+            "inv": "betterthings",
+            "code": "`BTWT_B`"
+        }               
+    ],
+    "BTWT_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Better Things Winter**",
+            "image": "https://media.discordapp.net/attachments/1136214742399197284/1139444238866726922/AESPABetterThings_20230811012102.png",
+            "theme": "card1",
+            "inv": "betterthings",
+            "code": "`BTWT_A`"
+        }     
+    ],
+    "BTWT_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Better Things Winter**",
+            "image": "https://media.discordapp.net/attachments/1136214742399197284/1139444239164514424/AESPABetterThings_20230811012107.png",
+            "theme": "card1",
+            "inv": "betterthings",
+            "code": "`BTWT_S`"
+        }     
+    ],
+    "BTWT_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Better Things Winter**",
+            "image": "https://media.discordapp.net/attachments/1136214742399197284/1139444239508455424/AESPABetterThings_20230811012114.png",
+            "theme": "card1",
+            "inv": "betterthings",
+            "code": "`BTWT_R`"
+        }
+    ],
+    "BTNN_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Better Things Ningning**",
+            "image": "https://media.discordapp.net/attachments/1136214742399197284/1139444239848185916/AESPABetterThings_20230811012145.png",
+            "theme": "card1",
+            "inv": "betterthings",
+            "code": "`BTNN_C`"
+        }          
+    ],
+    "BTNN_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Better Things Ningning**",
+            "image": "https://media.discordapp.net/attachments/1136214742399197284/1139444240162754660/AESPABetterThings_20230811012159.png",
+            "theme": "card1",
+            "inv": "betterthings",
+            "code": "`BTNN_B`"
+        }               
+    ],
+    "BTNN_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Better Things Ningning**",
+            "image": "https://media.discordapp.net/attachments/1136214742399197284/1139444240443785216/AESPABetterThings_20230811012206.png",
+            "theme": "card1",
+            "inv": "betterthings",
+            "code": "`BTNN_A`"
+        }     
+    ],
+    "BTNN_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Better Things Ningning**",
+            "image": "https://media.discordapp.net/attachments/1136214742399197284/1139444240691241040/AESPABetterThings_20230811012216.png",
+            "theme": "card1",
+            "inv": "betterthings",
+            "code": "`BTNN_S`"
+        }     
+    ],
+    "BTNN_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Better Things Ningning**",
+            "image": "https://media.discordapp.net/attachments/1136214742399197284/1139444241060335616/AESPABetterThings_20230811012222.png",
+            "theme": "card1",
+            "inv": "betterthings",
+            "code": "`BTNN_R`"
+        }    
       ],
     "BHB_C": [
         {
