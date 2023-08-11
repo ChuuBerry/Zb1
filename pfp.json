@@ -627,6 +627,41 @@
             "name": "`Event` **Better Things Ningning PFP**",
             "image": "https://media.discordapp.net/attachments/1131049928324554823/1139441955756056576/Untitled1175_20230811011058.png",
             "code": "`BTNN_PFP`"
+        } 
+    ],
+    "CYJ_PFP": [
+        {
+            "name": "`Free` **Cake Yeji PFP**",
+            "image": "https://media.discordapp.net/attachments/1131049928324554823/1139537009531179098/Untitled444_20230811203001.png",
+            "code": "`CYJ_PFP`"
+        }
+     ],
+    "CLA_PFP": [
+        {
+            "name": "`Free` **Cake Lia PFP**",
+            "image": "https://media.discordapp.net/attachments/1131049928324554823/1139537010105790535/Untitled444_20230811203012.png",
+            "code": "`CLA_PFP`"
+        } 
+    ],
+    "CRJ_PFP": [
+        {
+            "name": "`Free` **Cake Ryujin PFP**",
+            "image": "https://media.discordapp.net/attachments/1131049928324554823/1139537010420371557/Untitled444_20230811203023.png",
+            "code": "`CRJ_PFP`"
+        }
+    ],
+    "CCY_PFP": [
+        {
+            "name": "`Free` **Cake Chaeryeong PFP**",
+            "image": "https://media.discordapp.net/attachments/1131049928324554823/1139537010709757962/Untitled444_20230811203034.png",
+            "code": "`CCY_PFP`"
+        }
+    ],
+    "CYN_PFP": [
+        {
+            "name": "`Free` **Cake Yuna PFP**",
+            "image": "https://media.discordapp.net/attachments/1131049928324554823/1139537011234058360/Untitled444_20230811203047.png",
+            "code": "`CYN_PFP`"
         }    
     ]
 }
