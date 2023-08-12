@@ -8,6 +8,231 @@
             "code": "`IBHB_C`"
         }
     ],
+    "UFCW_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **UNFORGIVEN Chaewon**",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1139832017316491317/Untitled452_20230812155954.png",
+            "theme": "card1",
+            "inv": "unforgiven",
+            "code": "`UFCW_C`"
+        }          
+    ],
+    "UFCW_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **UNFORGIVEN Chaewon**",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1139832017614278737/Untitled452_20230812160001.png",
+            "theme": "card1",
+            "inv": "unforgiven",
+            "code": "`UFCW_B`"
+        }               
+    ],
+    "UFCW_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **UNFORGIVEN Chaewon**",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1139832017882710087/Untitled452_20230812160006.png",
+            "theme": "card1",
+            "inv": "unforgiven",
+            "code": "`UFCW_A`"
+        }     
+    ],
+    "UFCW_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **UNFORGIVEN Chaewon**",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1139832018222460978/Untitled452_20230812160009.png",
+            "theme": "card1",
+            "inv": "unforgiven",
+            "code": "`UFCW_S`"
+        }     
+    ],
+    "UFCW_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **UNFORGIVEN Chaewon**",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1139832018486693972/Untitled452_20230812160013.png",
+            "theme": "card1",
+            "inv": "unforgiven",
+            "code": "`UFCW_R`"
+        }
+    ],
+    "UFSK_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **UNFORGIVEN Sakura**",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1139832015731032115/Untitled452_20230812155908.png",
+            "theme": "card1",
+            "inv": "unforgiven",
+            "code": "`UFSK_C`"
+        }          
+    ],
+    "UFSK_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **UNFORGIVEN Sakura**",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1139832016020451389/Untitled452_20230812155911.png",
+            "theme": "card1",
+            "inv": "unforgiven",
+            "code": "`UFSK_B`"
+        }               
+    ],
+    "UFSK_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **UNFORGIVEN Sakura**",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1139832016318238751/Untitled452_20230812155917.png",
+            "theme": "card1",
+            "inv": "unforgiven",
+            "code": "`UFSK_A`"
+        }     
+    ],
+    "UFSK_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **UNFORGIVEN Sakura**",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1139832016683151451/Untitled452_20230812155921.png",
+            "theme": "card1",
+            "inv": "unforgiven",
+            "code": "`UFSK_S`"
+        }     
+    ],
+    "UFSK_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **UNFORGIVEN Sakura**",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1139832016989327411/Untitled452_20230812155925.png",
+            "theme": "card1",
+            "inv": "unforgiven",
+            "code": "`UFSK_R`"
+        }
+    ],
+    "UFYJ_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **UNFORGIVEN Yunjin**",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1139832045636435979/Untitled452_20230812160024.png",
+            "theme": "card1",
+            "inv": "unforgiven",
+            "code": "`UFYJ_C`"
+        }          
+    ],
+    "UFYJ_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **UNFORGIVEN Yunjin**",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1139832045909053450/Untitled452_20230812160027.png",
+            "theme": "card1",
+            "inv": "unforgiven",
+            "code": "`UFYJ_B`"
+        }               
+    ],
+    "UFYJ_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **UNFORGIVEN Yunjin**",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1139832046257192990/Untitled452_20230812160042.png",
+            "theme": "card1",
+            "inv": "unforgiven",
+            "code": "`UFYJ_A`"
+        }     
+    ],
+    "UFYJ_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **UNFORGIVEN Yunjin**",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1139832046588538942/Untitled452_20230812160045.png",
+            "theme": "card1",
+            "inv": "unforgiven",
+            "code": "`UFYJ_S`"
+        }     
+    ],
+    "UFYJ_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **UNFORGIVEN Yunjin**",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1139832046861172787/Untitled452_20230812160048.png",
+            "theme": "card1",
+            "inv": "unforgiven",
+            "code": "`UFYJ_R`"
+        } 
+    ],
+    "UFKZ_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **UNFORGIVEN Kazuha**",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1139832085603946556/Untitled452_20230812160116.png",
+            "theme": "card1",
+            "inv": "unforgiven",
+            "code": "`UFKZ_C`"
+        }          
+    ],
+    "UFKZ_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **UNFORGIVEN Kazuha**",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1139832085905940480/Untitled452_20230812160119.png",
+            "theme": "card1",
+            "inv": "unforgiven",
+            "code": "`UFKZ_B`"
+        }               
+    ],
+    "UFKZ_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **UNFORGIVEN Kazuha**",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1139832086178582558/Untitled452_20230812160124.png",
+            "theme": "card1",
+            "inv": "unforgiven",
+            "code": "`UFKZ_A`"
+        }     
+    ],
+    "UFKZ_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **UNFORGIVEN Kazuha**",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1139832086459584633/Untitled452_20230812160127.png",
+            "theme": "card1",
+            "inv": "unforgiven",
+            "code": "`UFKZ_S`"
+        }     
+    ],
+    "UFKZ_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **UNFORGIVEN Chaewon**",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1139832086744801350/Untitled452_20230812160129.png",
+            "theme": "card1",
+            "inv": "unforgiven",
+            "code": "`UFCW_R`"
+        } 
+    ],
+    "UFEC_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **UNFORGIVEN Eunchae**",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1139832087021621268/Untitled452_20230812160142.png",
+            "theme": "card1",
+            "inv": "unforgiven",
+            "code": "`UFEC_C`"
+        }          
+    ],
+    "UFEC_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **UNFORGIVEN Eunchae**",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1139832087323615242/Untitled452_20230812160145.png",
+            "theme": "card1",
+            "inv": "unforgiven",
+            "code": "`UFEC_B`"
+        }               
+    ],
+    "UFEC_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **UNFORGIVEN Eunchae**",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1139832087554314240/Untitled452_20230812160153.png",
+            "theme": "card1",
+            "inv": "unforgiven",
+            "code": "`UFEC_A`"
+        }     
+    ],
+    "UFEC_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **UNFORGIVEN Eunchae**",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1139832087793373204/Untitled452_20230812160156.png",
+            "theme": "card1",
+            "inv": "unforgiven",
+            "code": "`UFEC_S`"
+        }     
+    ],
+    "UFEC_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **UNFORGIVEN Eunchae**",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1139832088028258364/Untitled452_20230812160158.png",
+            "theme": "card1",
+            "inv": "unforgiven",
+            "code": "`UFEC_R`"
+        }    
+    ],
     "CYJ_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Cake Yeji**",
