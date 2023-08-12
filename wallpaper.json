@@ -109,6 +109,34 @@
             "name": "`Free` **ITZY Wallpaper#1**",
             "image": "https://media.discordapp.net/attachments/1135843503507787856/1139537109619855491/Untitled295_20230811203217.png",
             "code": "`IZFR1_WP`"
+        }
+    ],
+    "RVFR1_WP": [
+        {
+            "name": "`Free` **Red Velvet Wallpaper#1**",
+            "image": "https://media.discordapp.net/attachments/1135843503507787856/1139884850678083654/Untitled295_20230812193419.png",
+            "code": "`RVFR1_WP`"
+        }
+    ],
+    "RZFR1_WP": [
+        {
+            "name": "`Free` **RIIZE Wallpaper#1**",
+            "image": "https://media.discordapp.net/attachments/1135843503507787856/1139508932193300501/Untitled295_20230811183720.png",
+            "code": "`RZFR1_WP`"
+        }  
+    ],
+    "LSFL1_WP": [
+        {
+            "name": "`Limited` **LE SSERAFIM Wallpaper#1**",
+            "image": "https://media.discordapp.net/attachments/1135843503507787856/1139884957867712513/Untitled295_20230812193349.png",
+            "code": "LSFL1_WP`"
+        } 
+    ],
+    "LSFEV1_WP": [
+        {
+            "name": "`Event` **LE SSERAFIM UNFORGIVEN Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1135843503507787856/1139885081385783336/Untitled295_20230812193305.png",
+            "code": "`LSFEV1_WP`"
         }    
     ]
 }
