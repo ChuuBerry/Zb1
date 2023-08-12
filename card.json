@@ -7,6 +7,231 @@
             "inv": "inbloom",
             "code": "`IBHB_C`"
         }
+     ],
+    "KWIR_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Knock On Wood Irene**",
+            "image": "https://media.discordapp.net/attachments/1139852441987317811/1139852543426560071/redvelvet_20230812172416.png",
+            "theme": "card1",
+            "inv": "knockonwood",
+            "code": "`KWIR_C`"
+        }          
+    ],
+    "KWIR_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Knock On Wood Irene**",
+            "image": "https://media.discordapp.net/attachments/1139852441987317811/1139852543657263134/redvelvet_20230812172419.png",
+            "theme": "card1",
+            "inv": "knockonwood",
+            "code": "`KWIR_B`"
+        }               
+    ],
+    "KWIR_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Knock On Wood Irene**",
+            "image": "https://media.discordapp.net/attachments/1139852441987317811/1139852543879565433/redvelvet_20230812172422.png",
+            "theme": "card1",
+            "inv": "knockonwood",
+            "code": "`KWIR_A`"
+        }     
+    ],
+    "KWIR_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Knock On Wood Irene**",
+            "image": "https://media.discordapp.net/attachments/1139852441987317811/1139852544122814544/redvelvet_20230812172425.png",
+            "theme": "card1",
+            "inv": "knockonwood",
+            "code": "`KWIR_S`"
+        }     
+    ],
+    "KWIR_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Knock On Wood Irene**",
+            "image": "https://media.discordapp.net/attachments/1139852441987317811/1139852544349323345/redvelvet_20230812172427.png",
+            "theme": "card1",
+            "inv": "knockonwood",
+            "code": "`KWIR_R`"
+        }
+     ],
+    "KWSG_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Knock On Wood Seulgi**",
+            "image": "https://media.discordapp.net/attachments/1139852441987317811/1139852544592597043/redvelvet_20230812172437.png",
+            "theme": "card1",
+            "inv": "knockonwood",
+            "code": "`KWSG_C`"
+        }          
+    ],
+    "KWSG_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Knock On Wood Seulgi**",
+            "image": "https://media.discordapp.net/attachments/1139852441987317811/1139852544814874745/redvelvet_20230812172440.png",
+            "theme": "card1",
+            "inv": "knockonwood",
+            "code": "`KWSG_B`"
+        }               
+    ],
+    "KWSG_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Knock On Wood Seulgi**",
+            "image": "https://media.discordapp.net/attachments/1139852441987317811/1139852545049772062/redvelvet_20230812172443.png",
+            "theme": "card1",
+            "inv": "knockonwood",
+            "code": "`KWSG_A`"
+        }     
+    ],
+    "KWSG_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Knock On Wood Seulgi**",
+            "image": "https://media.discordapp.net/attachments/1139852441987317811/1139852545322405928/redvelvet_20230812172446.png",
+            "theme": "card1",
+            "inv": "knockonwood",
+            "code": "`KWSG_S`"
+        }     
+    ],
+    "KWSG_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Knock On Wood Seulgi**",
+            "image": "https://media.discordapp.net/attachments/1139852441987317811/1139852545561460766/redvelvet_20230812172448.png",
+            "theme": "card1",
+            "inv": "knockonwood",
+            "code": "`KWSG_R`"
+        }  
+     ],
+    "KWWD_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Knock On Wood Wendy**",
+            "image": "https://media.discordapp.net/attachments/1139852441987317811/1139852581649256519/redvelvet_20230812172457.png",
+            "theme": "card1",
+            "inv": "knockonwood",
+            "code": "`KWWD_C`"
+        }          
+    ],
+    "KWWD_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Knock On Wood Wendy**",
+            "image": "https://media.discordapp.net/attachments/1139852441987317811/1139852581930291220/redvelvet_20230812172501.png",
+            "theme": "card1",
+            "inv": "knockonwood",
+            "code": "`KWWD_B`"
+        }               
+    ],
+    "KWWD_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Knock On Wood Wendy**",
+            "image": "https://media.discordapp.net/attachments/1139852441987317811/1139852582341312582/redvelvet_20230812172504.png",
+            "theme": "card1",
+            "inv": "knockonwood",
+            "code": "`KWWD_A`"
+        }     
+    ],
+    "KWWD_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Knock On Wood Wendy**",
+            "image": "https://media.discordapp.net/attachments/1139852441987317811/1139852582609752074/redvelvet_20230812172507.png",
+            "theme": "card1",
+            "inv": "knockonwood",
+            "code": "`KWWD_S`"
+        }     
+    ],
+    "KWWD_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Knock On Wood Wendy**",
+            "image": "https://media.discordapp.net/attachments/1139852441987317811/1139852582882398218/redvelvet_20230812172510.png",
+            "theme": "card1",
+            "inv": "knockonwood",
+            "code": "`KWWD_R`"
+        }
+     ],
+    "KWJO_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Knock On Wood Joy**",
+            "image": "https://media.discordapp.net/attachments/1139852441987317811/1139852583234699304/redvelvet_20230812172521.png",
+            "theme": "card1",
+            "inv": "knockonwood",
+            "code": "`KWJO_C`"
+        }          
+    ],
+    "KWJO_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Knock On Wood Joy**",
+            "image": "https://media.discordapp.net/attachments/1139852441987317811/1139852583507333152/redvelvet_20230812172525.png",
+            "theme": "card1",
+            "inv": "knockonwood",
+            "code": "`KWJO_B`"
+        }               
+    ],
+    "KWJO_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Knock On Wood Joy**",
+            "image": "https://media.discordapp.net/attachments/1139852441987317811/1139852583784153118/redvelvet_20230812172527.png",
+            "theme": "card1",
+            "inv": "knockonwood",
+            "code": "`KWJO_A`"
+        }     
+    ],
+    "KWJO_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Knock On Wood Joy**",
+            "image": "https://media.discordapp.net/attachments/1139852441987317811/1139852584035815534/redvelvet_20230812172531.png",
+            "theme": "card1",
+            "inv": "knockonwood",
+            "code": "`KWJO_S`"
+        }     
+    ],
+    "KWJO_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Knock On Wood Joy**",
+            "image": "https://media.discordapp.net/attachments/1139852441987317811/1139852584287490068/redvelvet_20230812172534.png",
+            "theme": "card1",
+            "inv": "knockonwood",
+            "code": "`KWJO_R`"
+        } 
+     ],
+    "KWYR_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Knock On Wood Yeri**",
+            "image": "https://media.discordapp.net/attachments/1139852441987317811/1139852607205163079/redvelvet_20230812172545.png",
+            "theme": "card1",
+            "inv": "knockonwood",
+            "code": "`KWYR_C`"
+        }          
+    ],
+    "KWYR_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Knock On Wood Yeri**",
+            "image": "https://media.discordapp.net/attachments/1139852441987317811/1139852607834292274/redvelvet_20230812172548.png",
+            "theme": "card1",
+            "inv": "knockonwood",
+            "code": "`KWYR_B`"
+        }               
+    ],
+    "KWYR_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Knock On Wood Yeri**",
+            "image": "https://media.discordapp.net/attachments/1139852441987317811/1139852608383754260/redvelvet_20230812172551.png",
+            "theme": "card1",
+            "inv": "knockonwood",
+            "code": "`KWYR_A`"
+        }     
+    ],
+    "KWYR_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Knock On Wood Yeri**",
+            "image": "https://media.discordapp.net/attachments/1139852441987317811/1139852608689946664/redvelvet_20230812172554.png",
+            "theme": "card1",
+            "inv": "knockonwood",
+            "code": "`KWYR_S`"
+        }     
+    ],
+    "KWYR_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Knock On Wood Yeri**",
+            "image": "https://media.discordapp.net/attachments/1139852441987317811/1139852608983539762/redvelvet_20230812172556.png",
+            "theme": "card1",
+            "inv": "knockonwood",
+            "code": "`KWYR_R`"
+        }     
     ],
     "UFCW_C": [
         {
