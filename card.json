@@ -8,6 +8,321 @@
             "code": "`IBHB_C`"
         }
      ],
+    "SST_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **SIREN Shotaro**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "siren",
+            "code": "`SST_C`"
+        }          
+    ],
+    "SST_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **SIREN Shotaro**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "siren",
+            "code": "`SST_B`"
+        }               
+    ],
+    "SST_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **SIREN Shotaro**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "siren",
+            "code": "`SST_A`"
+        }     
+    ],
+    "SST_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **SIREN Shotaro**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "siren",
+            "code": "`SST_S`"
+        }     
+    ],
+    "SST_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **SIREN Shotaro**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "siren",
+            "code": "`SST_R`"
+        }
+     ],
+    "SES_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **SIREN Eunseok**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "siren",
+            "code": "`SES_C`"
+        }          
+    ],
+    "SES_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **SIREN Eunseok**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "siren",
+            "code": "`SES_B`"
+        }               
+    ],
+    "SES_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **SIREN Eunseok**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "siren",
+            "code": "`SES_A`"
+        }     
+    ],
+    "SES_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **SIREN Eunseok**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "siren",
+            "code": "`SES_S`"
+        }     
+    ],
+    "SES_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **SIREN Eunseok**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "siren",
+            "code": "`SES_R`"
+        } 
+     ],
+    "SSC_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **SIREN Sungchan**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "siren",
+            "code": "`SSC_C`"
+        }          
+    ],
+    "SSC_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **SIREN Sungchan**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "siren",
+            "code": "`SSC_B`"
+        }               
+    ],
+    "SSC_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **SIREN Sungchan**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "siren",
+            "code": "`SSC_A`"
+        }     
+    ],
+    "SSC_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **SIREN Sungchan**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "siren",
+            "code": "`SSC_S`"
+        }     
+    ],
+    "SSC_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **SIREN Sungchan**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "siren",
+            "code": "`SSC_R`"
+        }   
+     ],
+    "SWB_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **SIREN Wonbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "siren",
+            "code": "`SWB_C`"
+        }          
+    ],
+    "SWB_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **SIREN Wonbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "siren",
+            "code": "`SWB_B`"
+        }               
+    ],
+    "SWB_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **SIREN Wonbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "siren",
+            "code": "`SWB_A`"
+        }     
+    ],
+    "SWB_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **SIREN Wonbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "siren",
+            "code": "`SWB_S`"
+        }     
+    ],
+    "SWB_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **SIREN Wonbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "siren",
+            "code": "`SWB_R`"
+        } 
+    ],
+    "SSH_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **SIREN Seunghan**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "siren",
+            "code": "`SSH_C`"
+        }          
+    ],
+    "SSH_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **SIREN Seunghan**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "siren",
+            "code": "`SSH_B`"
+        }               
+    ],
+    "SSH_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **SIREN Seunghan**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "siren",
+            "code": "`SSH_A`"
+        }     
+    ],
+    "SSH_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **SIREN Seunghan**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "siren",
+            "code": "`SSH_S`"
+        }     
+    ],
+    "SSH_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **SIREN Seunghan**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "siren",
+            "code": "`SSH_R`"
+        } 
+     ],
+    "SAT_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **SIREN Anton**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "siren",
+            "code": "`SAT_C`"
+        }          
+    ],
+    "SAT_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **SIREN Anton**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "siren",
+            "code": "`SAT_B`"
+        }               
+    ],
+    "SAT_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **SIREN Anton**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "siren",
+            "code": "`SAT_A`"
+        }     
+    ],
+    "SAT_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **SIREN Anton**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "siren",
+            "code": "`SAT_S`"
+        }     
+    ],
+    "SAT_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **SIREN Anton**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "siren",
+            "code": "`SAT_R`"
+        } 
+     ],
+    "SSO_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **SIREN Sohee**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "siren",
+            "code": "`SSO_C`"
+        }          
+    ],
+    "SSO_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **SIREN Sohee**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "siren",
+            "code": "`SSO_B`"
+        }               
+    ],
+    "SSO_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **SIREN Sohee**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "siren",
+            "code": "`SSO_A`"
+        }     
+    ],
+    "SSO_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **SIREN Sohee**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "siren",
+            "code": "`SSO_S`"
+        }     
+    ],
+    "SSO_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **SIREN Sohee**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "siren",
+            "code": "`SSO_R`"
+        }   
+     ],
     "KWIR_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Knock On Wood Irene**",
