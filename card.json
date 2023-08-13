@@ -11,7 +11,7 @@
     "SST_C": [
         {
             "name": "<:c_grade:1126649406230384671> **SIREN Shotaro**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1139508785849847838/RIIZE_20230811183458.png",
             "theme": "card1",
             "inv": "siren",
             "code": "`SST_C`"
@@ -20,7 +20,7 @@
     "SST_B": [
         {
             "name": "<:b_grade:1126649508089057352> **SIREN Shotaro**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1139508786445434920/RIIZE_20230811183500.png",
             "theme": "card1",
             "inv": "siren",
             "code": "`SST_B`"
@@ -29,7 +29,7 @@
     "SST_A": [
         {
             "name": "<:a_grade:1126649781272461413> **SIREN Shotaro**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1139508786764206160/RIIZE_20230811183504.png",
             "theme": "card1",
             "inv": "siren",
             "code": "`SST_A`"
@@ -38,7 +38,7 @@
     "SST_S": [
         {
             "name": "<:s_grade:1126649890148196504> **SIREN Shotaro**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1139508787187826851/RIIZE_20230811183506.png",
             "theme": "card1",
             "inv": "siren",
             "code": "`SST_S`"
@@ -47,7 +47,7 @@
     "SST_R": [
         {
             "name": "<:r_grade:1126649980296380457> **SIREN Shotaro**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1139508787720487053/RIIZE_20230811183509.png",
             "theme": "card1",
             "inv": "siren",
             "code": "`SST_R`"
@@ -56,7 +56,7 @@
     "SES_C": [
         {
             "name": "<:c_grade:1126649406230384671> **SIREN Eunseok**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1139508744393330688/RIIZE_20230811183411.png",
             "theme": "card1",
             "inv": "siren",
             "code": "`SES_C`"
@@ -65,7 +65,7 @@
     "SES_B": [
         {
             "name": "<:b_grade:1126649508089057352> **SIREN Eunseok**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1139508744791801877/RIIZE_20230811183414.png",
             "theme": "card1",
             "inv": "siren",
             "code": "`SES_B`"
@@ -74,7 +74,7 @@
     "SES_A": [
         {
             "name": "<:a_grade:1126649781272461413> **SIREN Eunseok**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1139508745152499762/RIIZE_20230811183417.png",
             "theme": "card1",
             "inv": "siren",
             "code": "`SES_A`"
@@ -83,7 +83,7 @@
     "SES_S": [
         {
             "name": "<:s_grade:1126649890148196504> **SIREN Eunseok**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1139508745492254761/RIIZE_20230811183419.png",
             "theme": "card1",
             "inv": "siren",
             "code": "`SES_S`"
@@ -92,7 +92,7 @@
     "SES_R": [
         {
             "name": "<:r_grade:1126649980296380457> **SIREN Eunseok**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1139508745769074759/RIIZE_20230811183422.png",
             "theme": "card1",
             "inv": "siren",
             "code": "`SES_R`"
