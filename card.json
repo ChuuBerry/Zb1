@@ -101,7 +101,7 @@
     "SSC_C": [
         {
             "name": "<:c_grade:1126649406230384671> **SIREN Sungchan**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1139508701401726976/RIIZE_20230811183316.png",
             "theme": "card1",
             "inv": "siren",
             "code": "`SSC_C`"
@@ -110,7 +110,7 @@
     "SSC_B": [
         {
             "name": "<:b_grade:1126649508089057352> **SIREN Sungchan**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1139508701665972284/RIIZE_20230811183320.png",
             "theme": "card1",
             "inv": "siren",
             "code": "`SSC_B`"
@@ -119,7 +119,7 @@
     "SSC_A": [
         {
             "name": "<:a_grade:1126649781272461413> **SIREN Sungchan**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1139508702035050527/RIIZE_20230811183323.png",
             "theme": "card1",
             "inv": "siren",
             "code": "`SSC_A`"
@@ -128,7 +128,7 @@
     "SSC_S": [
         {
             "name": "<:s_grade:1126649890148196504> **SIREN Sungchan**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1139508702324473906/RIIZE_20230811183325.png",
             "theme": "card1",
             "inv": "siren",
             "code": "`SSC_S`"
@@ -137,7 +137,7 @@
     "SSC_R": [
         {
             "name": "<:r_grade:1126649980296380457> **SIREN Sungchan**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1139508702571941949/RIIZE_20230811183328.png",
             "theme": "card1",
             "inv": "siren",
             "code": "`SSC_R`"
@@ -146,7 +146,7 @@
     "SWB_C": [
         {
             "name": "<:c_grade:1126649406230384671> **SIREN Wonbin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1139508700764196904/RIIZE_20230811183258.png",
             "theme": "card1",
             "inv": "siren",
             "code": "`SWB_C`"
@@ -155,7 +155,7 @@
     "SWB_B": [
         {
             "name": "<:b_grade:1126649508089057352> **SIREN Wonbin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1139508700223111178/RIIZE_20230811183252.png",
             "theme": "card1",
             "inv": "siren",
             "code": "`SWB_B`"
@@ -164,7 +164,7 @@
     "SWB_A": [
         {
             "name": "<:a_grade:1126649781272461413> **SIREN Wonbin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1139508700466397264/RIIZE_20230811183255.png",
             "theme": "card1",
             "inv": "siren",
             "code": "`SWB_A`"
@@ -173,7 +173,7 @@
     "SWB_S": [
         {
             "name": "<:s_grade:1126649890148196504> **SIREN Wonbin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1139508700764196904/RIIZE_20230811183258.png",
             "theme": "card1",
             "inv": "siren",
             "code": "`SWB_S`"
@@ -182,7 +182,7 @@
     "SWB_R": [
         {
             "name": "<:r_grade:1126649980296380457> **SIREN Wonbin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1139508701053583472/RIIZE_20230811183304.png",
             "theme": "card1",
             "inv": "siren",
             "code": "`SWB_R`"
@@ -191,7 +191,7 @@
     "SSH_C": [
         {
             "name": "<:c_grade:1126649406230384671> **SIREN Seunghan**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1139508742556225606/RIIZE_20230811183338.png",
             "theme": "card1",
             "inv": "siren",
             "code": "`SSH_C`"
@@ -200,7 +200,7 @@
     "SSH_B": [
         {
             "name": "<:b_grade:1126649508089057352> **SIREN Seunghan**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1139508742820479138/RIIZE_20230811183341.png",
             "theme": "card1",
             "inv": "siren",
             "code": "`SSH_B`"
@@ -209,7 +209,7 @@
     "SSH_A": [
         {
             "name": "<:a_grade:1126649781272461413> **SIREN Seunghan**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1139508743156011098/RIIZE_20230811183345.png",
             "theme": "card1",
             "inv": "siren",
             "code": "`SSH_A`"
@@ -218,7 +218,7 @@
     "SSH_S": [
         {
             "name": "<:s_grade:1126649890148196504> **SIREN Seunghan**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1139508743508348988/RIIZE_20230811183357.png",
             "theme": "card1",
             "inv": "siren",
             "code": "`SSH_S`"
@@ -227,7 +227,7 @@
     "SSH_R": [
         {
             "name": "<:r_grade:1126649980296380457> **SIREN Seunghan**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1139508743927775302/RIIZE_20230811183400.png",
             "theme": "card1",
             "inv": "siren",
             "code": "`SSH_R`"
@@ -236,7 +236,7 @@
     "SAT_C": [
         {
             "name": "<:c_grade:1126649406230384671> **SIREN Anton**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1139508812995371078/RIIZE_20230811183522.png",
             "theme": "card1",
             "inv": "siren",
             "code": "`SAT_C`"
@@ -245,7 +245,7 @@
     "SAT_B": [
         {
             "name": "<:b_grade:1126649508089057352> **SIREN Anton**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1139508813402214460/RIIZE_20230811183525.png",
             "theme": "card1",
             "inv": "siren",
             "code": "`SAT_B`"
@@ -254,7 +254,7 @@
     "SAT_A": [
         {
             "name": "<:a_grade:1126649781272461413> **SIREN Anton**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1139508813712588840/RIIZE_20230811183528.png",
             "theme": "card1",
             "inv": "siren",
             "code": "`SAT_A`"
@@ -263,7 +263,7 @@
     "SAT_S": [
         {
             "name": "<:s_grade:1126649890148196504> **SIREN Anton**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1139508814048141452/RIIZE_20230811183532.png",
             "theme": "card1",
             "inv": "siren",
             "code": "`SAT_S`"
@@ -272,7 +272,7 @@
     "SAT_R": [
         {
             "name": "<:r_grade:1126649980296380457> **SIREN Anton**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1139508814337544223/RIIZE_20230811183535.png",
             "theme": "card1",
             "inv": "siren",
             "code": "`SAT_R`"
@@ -281,7 +281,7 @@
     "SSO_C": [
         {
             "name": "<:c_grade:1126649406230384671> **SIREN Sohee**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1139508784184709140/RIIZE_20230811183439.png",
             "theme": "card1",
             "inv": "siren",
             "code": "`SSO_C`"
@@ -290,7 +290,7 @@
     "SSO_B": [
         {
             "name": "<:b_grade:1126649508089057352> **SIREN Sohee**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1139508784516055080/RIIZE_20230811183441.png",
             "theme": "card1",
             "inv": "siren",
             "code": "`SSO_B`"
@@ -299,7 +299,7 @@
     "SSO_A": [
         {
             "name": "<:a_grade:1126649781272461413> **SIREN Sohee**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1139508784822222848/RIIZE_20230811183444.png",
             "theme": "card1",
             "inv": "siren",
             "code": "`SSO_A`"
@@ -308,7 +308,7 @@
     "SSO_S": [
         {
             "name": "<:s_grade:1126649890148196504> **SIREN Sohee**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1139508785111650364/RIIZE_20230811183446.png",
             "theme": "card1",
             "inv": "siren",
             "code": "`SSO_S`"
@@ -317,7 +317,7 @@
     "SSO_R": [
         {
             "name": "<:r_grade:1126649980296380457> **SIREN Sohee**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1139508785447174144/RIIZE_20230811183449.png",
             "theme": "card1",
             "inv": "siren",
             "code": "`SSO_R`"
