@@ -7,6 +7,366 @@
             "inv": "inbloom",
             "code": "`IBHB_C`"
         }
+      ],
+    "SPBBC_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Super Bowl Bang Chan**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "superbowl",
+            "code": "`SPBBC_C`"
+        }          
+    ],
+    "SPBBC_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Super Bowl Bang Chan**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "superbowl",
+            "code": "`SPBBC_B`"
+        }               
+    ],
+    "SPBBC_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Super Bowl Bang Chan**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "superbowl",
+            "code": "`SPBBC_A`"
+        }     
+    ],
+    "SPBBC_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Super Bowl Bang Chan**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "superbowl",
+            "code": "`SPBBC_S`"
+        }     
+    ],
+    "SPBBC_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Super Bowl Bang Chan**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "superbowl",
+            "code": "`SPBBC_R`"
+        } 
+      ],
+    "SPBLK_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Super Bowl Lee Know**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "superbowl",
+            "code": "`SPBLK_C`"
+        }          
+    ],
+    "SPBLK_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Super Bowl Lee Know**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "superbowl",
+            "code": "`SPBLK_B`"
+        }               
+    ],
+    "SPBLK_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Super Bowl Lee Know**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "superbowl",
+            "code": "`SPBLK_A`"
+        }     
+    ],
+    "SPBLK_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Super Bowl Lee Know**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "superbowl",
+            "code": "`SPBLK_S`"
+        }     
+    ],
+    "SPBLK_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Super Bowl Bang Lee Know**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "superbowl",
+            "code": "`SPBLK_R`"
+        } 
+     ],
+    "SPBCB_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Super Bowl Changbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "superbowl",
+            "code": "`SPBCB_C`"
+        }          
+    ],
+    "SPBCB_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Super Bowl Changbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "superbowl",
+            "code": "`SPBCB_B`"
+        }               
+    ],
+    "SPBCB_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Super Bowl Changbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "superbowl",
+            "code": "`SPBCB_A`"
+        }     
+    ],
+    "SPBCB_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Super Bowl Changbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "superbowl",
+            "code": "`SPBCB_S`"
+        }     
+    ],
+    "SPBCB_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Super Bowl Changbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "superbowl",
+            "code": "`SPBCB_R`"
+        }
+     ],
+    "SPBHA_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Super Bowl Han**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "superbowl",
+            "code": "`SPBHA_C`"
+        }          
+    ],
+    "SPBHA_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Super Bowl Han**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "superbowl",
+            "code": "`SPBHA_B`"
+        }               
+    ],
+    "SPBHA_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Super Bowl Han**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "superbowl",
+            "code": "`SPBHA_A`"
+        }     
+    ],
+    "SPBHA_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Super Bowl Han**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "superbowl",
+            "code": "`SPBHA_S`"
+        }     
+    ],
+    "SPBHA_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Super Bowl Han**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "superbowl",
+            "code": "`SPBHA_R`"
+        }
+     ],
+    "SPBHJ_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Super Bowl Hyunjin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "superbowl",
+            "code": "`SPBHJ_C`"
+        }          
+    ],
+    "SPBHJ_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Super Bowl Hyunjin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "superbowl",
+            "code": "`SPBHJ_B`"
+        }               
+    ],
+    "SPBHJ_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Super Bowl Hyunjin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "superbowl",
+            "code": "`SPBHJ_A`"
+        }     
+    ],
+    "SPBHJ_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Super Bowl Hyunjin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "superbowl",
+            "code": "`SPBHJ_S`"
+        }     
+    ],
+    "SPBHJ_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Super Bowl Hyunjin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "superbowl",
+            "code": "`SPBHJ_R`"
+        }   
+     ],
+    "SPBFL_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Super Bowl Felix**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "superbowl",
+            "code": "`SPBFL_C`"
+        }          
+    ],
+    "SPBFL_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Super Bowl Felix**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "superbowl",
+            "code": "`SPBFL_B`"
+        }               
+    ],
+    "SPBFL_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Super Bowl Felix**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "superbowl",
+            "code": "`SPBFL_A`"
+        }     
+    ],
+    "SPBFL_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Super Bowl Felix**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "superbowl",
+            "code": "`SPBFL_S`"
+        }     
+    ],
+    "SPBFL_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Super Bowl Felix**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "superbowl",
+            "code": "`SPBFL_R`"
+        }  
+     ],
+    "SPBSM_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Super Bowl Seungmin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "superbowl",
+            "code": "`SPBSM_C`"
+        }          
+    ],
+    "SPBSM_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Super Bowl Seungmin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "superbowl",
+            "code": "`SPBSM_B`"
+        }               
+    ],
+    "SPBSM_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Super Bowl Seungmin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "superbowl",
+            "code": "`SPBSM_A`"
+        }     
+    ],
+    "SPBSM_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Super Bowl Seungmin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "superbowl",
+            "code": "`SPBSM_S`"
+        }     
+    ],
+    "SPBSM_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Super Bowl Seungmin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "superbowl",
+            "code": "`SPBSM_R`"
+        } 
+     ],
+    "SPBIN_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Super Bowl I.N**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "superbowl",
+            "code": "`SPBIM_C`"
+        }          
+    ],
+    "SPBIN_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Super Bowl I.N**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "superbowl",
+            "code": "`SPBIN_B`"
+        }               
+    ],
+    "SPBIN_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Super Bowl I.N**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "superbowl",
+            "code": "`SPBIN_A`"
+        }     
+    ],
+    "SPBIN_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Super Bowl I.N**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "superbowl",
+            "code": "`SPBIN_S`"
+        }     
+    ],
+    "SPBIN_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Super Bowl I.N**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "superbowl",
+            "code": "`SPBIN_R`"
+        }     
      ],
     "SST_C": [
         {
