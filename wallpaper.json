@@ -137,6 +137,48 @@
             "name": "`Limited` **LE SSERAFIM UNFORGIVEN Wallpaper#2**",
             "image": "https://media.discordapp.net/attachments/1135843503507787856/1139885081385783336/Untitled295_20230812193305.png",
             "code": "`LSFL2_WP`"
+        }   
+    ],
+    "SKFR1_WP": [
+        {
+            "name": "`Free` **Stray Kids Super Bowl Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1135843503507787856/1140844077848481853/Untitled37_20230815105951.png",
+            "code": "`SKFR1_WP`"
+        }  
+   ],
+    "HKFR1_WP": [
+        {
+            "name": "`Free` **H1-KEY Time To Dream Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1135843503507787856/1144591391326994552/Untitled461_20230825191528.png",
+            "code": "`HKFR1_WP`"
+        } 
+    ],
+    "SCFR1_WP": [
+        {
+            "name": "`Free` **STAYC Bubble Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1135843503507787856/1144591440094175312/Untitled461_20230825191627.png",
+            "code": "`SCFR1_WP`"
+        } 
+    ],
+    "RDFR1_WP": [
+        {
+            "name": "`Free` **NCT U Rain Day Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1135843503507787856/1144591504283803649/Untitled461_20230825191702.png",
+            "code": "`RDFR1_WP`"
+        }
+    ],
+    "TXL1_WP": [
+        {
+            "name": "`Limited` **TOMORROW X TOGETHER Happy Fools Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1135843503507787856/1144591597300875344/Untitled461_20230825191508.png",
+            "code": "`TXL1_WP`"
+        }
+    ],
+    "NJL1_WP": [
+        {
+            "name": "`Limited` **NewJeans Super Shy Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1135843503507787856/1144591645824790680/Untitled461_20230825191549.png",
+            "code": "`NJL1_WP`"
         }    
     ]
 }
