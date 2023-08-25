@@ -7,6 +7,186 @@
             "inv": "inbloom",
             "code": "`IBHB_C`"
         }
+     ],
+    "TDSO_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Time To Dream Seoi**",
+            "image": "https://media.discordapp.net/attachments/1144250914547441764/1144251605546442802/H1KEY_20230824203536.png",
+            "theme": "card1",
+            "inv": "timetodream",
+            "code": "`TDSO_C`"
+        }          
+    ],
+    "TDSO_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Time To Dream Seoi**",
+            "image": "https://media.discordapp.net/attachments/1144250914547441764/1144251605756170240/H1KEY_20230824203539.png",
+            "theme": "card1",
+            "inv": "timetodream",
+            "code": "`TDSO_B`"
+        }               
+    ],
+    "TDSO_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Time To Dream Seoi**",
+            "image": "https://media.discordapp.net/attachments/1144250914547441764/1144251606041370754/H1KEY_20230824203542.png",
+            "theme": "card1",
+            "inv": "timetodream",
+            "code": "`TDSO_A`"
+        }     
+    ],
+    "TDSO_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Time To Dream Seoi**",
+            "image": "https://media.discordapp.net/attachments/1144250914547441764/1144251606368522270/H1KEY_20230824203544.png",
+            "theme": "card1",
+            "inv": "timetodream",
+            "code": "`TDSO_S`"
+        }     
+    ],
+    "TDSO_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Time To Dream Seoi**",
+            "image": "https://media.discordapp.net/attachments/1144250914547441764/1144251606687293490/H1KEY_20230824203547.png",
+            "theme": "card1",
+            "inv": "timetodream",
+            "code": "`TDSO_R`"
+        }  
+    ],
+    "TDRN_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Time To Dream Riina**",
+            "image": "https://media.discordapp.net/attachments/1144250914547441764/1144251607010250863/H1KEY_20230824203556.png",
+            "theme": "card1",
+            "inv": "timetodream",
+            "code": "`TDRN_C`"
+        }          
+    ],
+    "TDRN_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Time To Dream Riina**",
+            "image": "https://media.discordapp.net/attachments/1144250914547441764/1144251607282884688/H1KEY_20230824203558.png",
+            "theme": "card1",
+            "inv": "timetodream",
+            "code": "`TDRN_B`"
+        }               
+    ],
+    "TDRN_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Time To Dream Riina**",
+            "image": "https://media.discordapp.net/attachments/1144250914547441764/1144251607572304022/H1KEY_20230824203601.png",
+            "theme": "card1",
+            "inv": "timetodream",
+            "code": "`TDRN_A`"
+        }     
+    ],
+    "TDRN_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Time To Dream Riina**",
+            "image": "https://media.discordapp.net/attachments/1144250914547441764/1144251607916220486/H1KEY_20230824203603.png",
+            "theme": "card1",
+            "inv": "timetodream",
+            "code": "`TDRN_S`"
+        }     
+    ],
+    "TDRN_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Time To Dream Riina**",
+            "image": "https://media.discordapp.net/attachments/1144250914547441764/1144251608193060984/H1KEY_20230824203606.png",
+            "theme": "card1",
+            "inv": "timetodream",
+            "code": "`TDRN_R`"
+        } 
+    ],
+    "TDHS_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Time To Dream Hwiseo**",
+            "image": "https://media.discordapp.net/attachments/1144250914547441764/1144251639704850512/H1KEY_20230824203616.png",
+            "theme": "card1",
+            "inv": "timetodream",
+            "code": "`TDHS_C`"
+        }          
+    ],
+    "TDHS_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Time To Dream Hwiseo**",
+            "image": "https://media.discordapp.net/attachments/1144250914547441764/1144251639939747840/H1KEY_20230824203618.png",
+            "theme": "card1",
+            "inv": "timetodream",
+            "code": "`TDHS_B`"
+        }               
+    ],
+    "TDHS_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Time To Dream Hwiseo**",
+            "image": "https://media.discordapp.net/attachments/1144250914547441764/1144251640170418277/H1KEY_20230824203621.png",
+            "theme": "card1",
+            "inv": "timetodream",
+            "code": "`TDHS_A`"
+        }     
+    ],
+    "TDHS_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Time To Dream Hwiseo**",
+            "image": "https://media.discordapp.net/attachments/1144250914547441764/1144251640434655313/H1KEY_20230824203624.png",
+            "theme": "card1",
+            "inv": "timetodream",
+            "code": "`TDHS_S`"
+        }     
+    ],
+    "TDHS_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Time To Dream Hwiseo**",
+            "image": "https://media.discordapp.net/attachments/1144250914547441764/1144251640665362542/H1KEY_20230824203627.png",
+            "theme": "card1",
+            "inv": "timetodream",
+            "code": "`TDHS_R`"
+        }      
+    ],
+    "TDYE_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Time To Dream Yel**",
+            "image": "https://media.discordapp.net/attachments/1144250914547441764/1144251640925392946/H1KEY_20230824203635.png",
+            "theme": "card1",
+            "inv": "timetodream",
+            "code": "`TDYE_C`"
+        }          
+    ],
+    "TDYE_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Time To Dream Yel**",
+            "image": "https://media.discordapp.net/attachments/1144250914547441764/1144251641235767397/H1KEY_20230824203638.png",
+            "theme": "card1",
+            "inv": "timetodream",
+            "code": "`TDYE_B`"
+        }               
+    ],
+    "TDYE_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Time To Dream Yel**",
+            "image": "https://media.discordapp.net/attachments/1144250914547441764/1144251641428725840/H1KEY_20230824203640.png",
+            "theme": "card1",
+            "inv": "timetodream",
+            "code": "`TDYE_A`"
+        }     
+    ],
+    "TDYE_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Time To Dream Yel**",
+            "image": "https://media.discordapp.net/attachments/1144250914547441764/1144251641684561960/H1KEY_20230824203643.png",
+            "theme": "card1",
+            "inv": "timetodream",
+            "code": "`TDYE_S`"
+        }     
+    ],
+    "TDYE_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Time To Dream Yel**",
+            "image": "https://media.discordapp.net/attachments/1144250914547441764/1144251641902661672/H1KEY_20230824203645.png",
+            "theme": "card1",
+            "inv": "timetodream",
+            "code": "`TDYE_R`"
+        }      
       ],
     "SPBBC_C": [
         {
