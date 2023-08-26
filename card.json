@@ -8,6 +8,276 @@
             "code": "`IBHB_C`"
         }
     ],
+    "BSM_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Bubble Sumin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "bubble",
+            "code": "`BSM_C`"
+        }          
+    ],
+    "BSM_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Bubble Sumin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "bubble",
+            "code": "`BSM_B`"
+        }               
+    ],
+    "BSM_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Bubble Sumin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "bubble",
+            "code": "`BSM_A`"
+        }     
+    ],
+    "BSM_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Bubble Sumin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "bubble",
+            "code": "`BSM_S`"
+        }     
+    ],
+    "BSM_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Bubble Sumin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "bubble",
+            "code": "`BSM_R`"
+        }  
+    ],
+    "BSI_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Bubble Sieun**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "bubble",
+            "code": "`BSI_C`"
+        }          
+    ],
+    "BSI_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Bubble Sieun**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "bubble",
+            "code": "`BSI_B`"
+        }               
+    ],
+    "BSI_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Bubble Sieun**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "bubble",
+            "code": "`BSI_A`"
+        }     
+    ],
+    "BSI_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Bubble Sieun**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "bubble",
+            "code": "`BSI_S`"
+        }     
+    ],
+    "BSI_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Bubble Sieun**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "bubble",
+            "code": "`BSI_R`"
+        }
+    ],
+    "BIS_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Bubble Isa**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "bubble",
+            "code": "`BIS_C`"
+        }          
+    ],
+    "BIS_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Bubble Isa**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "bubble",
+            "code": "`BIS_B`"
+        }               
+    ],
+    "BIS_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Bubble Isa**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "bubble",
+            "code": "`BIS_A`"
+        }     
+    ],
+    "BIS_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Bubble Isa**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "bubble",
+            "code": "`BIS_S`"
+        }     
+    ],
+    "BIS_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Bubble Isa**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "bubble",
+            "code": "`BIS_R`"
+        } 
+    ],
+    "BSE_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Bubble Seeun**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "bubble",
+            "code": "`BSE_C`"
+        }          
+    ],
+    "BSE_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Bubble Seeun**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "bubble",
+            "code": "`BSE_B`"
+        }               
+    ],
+    "BSE_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Bubble Seeun**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "bubble",
+            "code": "`BSE_A`"
+        }     
+    ],
+    "BSE_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Bubble Seeun**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "bubble",
+            "code": "`BSE_S`"
+        }     
+    ],
+    "BSE_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Bubble Seeun**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "bubble",
+            "code": "`BSE_R`"
+        }
+    ],
+    "BYO_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Bubble Yoon**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "bubble",
+            "code": "`BYO_C`"
+        }          
+    ],
+    "BYO_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Bubble Yoon**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "bubble",
+            "code": "`BYO_B`"
+        }               
+    ],
+    "BYO_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Bubble Yoon**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "bubble",
+            "code": "`BYO_A`"
+        }     
+    ],
+    "BYO_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Bubble Yoon**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "bubble",
+            "code": "`BYO_S`"
+        }     
+    ],
+    "BYO_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Bubble Yoon**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "bubble",
+            "code": "`BYO_R`"
+        }
+    ],
+    "BSJ_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Bubble J**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "bubble",
+            "code": "`BSJ_C`"
+        }          
+    ],
+    "BSJ_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Bubble J**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "bubble",
+            "code": "`BSJ_B`"
+        }               
+    ],
+    "BSJ_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Bubble J**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "bubble",
+            "code": "`BSJ_A`"
+        }     
+    ],
+    "BSJ_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Bubble J**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "bubble",
+            "code": "`BSJ_S`"
+        }     
+    ],
+    "BSJ_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Bubble J**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "bubble",
+            "code": "`BSJ_R`"
+        }      
+    ],
     "SDMA_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Saturday Drip Mark**",
