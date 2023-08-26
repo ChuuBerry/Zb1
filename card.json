@@ -188,49 +188,49 @@
             "code": "`SSHR_R`"
         }
      ],
-    "SSHE_C": [
+    "SSHI_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Super Shy Hyein**",
             "image": "https://media.discordapp.net/attachments/1136226630432473269/1144251446649442414/NewJeans_20230824203424.png",
             "theme": "card1",
             "inv": "supershy",
-            "code": "`SSHE_C`"
+            "code": "`SSHI_C`"
         }          
     ],
-    "SSHE_B": [
+    "SSHI_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Super Shy Hyein**",
             "image": "https://media.discordapp.net/attachments/1136226630432473269/1144251446909485117/NewJeans_20230824203427.png",
             "theme": "card1",
             "inv": "supershy",
-            "code": "`SSHE_B`"
+            "code": "`SSHI_B`"
         }               
     ],
-    "SSHE_A": [
+    "SSHI_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Super Shy Hyein**",
             "image": "https://media.discordapp.net/attachments/1136226630432473269/1144251447140167731/NewJeans_20230824203429.png",
             "theme": "card1",
             "inv": "supershy",
-            "code": "`SSHE_A`"
+            "code": "`SSHI_A`"
         }     
     ],
-    "SSHE_S": [
+    "SSHI_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Super Shy Hyein**",
             "image": "https://media.discordapp.net/attachments/1136226630432473269/1144251447417000077/NewJeans_20230824203432.png",
             "theme": "card1",
             "inv": "supershy",
-            "code": "`SSHE_S`"
+            "code": "`SSHI_S`"
         }     
     ],
-    "SSHE_R": [
+    "SSHI_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Super Shy Hyein**",
             "image": "https://media.discordapp.net/attachments/1136226630432473269/1144251447664459916/NewJeans_20230824203434.png",
             "theme": "card1",
             "inv": "supershy",
-            "code": "`SSHE_R`"
+            "code": "`SSHI_R`"
         }    
     ],
     "HFYJ_C": [
