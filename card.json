@@ -186,7 +186,52 @@
             "theme": "card1",
             "inv": "happyfools",
             "code": "`HFTH_R`"
-        }    
+        } 
+     ],
+    "HFHK_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Happy Fools Huening Kai**",
+            "image": "https://media.discordapp.net/attachments/1137383649952665620/1144251569186033674/TXT_20230824203136.png",
+            "theme": "card1",
+            "inv": "happyfools",
+            "code": "`HFHK_C`"
+        }          
+    ],
+    "HFHK_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Happy Fools Huening Kai**",
+            "image": "https://media.discordapp.net/attachments/1137383649952665620/1144251569475424316/TXT_20230824203138.png",
+            "theme": "card1",
+            "inv": "happyfools",
+            "code": "`HFHK_B`"
+        }               
+    ],
+    "HFHK_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Happy Fools Huening Kai**",
+            "image": "https://media.discordapp.net/attachments/1137383649952665620/1144251569848733725/TXT_20230824203141.png",
+            "theme": "card1",
+            "inv": "happyfools",
+            "code": "`HFHK_A`"
+        }     
+    ],
+    "HFHK_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Happy Fools Huening Kai**",
+            "image": "https://media.discordapp.net/attachments/1137383649952665620/1144251570167480410/TXT_20230824203143.png",
+            "theme": "card1",
+            "inv": "happyfools",
+            "code": "`HFHK_S`"
+        }     
+    ],
+    "HFHK_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Happy Fools Huening Kai**",
+            "image": "https://media.discordapp.net/attachments/1137383649952665620/1144251570440114206/TXT_20230824203146.png",
+            "theme": "card1",
+            "inv": "happyfools",
+            "code": "`HFHK_R`"
+        }     
     ],
     "BSM_C": [
         {
