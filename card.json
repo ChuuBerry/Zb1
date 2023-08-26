@@ -7,6 +7,231 @@
             "inv": "inbloom",
             "code": "`IBHB_C`"
         }
+     ],
+    "SSMJ_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Super Shy Minji**",
+            "image": "https://media.discordapp.net/attachments/1136226630432473269/1144251367611961394/NewJeans_20230824203249.png",
+            "theme": "card1",
+            "inv": "supershy",
+            "code": "`SSMJ_C`"
+        }          
+    ],
+    "SSMJ_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Super Shy Minji**",
+            "image": "https://media.discordapp.net/attachments/1136226630432473269/1144251367960096855/NewJeans_20230824203251.png",
+            "theme": "card1",
+            "inv": "supershy",
+            "code": "`SSMJ_B`"
+        }               
+    ],
+    "SSMJ_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Super Shy Minji**",
+            "image": "https://media.discordapp.net/attachments/1136226630432473269/1144251368257900645/NewJeans_20230824203300.png",
+            "theme": "card1",
+            "inv": "supershy",
+            "code": "`SSMJ_A`"
+        }     
+    ],
+    "SSMJ_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Super Shy Minji**",
+            "image": "https://media.discordapp.net/attachments/1136226630432473269/1144251368580853890/NewJeans_20230824203306.png",
+            "theme": "card1",
+            "inv": "supershy",
+            "code": "`SSMJ_S`"
+        }     
+    ],
+    "SSMJ_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Super Shy Minji**",
+            "image": "https://media.discordapp.net/attachments/1136226630432473269/1144251368954155068/NewJeans_20230824203310.png",
+            "theme": "card1",
+            "inv": "supershy",
+            "code": "`SSMJ_R`"
+        }
+     ],
+    "SSHN_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Super Shy Hanni**",
+            "image": "https://media.discordapp.net/attachments/1136226630432473269/1144251369289682964/NewJeans_20230824203321.png",
+            "theme": "card1",
+            "inv": "supershy",
+            "code": "`SSHN_C`"
+        }          
+    ],
+    "SSHN_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Super Shy Hanni**",
+            "image": "https://media.discordapp.net/attachments/1136226630432473269/1144251369633632337/NewJeans_20230824203325.png",
+            "theme": "card1",
+            "inv": "supershy",
+            "code": "`SSHN_B`"
+        }               
+    ],
+    "SSHN_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Super Shy Hanni**",
+            "image": "https://media.discordapp.net/attachments/1136226630432473269/1144251369985937458/NewJeans_20230824203328.png",
+            "theme": "card1",
+            "inv": "supershy",
+            "code": "`SSHN_A`"
+        }     
+    ],
+    "SSHN_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Super Shy Hanni**",
+            "image": "https://media.discordapp.net/attachments/1136226630432473269/1144251370342461460/NewJeans_20230824203331.png",
+            "theme": "card1",
+            "inv": "supershy",
+            "code": "`SSHN_S`"
+        }     
+    ],
+    "SSHN_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Super Shy Hanni**",
+            "image": "https://media.discordapp.net/attachments/1136226630432473269/1144251370782871572/NewJeans_20230824203334.png",
+            "theme": "card1",
+            "inv": "supershy",
+            "code": "`SSHN_R`"
+        }
+     ],
+    "SSDN_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Super Shy Danielle**",
+            "image": "https://media.discordapp.net/attachments/1136226630432473269/1144251422968385638/NewJeans_20230824203341.png",
+            "theme": "card1",
+            "inv": "supershy",
+            "code": "`SSDN_C`"
+        }          
+    ],
+    "SSDN_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Super Shy Danielle**",
+            "image": "https://media.discordapp.net/attachments/1136226630432473269/1144251423626903602/NewJeans_20230824203347.png",
+            "theme": "card1",
+            "inv": "supershy",
+            "code": "`SSDN_B`"
+        }               
+    ],
+    "SSDN_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Super Shy Danielle**",
+            "image": "https://media.discordapp.net/attachments/1136226630432473269/1144251423983423579/NewJeans_20230824203351.png",
+            "theme": "card1",
+            "inv": "supershy",
+            "code": "`SSDN_A`"
+        }     
+    ],
+    "SSDN_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Super Shy Danielle**",
+            "image": "https://media.discordapp.net/attachments/1136226630432473269/1144251424209899580/NewJeans_20230824203353.png",
+            "theme": "card1",
+            "inv": "supershy",
+            "code": "`SSDN_S`"
+        }     
+    ],
+    "SSDN_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Super Shy Danielle**",
+            "image": "https://media.discordapp.net/attachments/1136226630432473269/1144251424499318795/NewJeans_20230824203356.png",
+            "theme": "card1",
+            "inv": "supershy",
+            "code": "`SSDN_R`"
+        } 
+     ],
+    "SSHR_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Super Shy Haerin**",
+            "image": "https://media.discordapp.net/attachments/1136226630432473269/1144251424784535583/NewJeans_20230824203406.png",
+            "theme": "card1",
+            "inv": "supershy",
+            "code": "`SSHR_C`"
+        }          
+    ],
+    "SSHR_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Super Shy Haerin**",
+            "image": "https://media.discordapp.net/attachments/1136226630432473269/1144251425040371742/NewJeans_20230824203409.png",
+            "theme": "card1",
+            "inv": "supershy",
+            "code": "`SSHR_B`"
+        }               
+    ],
+    "SSHR_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Super Shy Haerin**",
+            "image": "https://media.discordapp.net/attachments/1136226630432473269/1144251425266876527/NewJeans_20230824203411.png",
+            "theme": "card1",
+            "inv": "supershy",
+            "code": "`SSHR_A`"
+        }     
+    ],
+    "SSHR_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Super Shy Haerin**",
+            "image": "https://media.discordapp.net/attachments/1136226630432473269/1144251425505955902/NewJeans_20230824203414.png",
+            "theme": "card1",
+            "inv": "supershy",
+            "code": "`SSHR_S`"
+        }     
+    ],
+    "SSHR_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Super Shy Haerin**",
+            "image": "https://media.discordapp.net/attachments/1136226630432473269/1144251425757597797/NewJeans_20230824203416.png",
+            "theme": "card1",
+            "inv": "supershy",
+            "code": "`SSHR_R`"
+        }
+     ],
+    "SSHE_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Super Shy Hyein**",
+            "image": "https://media.discordapp.net/attachments/1136226630432473269/1144251446649442414/NewJeans_20230824203424.png",
+            "theme": "card1",
+            "inv": "supershy",
+            "code": "`SSHE_C`"
+        }          
+    ],
+    "SSHE_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Super Shy Hyein**",
+            "image": "https://media.discordapp.net/attachments/1136226630432473269/1144251446909485117/NewJeans_20230824203427.png",
+            "theme": "card1",
+            "inv": "supershy",
+            "code": "`SSHE_B`"
+        }               
+    ],
+    "SSHE_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Super Shy Hyein**",
+            "image": "https://media.discordapp.net/attachments/1136226630432473269/1144251447140167731/NewJeans_20230824203429.png",
+            "theme": "card1",
+            "inv": "supershy",
+            "code": "`SSHE_A`"
+        }     
+    ],
+    "SSHE_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Super Shy Hyein**",
+            "image": "https://media.discordapp.net/attachments/1136226630432473269/1144251447417000077/NewJeans_20230824203432.png",
+            "theme": "card1",
+            "inv": "supershy",
+            "code": "`SSHE_S`"
+        }     
+    ],
+    "SSHE_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Super Shy Hyein**",
+            "image": "https://media.discordapp.net/attachments/1136226630432473269/1144251447664459916/NewJeans_20230824203434.png",
+            "theme": "card1",
+            "inv": "supershy",
+            "code": "`SSHE_R`"
+        }    
     ],
     "HFYJ_C": [
         {
