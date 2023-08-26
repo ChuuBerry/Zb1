@@ -11,7 +11,7 @@
     "BSM_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Bubble Sumin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1142725139717439489/1144251209784500407/STAYC_20230824202811.png",
             "theme": "card1",
             "inv": "bubble",
             "code": "`BSM_C`"
@@ -20,7 +20,7 @@
     "BSM_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Bubble Sumin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1142725139717439489/1144251210052947978/STAYC_20230824202814.png",
             "theme": "card1",
             "inv": "bubble",
             "code": "`BSM_B`"
@@ -29,7 +29,7 @@
     "BSM_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Bubble Sumin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1142725139717439489/1144251210338152448/STAYC_20230824202816.png",
             "theme": "card1",
             "inv": "bubble",
             "code": "`BSM_A`"
@@ -38,7 +38,7 @@
     "BSM_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Bubble Sumin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1142725139717439489/1144251210623361064/STAYC_20230824202819.png",
             "theme": "card1",
             "inv": "bubble",
             "code": "`BSM_S`"
@@ -47,7 +47,7 @@
     "BSM_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Bubble Sumin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1142725139717439489/1144251210929549394/STAYC_20230824202822.png",
             "theme": "card1",
             "inv": "bubble",
             "code": "`BSM_R`"
@@ -56,7 +56,7 @@
     "BSI_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Bubble Sieun**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1142725139717439489/1144251211193786388/STAYC_20230824202830.png",
             "theme": "card1",
             "inv": "bubble",
             "code": "`BSI_C`"
@@ -65,7 +65,7 @@
     "BSI_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Bubble Sieun**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1142725139717439489/1144251211466428416/STAYC_20230824202832.png",
             "theme": "card1",
             "inv": "bubble",
             "code": "`BSI_B`"
@@ -74,7 +74,7 @@
     "BSI_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Bubble Sieun**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1142725139717439489/1144251211722272918/STAYC_20230824202834.png",
             "theme": "card1",
             "inv": "bubble",
             "code": "`BSI_A`"
@@ -83,7 +83,7 @@
     "BSI_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Bubble Sieun**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1142725139717439489/1144251211973926952/STAYC_20230824202838.png",
             "theme": "card1",
             "inv": "bubble",
             "code": "`BSI_S`"
@@ -92,7 +92,7 @@
     "BSI_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Bubble Sieun**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1142725139717439489/1144251212443701350/STAYC_20230824202840.png",
             "theme": "card1",
             "inv": "bubble",
             "code": "`BSI_R`"
@@ -101,7 +101,7 @@
     "BIS_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Bubble Isa**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1142725139717439489/1144251272380293170/STAYC_20230824202851.png",
             "theme": "card1",
             "inv": "bubble",
             "code": "`BIS_C`"
@@ -110,7 +110,7 @@
     "BIS_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Bubble Isa**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1142725139717439489/1144251272682295296/STAYC_20230824202854.png",
             "theme": "card1",
             "inv": "bubble",
             "code": "`BIS_B`"
@@ -119,7 +119,7 @@
     "BIS_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Bubble Isa**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1142725139717439489/1144251272992657469/STAYC_20230824202857.png",
             "theme": "card1",
             "inv": "bubble",
             "code": "`BIS_A`"
@@ -128,7 +128,7 @@
     "BIS_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Bubble Isa**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1142725139717439489/1144251273240125571/STAYC_20230824202859.png",
             "theme": "card1",
             "inv": "bubble",
             "code": "`BIS_S`"
@@ -137,7 +137,7 @@
     "BIS_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Bubble Isa**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1142725139717439489/1144251273483399198/STAYC_20230824202901.png",
             "theme": "card1",
             "inv": "bubble",
             "code": "`BIS_R`"
@@ -146,7 +146,7 @@
     "BSE_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Bubble Seeun**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1142725139717439489/1144251273739243591/STAYC_20230824202909.png",
             "theme": "card1",
             "inv": "bubble",
             "code": "`BSE_C`"
@@ -155,7 +155,7 @@
     "BSE_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Bubble Seeun**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1142725139717439489/1144251273999294494/STAYC_20230824202912.png",
             "theme": "card1",
             "inv": "bubble",
             "code": "`BSE_B`"
@@ -164,7 +164,7 @@
     "BSE_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Bubble Seeun**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1142725139717439489/1144251274280325201/STAYC_20230824202914.png",
             "theme": "card1",
             "inv": "bubble",
             "code": "`BSE_A`"
@@ -173,7 +173,7 @@
     "BSE_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Bubble Seeun**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1142725139717439489/1144251274561327235/STAYC_20230824202917.png",
             "theme": "card1",
             "inv": "bubble",
             "code": "`BSE_S`"
@@ -182,7 +182,7 @@
     "BSE_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Bubble Seeun**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1142725139717439489/1144251274993356831/STAYC_20230824202920.png",
             "theme": "card1",
             "inv": "bubble",
             "code": "`BSE_R`"
@@ -191,7 +191,7 @@
     "BYO_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Bubble Yoon**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1142725139717439489/1144251320824512612/STAYC_20230824202928.png",
             "theme": "card1",
             "inv": "bubble",
             "code": "`BYO_C`"
@@ -200,7 +200,7 @@
     "BYO_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Bubble Yoon**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1142725139717439489/1144251321151664158/STAYC_20230824202930.png",
             "theme": "card1",
             "inv": "bubble",
             "code": "`BYO_B`"
@@ -209,7 +209,7 @@
     "BYO_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Bubble Yoon**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1142725139717439489/1144251321478811719/STAYC_20230824202933.png",
             "theme": "card1",
             "inv": "bubble",
             "code": "`BYO_A`"
@@ -218,7 +218,7 @@
     "BYO_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Bubble Yoon**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1142725139717439489/1144251321826947072/STAYC_20230824202935.png",
             "theme": "card1",
             "inv": "bubble",
             "code": "`BYO_S`"
@@ -227,7 +227,7 @@
     "BYO_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Bubble Yoon**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1142725139717439489/1144251322086985759/STAYC_20230824202938.png",
             "theme": "card1",
             "inv": "bubble",
             "code": "`BYO_R`"
@@ -236,7 +236,7 @@
     "BSJ_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Bubble J**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1142725139717439489/1144251322305101824/STAYC_20230824202945.png",
             "theme": "card1",
             "inv": "bubble",
             "code": "`BSJ_C`"
@@ -245,7 +245,7 @@
     "BSJ_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Bubble J**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1142725139717439489/1144251322598699088/STAYC_20230824202949.png",
             "theme": "card1",
             "inv": "bubble",
             "code": "`BSJ_B`"
@@ -254,7 +254,7 @@
     "BSJ_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Bubble J**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1142725139717439489/1144251322930040832/STAYC_20230824202952.png",
             "theme": "card1",
             "inv": "bubble",
             "code": "`BSJ_A`"
@@ -263,7 +263,7 @@
     "BSJ_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Bubble J**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1142725139717439489/1144251323466924102/STAYC_20230824202955.png",
             "theme": "card1",
             "inv": "bubble",
             "code": "`BSJ_S`"
@@ -272,7 +272,7 @@
     "BSJ_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Bubble J**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1142725139717439489/1144251323840213125/STAYC_20230824202957.png",
             "theme": "card1",
             "inv": "bubble",
             "code": "`BSJ_R`"
