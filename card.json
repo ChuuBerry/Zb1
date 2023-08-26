@@ -8,6 +8,186 @@
             "code": "`IBHB_C`"
         }
     ],
+    "HFYJ_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Happy Fools Yeonjun**",
+            "image": "https://media.discordapp.net/attachments/1137383649952665620/1144251491893395486/TXT_20230824203022.png",
+            "theme": "card1",
+            "inv": "happyfools",
+            "code": "`HFYJ_C`"
+        }          
+    ],
+    "HFYJ_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Happy Fools Yeonjun**",
+            "image": "https://media.discordapp.net/attachments/1137383649952665620/1144251492124086272/TXT_20230824203024.png",
+            "theme": "card1",
+            "inv": "happyfools",
+            "code": "`HFYJ_B`"
+        }               
+    ],
+    "HFYJ_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Happy Fools Yeonjun**",
+            "image": "https://media.discordapp.net/attachments/1137383649952665620/1144251492358951042/TXT_20230824203027.png",
+            "theme": "card1",
+            "inv": "happyfools",
+            "code": "`HFYJ_A`"
+        }     
+    ],
+    "HFYJ_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Happy Fools Yeonjun**",
+            "image": "https://media.discordapp.net/attachments/1137383649952665620/1144251492564484157/TXT_20230824203030.png",
+            "theme": "card1",
+            "inv": "happyfools",
+            "code": "`HFYJ_S`"
+        }     
+    ],
+    "HFYJ_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Happy Fools Yeonjun**",
+            "image": "https://media.discordapp.net/attachments/1137383649952665620/1144251492828729344/TXT_20230824203032.png",
+            "theme": "card1",
+            "inv": "happyfools",
+            "code": "`HFYJ_R`"
+        }
+    ],
+    "HFSB_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Happy Fools Soobin**",
+            "image": "https://media.discordapp.net/attachments/1137383649952665620/1144251493084565616/TXT_20230824203043.png",
+            "theme": "card1",
+            "inv": "happyfools",
+            "code": "`HFSB_C`"
+        }          
+    ],
+    "HFSB_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Happy Fools Soobin**",
+            "image": "https://media.discordapp.net/attachments/1137383649952665620/1144251493306876014/TXT_20230824203046.png",
+            "theme": "card1",
+            "inv": "happyfools",
+            "code": "`HFSB_B`"
+        }               
+    ],
+    "HFSB_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Happy Fools Soobin**",
+            "image": "https://media.discordapp.net/attachments/1137383649952665620/1144251493558538390/TXT_20230824203048.png",
+            "theme": "card1",
+            "inv": "happyfools",
+            "code": "`HFSB_A`"
+        }     
+    ],
+    "HFSB_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Happy Fools Soobin**",
+            "image": "https://media.discordapp.net/attachments/1137383649952665620/1144251493831151626/TXT_20230824203051.png",
+            "theme": "card1",
+            "inv": "happyfools",
+            "code": "`HFSB_S`"
+        }     
+    ],
+    "HFSB_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Happy Fools Soobin**",
+            "image": "https://media.discordapp.net/attachments/1137383649952665620/1144251494158319626/TXT_20230824203054.png",
+            "theme": "card1",
+            "inv": "happyfools",
+            "code": "`HFSB_R`"
+        } 
+    ],
+    "HFBG_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Happy Fools Beomgyu**",
+            "image": "https://media.discordapp.net/attachments/1137383649952665620/1144251543596580876/TXT_20230824203102.png",
+            "theme": "card1",
+            "inv": "happyfools",
+            "code": "`HFBG_C`"
+        }          
+    ],
+    "HFBG_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Happy Fools Beomgyu**",
+            "image": "https://media.discordapp.net/attachments/1137383649952665620/1144251543885979708/TXT_20230824203104.png",
+            "theme": "card1",
+            "inv": "happyfools",
+            "code": "`HFBG_B`"
+        }               
+    ],
+    "HFBG_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Happy Fools Beomgyu**",
+            "image": "https://media.discordapp.net/attachments/1137383649952665620/1144251544137629797/TXT_20230824203106.png",
+            "theme": "card1",
+            "inv": "happyfools",
+            "code": "`HFBG_A`"
+        }     
+    ],
+    "HFBG_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Happy Fools Beomgyu**",
+            "image": "https://media.discordapp.net/attachments/1137383649952665620/1144251544359944252/TXT_20230824203109.png",
+            "theme": "card1",
+            "inv": "happyfools",
+            "code": "`HFBG_S`"
+        }     
+    ],
+    "HFBG_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Happy Fools Beomgyu**",
+            "image": "https://media.discordapp.net/attachments/1137383649952665620/1144251544737423400/TXT_20230824203111.png",
+            "theme": "card1",
+            "inv": "happyfools",
+            "code": "`HFBG_R`"
+        } 
+    ],
+    "HFTH_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Happy Fools Taehyun**",
+            "image": "https://media.discordapp.net/attachments/1137383649952665620/1144251545018433696/TXT_20230824203118.png",
+            "theme": "card1",
+            "inv": "happyfools",
+            "code": "`HFTH_C`"
+        }          
+    ],
+    "HFTH_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Happy Fools Taehyun**",
+            "image": "https://media.discordapp.net/attachments/1137383649952665620/1144251545286885376/TXT_20230824203121.png",
+            "theme": "card1",
+            "inv": "happyfools",
+            "code": "`HFTH_B`"
+        }               
+    ],
+    "HFTH_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Happy Fools Taehyun**",
+            "image": "https://media.discordapp.net/attachments/1137383649952665620/1144251545530138724/TXT_20230824203124.png",
+            "theme": "card1",
+            "inv": "happyfools",
+            "code": "`HFTH_A`"
+        }     
+    ],
+    "HFTH_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Happy Fools Taehyun**",
+            "image": "https://media.discordapp.net/attachments/1137383649952665620/1144251545802784819/TXT_20230824203126.png",
+            "theme": "card1",
+            "inv": "happyfools",
+            "code": "`HFTH_S`"
+        }     
+    ],
+    "HFTH_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Happy Fools Taehyun**",
+            "image": "https://media.discordapp.net/attachments/1137383649952665620/1144251546092183612/TXT_20230824203129.png",
+            "theme": "card1",
+            "inv": "happyfools",
+            "code": "`HFTH_R`"
+        }    
+    ],
     "BSM_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Bubble Sumin**",
