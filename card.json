@@ -7,6 +7,141 @@
             "inv": "inbloom",
             "code": "`IBHB_C`"
         }
+    ],
+    "RDTI_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Rain Day Taeil**",
+            "image": "https://media.discordapp.net/attachments/1143785265979207701/1144251147809476638/NCT_20230824202556.png",
+            "theme": "card1",
+            "inv": "rainday",
+            "code": "`RDTI_C`"
+        }          
+    ],
+    "RDTI_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Rain Day Taeil**",
+            "image": "https://media.discordapp.net/attachments/1143785265979207701/1144251148136611961/NCT_20230824202600.png",
+            "theme": "card1",
+            "inv": "rainday",
+            "code": "`RDTI_B`"
+        }               
+    ],
+    "RDTI_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Rain Day Taeil**",
+            "image": "https://media.discordapp.net/attachments/1143785265979207701/1144251148430221402/NCT_20230824202603.png",
+            "theme": "card1",
+            "inv": "rainday",
+            "code": "`RDTI_A`"
+        }     
+    ],
+    "RDTI_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Rain Day Taeil**",
+            "image": "https://media.discordapp.net/attachments/1143785265979207701/1144251149130682469/NCT_20230824202606.png",
+            "theme": "card1",
+            "inv": "rainday",
+            "code": "`RDTI_S`"
+        }     
+    ],
+    "RDTI_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Rain Day Taeil**",
+            "image": "https://media.discordapp.net/attachments/1143785265979207701/1144251149608812627/NCT_20230824202609.png",
+            "theme": "card1",
+            "inv": "rainday",
+            "code": "`RDTI_R`"
+        }
+    ],
+    "RDKU_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Rain Day Kun**",
+            "image": "https://media.discordapp.net/attachments/1143785265979207701/1144251149961154650/NCT_20230824202618.png",
+            "theme": "card1",
+            "inv": "rainday",
+            "code": "`RDKU_C`"
+        }          
+    ],
+    "RDKU_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Rain Day Kun**",
+            "image": "https://media.discordapp.net/attachments/1143785265979207701/1144251150334427196/NCT_20230824202620.png",
+            "theme": "card1",
+            "inv": "rainday",
+            "code": "`RDKU_B`"
+        }               
+    ],
+    "RDKU_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Rain Day Kun**",
+            "image": "https://media.discordapp.net/attachments/1143785265979207701/1144251150628048967/NCT_20230824202623.png",
+            "theme": "card1",
+            "inv": "rainday",
+            "code": "`RDKU_A`"
+        }     
+    ],
+    "RDKU_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Rain Day Kun**",
+            "image": "https://media.discordapp.net/attachments/1143785265979207701/1144251150913241149/NCT_20230824202625.png",
+            "theme": "card1",
+            "inv": "rainday",
+            "code": "`RDKU_S`"
+        }     
+    ],
+    "RDKU_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Rain Day Kun**",
+            "image": "https://media.discordapp.net/attachments/1143785265979207701/1144251151240405032/NCT_20230824202628.png",
+            "theme": "card1",
+            "inv": "rainday",
+            "code": "`RDKU_R`"
+        } 
+   ],
+    "RDYY_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Rain Day Yangyang**",
+            "image": "https://media.discordapp.net/attachments/1143785265979207701/1144251175877738569/NCT_20230824202637.png",
+            "theme": "card1",
+            "inv": "rainday",
+            "code": "`RDYY_C`"
+        }          
+    ],
+    "RDYY_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Rain Day Yangyang**",
+            "image": "https://media.discordapp.net/attachments/1143785265979207701/1144251176259436584/NCT_20230824202639.png",
+            "theme": "card1",
+            "inv": "rainday",
+            "code": "`RDYY_B`"
+        }               
+    ],
+    "RDYY_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Rain Day Yangyang**",
+            "image": "https://media.discordapp.net/attachments/1143785265979207701/1144251176578207794/NCT_20230824202642.png",
+            "theme": "card1",
+            "inv": "rainday",
+            "code": "`RDYY_A`"
+        }     
+    ],
+    "RDYY_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Rain Day Yangyang**",
+            "image": "https://media.discordapp.net/attachments/1143785265979207701/1144251176875982898/NCT_20230824202644.png",
+            "theme": "card1",
+            "inv": "rainday",
+            "code": "`RDYY_S`"
+        }     
+    ],
+    "RDYY_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Rain Day Yangyang**",
+            "image": "https://media.discordapp.net/attachments/1143785265979207701/1144251177194766386/NCT_20230824202648.png",
+            "theme": "card1",
+            "inv": "rainday",
+            "code": "`RDYY_R`"
+        }     
      ],
     "TDSO_C": [
         {
