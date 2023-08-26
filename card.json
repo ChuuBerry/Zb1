@@ -8,6 +8,186 @@
             "code": "`IBHB_C`"
         }
     ],
+    "SDMA_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Saturday Drip Mark**",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1144251015869243493/NCT_20230824202423.png",
+            "theme": "card1",
+            "inv": "saturdaydrip",
+            "code": "`SDMA_C`"
+        }          
+    ],
+    "SDMA_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Saturday Drip Mark**",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1144251016221569094/NCT_20230824202426.png",
+            "theme": "card1",
+            "inv": "saturdaydrip",
+            "code": "`SDMA_B`"
+        }               
+    ],
+    "SDMA_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Saturday Drip Mark**",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1144251016599048253/NCT_20230824202428.png",
+            "theme": "card1",
+            "inv": "saturdaydrip",
+            "code": "`SDMA_A`"
+        }     
+    ],
+    "SDMA_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Saturday Drip Mark**",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1144251016896847902/NCT_20230824202431.png",
+            "theme": "card1",
+            "inv": "saturdaydrip",
+            "code": "`SDMA_S`"
+        }     
+    ],
+    "SDMA_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Saturday Drip Mark**",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1144251017144315964/NCT_20230824202434.png",
+            "theme": "card1",
+            "inv": "saturdaydrip",
+            "code": "`SDMA_R`"
+        }
+    ],
+    "SDJN_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Saturday Drip Jeno**",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1144251017383383161/NCT_20230824202441.png",
+            "theme": "card1",
+            "inv": "saturdaydrip",
+            "code": "`SDJN_C`"
+        }          
+    ],
+    "SDJN_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Saturday Drip Jeno**",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1144251017702154291/NCT_20230824202444.png",
+            "theme": "card1",
+            "inv": "saturdaydrip",
+            "code": "`SDJN_B`"
+        }               
+    ],
+    "SDJN_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Saturday Drip Jeno**",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1144251018033516594/NCT_20230824202446.png",
+            "theme": "card1",
+            "inv": "saturdaydrip",
+            "code": "`SDJN_A`"
+        }     
+    ],
+    "SDJN_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Saturday Drip Jeno**",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1144251018285158511/NCT_20230824202449.png",
+            "theme": "card1",
+            "inv": "saturdaydrip",
+            "code": "`SDJN_S`"
+        }     
+    ],
+    "SDJN_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Saturday Drip Jeno**",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1144251018511654973/NCT_20230824202452.png",
+            "theme": "card1",
+            "inv": "saturdaydrip",
+            "code": "`SDJN_R`"
+        }  
+    ],
+    "SDJM_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Saturday Drip Jaemin**",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1144251088778825758/NCT_20230824202500.png",
+            "theme": "card1",
+            "inv": "saturdaydrip",
+            "code": "`SDJM_C`"
+        }          
+    ],
+    "SDJM_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Saturday Drip Jaemin**",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1144251089059852429/NCT_20230824202503.png",
+            "theme": "card1",
+            "inv": "saturdaydrip",
+            "code": "`SDJM_B`"
+        }               
+    ],
+    "SDJM_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Saturday Drip Jaemin**",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1144251089319886949/NCT_20230824202505.png",
+            "theme": "card1",
+            "inv": "saturdaydrip",
+            "code": "`SDJM_A`"
+        }     
+    ],
+    "SDJM_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Saturday Drip Jaemin**",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1144251089584132216/NCT_20230824202508.png",
+            "theme": "card1",
+            "inv": "saturdaydrip",
+            "code": "`SDJM_S`"
+        }     
+    ],
+    "SDJM_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Saturday Drip Jaemin**",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1144251089835798548/NCT_20230824202513.png",
+            "theme": "card1",
+            "inv": "saturdaydrip",
+            "code": "`SDJM_R`"
+        }
+    ],
+    "SDJS_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Saturday Drip Jisung**",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1144251090066472990/NCT_20230824202525.png",
+            "theme": "card1",
+            "inv": "saturdaydrip",
+            "code": "`SDJS_C`"
+        }          
+    ],
+    "SDJS_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Saturday Drip Jisung**",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1144251090284580974/NCT_20230824202527.png",
+            "theme": "card1",
+            "inv": "saturdaydrip",
+            "code": "`SDJS_B`"
+        }               
+    ],
+    "SDJS_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Saturday Drip Jisung**",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1144251090494304336/NCT_20230824202530.png",
+            "theme": "card1",
+            "inv": "saturdaydrip",
+            "code": "`SDJS_A`"
+        }     
+    ],
+    "SDJS_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Saturday Drip Jisung**",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1144251090771116072/NCT_20230824202532.png",
+            "theme": "card1",
+            "inv": "saturdaydrip",
+            "code": "`SDJS_S`"
+        }     
+    ],
+    "SDJS_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Saturday Drip Jisung**",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1144251090993418290/NCT_20230824202535.png",
+            "theme": "card1",
+            "inv": "saturdaydrip",
+            "code": "`SDJS_R`"
+        }    
+    ],
     "RDTI_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Rain Day Taeil**",
