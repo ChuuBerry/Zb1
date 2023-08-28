@@ -7,6 +7,276 @@
             "inv": "inbloom",
             "code": "`IBHB_C`"
         }
+     ],
+    "SKRMA_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Keroppi Mark**",
+            "image": "https://media.discordapp.net/attachments/1145045868605624392/1145046049371730060/Pompompourin_20230827012226.png",
+            "theme": "card1",
+            "inv": "keroppi",
+            "code": "`SKRMA_C`"
+        }          
+    ],
+    "SKRMA_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Keroppi Mark**",
+            "image": "https://media.discordapp.net/attachments/1145045868605624392/1145046049732448286/Pompompourin_20230827012228.png",
+            "theme": "card1",
+            "inv": "keroppi",
+            "code": "`SKRMA_B`"
+        }               
+    ],
+    "SKRMA_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Keroppi Mark**",
+            "image": "https://media.discordapp.net/attachments/1145045868605624392/1145046050114117774/Pompompourin_20230827012233.png",
+            "theme": "card1",
+            "inv": "keroppi",
+            "code": "`SKRMA_A`"
+        }     
+    ],
+    "SKRMA_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Keroppi Mark**",
+            "image": "https://media.discordapp.net/attachments/1145045868605624392/1145046050453868605/Pompompourin_20230827012236.png",
+            "theme": "card1",
+            "inv": "keroppi",
+            "code": "`SKRMA_S`"
+        }     
+    ],
+    "SKRMA_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Keroppi Mark**",
+            "image": "https://media.discordapp.net/attachments/1145045868605624392/1145046050793594940/Pompompourin_20230827012238.png",
+            "theme": "card1",
+            "inv": "keroppi",
+            "code": "`SKRMA_R`"
+        }   
+     ],
+    "SKRWB_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Keroppi Woobin**",
+            "image": "https://media.discordapp.net/attachments/1145045868605624392/1145046091528675388/Pompompourin_20230827012250.png",
+            "theme": "card1",
+            "inv": "keroppi",
+            "code": "`SKRWB_C`"
+        }          
+    ],
+    "SKRWB_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Keroppi Woobin**",
+            "image": "https://media.discordapp.net/attachments/1145045868605624392/1145046091792912394/Pompompourin_20230827012253.png",
+            "theme": "card1",
+            "inv": "keroppi",
+            "code": "`SKRWB_B`"
+        }               
+    ],
+    "SKRWB_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Keroppi Woobin**",
+            "image": "https://media.discordapp.net/attachments/1145045868605624392/1145046092040380416/Pompompourin_20230827012257.png",
+            "theme": "card1",
+            "inv": "keroppi",
+            "code": "`SKRWB_A`"
+        }     
+    ],
+    "SKRWB_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Keroppi Woobin**",
+            "image": "https://media.discordapp.net/attachments/1145045868605624392/1145046092396892232/Pompompourin_20230827012259.png",
+            "theme": "card1",
+            "inv": "keroppi",
+            "code": "`SKRWB_S`"
+        }     
+    ],
+    "SKRWB_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Keroppi Woobin**",
+            "image": "https://media.discordapp.net/attachments/1145045868605624392/1145046092640157806/Pompompourin_20230827012302.png",
+            "theme": "card1",
+            "inv": "keroppi",
+            "code": "`SKRWB_R`"
+        }  
+     ],
+    "SKRYH_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Keroppi Yunho**",
+            "image": "https://media.discordapp.net/attachments/1145045868605624392/1145046089846759424/Pompompourin_20230827012149.png",
+            "theme": "card1",
+            "inv": "keroppi",
+            "code": "`SKRYH_C`"
+        }          
+    ],
+    "SKRYH_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Keroppi Yunho**",
+            "image": "https://media.discordapp.net/attachments/1145045868605624392/1145046090203271208/Pompompourin_20230827012154.png",
+            "theme": "card1",
+            "inv": "keroppi",
+            "code": "`SKRYH_B`"
+        }               
+    ],
+    "SKRYH_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Keroppi Yunho**",
+            "image": "https://media.discordapp.net/attachments/1145045868605624392/1145046090513661962/Pompompourin_20230827012158.png",
+            "theme": "card1",
+            "inv": "keroppi",
+            "code": "`SKRYH_A`"
+        }     
+    ],
+    "SKRYH_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Keroppi Yunho**",
+            "image": "https://media.discordapp.net/attachments/1145045868605624392/1145046090920501348/Pompompourin_20230827012201.png",
+            "theme": "card1",
+            "inv": "keroppi",
+            "code": "`SKRYH_S`"
+        }     
+    ],
+    "SKRYH_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Keroppi Yunho**",
+            "image": "https://media.discordapp.net/attachments/1145045868605624392/1145046091209904260/Pompompourin_20230827012204.png",
+            "theme": "card1",
+            "inv": "keroppi",
+            "code": "`SKRYH_R`"
+        } 
+      ],
+    "SKRLD_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Keroppi Luda**",
+            "image": "https://media.discordapp.net/attachments/1145045868605624392/1145045998532575393/Pompompourin_20230827012052.png",
+            "theme": "card1",
+            "inv": "keroppi",
+            "code": "`SKRLD_C`"
+        }          
+    ],
+    "SKRLD_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Keroppi Luda**",
+            "image": "https://media.discordapp.net/attachments/1145045868605624392/1145045998859735161/Pompompourin_20230827012055.png",
+            "theme": "card1",
+            "inv": "keroppi",
+            "code": "`SKRLD_B`"
+        }               
+    ],
+    "SKRLD_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Keroppi Luda**",
+            "image": "https://media.discordapp.net/attachments/1145045868605624392/1145045999228829796/Pompompourin_20230827012102.png",
+            "theme": "card1",
+            "inv": "keroppi",
+            "code": "`SKRLD_A`"
+        }     
+    ],
+    "SKRLD_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Keroppi Luda**",
+            "image": "https://media.discordapp.net/attachments/1145045868605624392/1145045999526609007/Pompompourin_20230827012105.png",
+            "theme": "card1",
+            "inv": "keroppi",
+            "code": "`SKRLD_S`"
+        }     
+    ],
+    "SKRLD_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Keroppi Luda**",
+            "image": "https://media.discordapp.net/attachments/1145045868605624392/1145045999845392484/Pompompourin_20230827012108.png",
+            "theme": "card1",
+            "inv": "keroppi",
+            "code": "`SKRLD_R`"
+        } 
+     ],
+    "SKRYJ_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Keroppi Yeojin**",
+            "image": "https://media.discordapp.net/attachments/1145045868605624392/1145046000189308958/Pompompourin_20230827012007.png",
+            "theme": "card1",
+            "inv": "keroppi",
+            "code": "`SKRYJ_C`"
+        }          
+    ],
+    "SKRYJ_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Keroppi Yeojin**",
+            "image": "https://media.discordapp.net/attachments/1145045868605624392/1145046000491315380/Pompompourin_20230827012010.png",
+            "theme": "card1",
+            "inv": "keroppi",
+            "code": "`SKRYJ_B`"
+        }               
+    ],
+    "SKRYJ_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Keroppi Yeojin**",
+            "image": "https://media.discordapp.net/attachments/1145045868605624392/1145046000742957166/Pompompourin_20230827012018.png",
+            "theme": "card1",
+            "inv": "keroppi",
+            "code": "`SKRYJ_A`"
+        }     
+    ],
+    "SKRYJ_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Keroppi Yeojin**",
+            "image": "https://media.discordapp.net/attachments/1145045868605624392/1145046001070133350/Pompompourin_20230827012022.png",
+            "theme": "card1",
+            "inv": "keroppi",
+            "code": "`SKRYJ_S`"
+        }     
+    ],
+    "SKRYJ_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Keroppi Yeojin**",
+            "image": "https://media.discordapp.net/attachments/1145045868605624392/1145046001317593218/Pompompourin_20230827012025.png",
+            "theme": "card1",
+            "inv": "keroppi",
+            "code": "`SKRYJ_R`"
+        }   
+     ],
+    "SKRYQ_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Keroppi Yuqi**",
+            "image": "https://media.discordapp.net/attachments/1145045868605624392/1145046047538819112/Pompompourin_20230827012122.png",
+            "theme": "card1",
+            "inv": "keroppi",
+            "code": "`SKRYQ_C`"
+        }          
+    ],
+    "SKRYQ_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Keroppi Yuqi**",
+            "image": "https://media.discordapp.net/attachments/1145045868605624392/1145046047920509109/Pompompourin_20230827012125.png",
+            "theme": "card1",
+            "inv": "keroppi",
+            "code": "`SKRYQ_B`"
+        }               
+    ],
+    "SKRYQ_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Keroppi Yuqi**",
+            "image": "https://media.discordapp.net/attachments/1145045868605624392/1145046048239263794/Pompompourin_20230827012130.png",
+            "theme": "card1",
+            "inv": "keroppi",
+            "code": "`SKRYQ_A`"
+        }     
+    ],
+    "SKRYQ_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Keroppi Yuqi**",
+            "image": "https://media.discordapp.net/attachments/1145045868605624392/1145046048604172318/Pompompourin_20230827012133.png",
+            "theme": "card1",
+            "inv": "keroppi",
+            "code": "`SKRYQ_S`"
+        }     
+    ],
+    "SKRYQ_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Keroppi Yuqi**",
+            "image": "https://media.discordapp.net/attachments/1145045868605624392/1145046049019416616/Pompompourin_20230827012136.png",
+            "theme": "card1",
+            "inv": "keroppi",
+            "code": "`SKRYQ_R`"
+        }       
     ],
     "SKRJY_C": [
         {
