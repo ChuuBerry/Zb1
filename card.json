@@ -7,6 +7,276 @@
             "inv": "inbloom",
             "code": "`IBHB_C`"
         }
+    ],
+    "SKRJY_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Kuromi Jinyoung**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "kuromi",
+            "code": "`SKRJY_C`"
+        }          
+    ],
+    "SKRJY_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Kuromi Jinyoung**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "kuromi",
+            "code": "`SKRJY_B`"
+        }               
+    ],
+    "SKRJY_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Kuromi Jinyoung**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "kuromi",
+            "code": "`SKRJY_A`"
+        }     
+    ],
+    "SKRJY_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Kuromi Jinyoung**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "kuromi",
+            "code": "`SKRJY_S`"
+        }     
+    ],
+    "SKRJY_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Kuromi Jinyoung**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "kuromi",
+            "code": "`SKRJY_R`"
+        }
+     ],
+    "SKRSW_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Kuromi Sunwoo**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "kuromi",
+            "code": "`SKRSW_C`"
+        }          
+    ],
+    "SKRSW_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Kuromi Sunwoo**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "kuromi",
+            "code": "`SKRSW_B`"
+        }               
+    ],
+    "SKRSW_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Kuromi Sunwoo**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "kuromi",
+            "code": "`SKRSW_A`"
+        }     
+    ],
+    "SKRSW_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Kuromi Sunwoo**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "kuromi",
+            "code": "`SKRSW_S`"
+        }     
+    ],
+    "SKRSW_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Kuromi Sunwoo**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "kuromi",
+            "code": "`SKRSW_R`"
+        } 
+    ],
+    "SKRZH_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Kuromi Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "kuromi",
+            "code": "`SKRZH_C`"
+        }          
+    ],
+    "SKRZH_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Kuromi Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "kuromi",
+            "code": "`SKRZH_B`"
+        }               
+    ],
+    "SKRZH_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Kuromi Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "kuromi",
+            "code": "`SKRZH_A`"
+        }     
+    ],
+    "SKRZH_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Kuromi Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "kuromi",
+            "code": "`SKRZH_S`"
+        }     
+    ],
+    "SKRZH_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Kuromi Zhang Hao**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "kuromi",
+            "code": "`SKRZH_R`"
+        } 
+    ],
+    "SKRAS_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Kuromi Aisha**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "kuromi",
+            "code": "`SKRAS_C`"
+        }          
+    ],
+    "SKRAS_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Kuromi Aisha**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "kuromi",
+            "code": "`SKRAS_B`"
+        }               
+    ],
+    "SKRAS_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Kuromi Aisha**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "kuromi",
+            "code": "`SKRAS_A`"
+        }     
+    ],
+    "SKRAS_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Kuromi Aisha**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "kuromi",
+            "code": "`SKRAS_S`"
+        }     
+    ],
+    "SKRAS_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Kuromi Aisha**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "kuromi",
+            "code": "`SKRAS_R`"
+        }   
+    ],
+    "SKRCW_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Kuromi Chaewon**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "kuromi",
+            "code": "`SKRCW_C`"
+        }          
+    ],
+    "SKRCW_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Kuromi Chaewon**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "kuromi",
+            "code": "`SKRCW_B`"
+        }               
+    ],
+    "SKRCW_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Kuromi Chaewon**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "kuromi",
+            "code": "`SKRCW_A`"
+        }     
+    ],
+    "SKRCW_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Kuromi Chaewon**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "kuromi",
+            "code": "`SKRCW_S`"
+        }     
+    ],
+    "SKRCW_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Kuromi Chaewon**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "kuromi",
+            "code": "`SKRCW_R`"
+        } 
+   ],
+    "SKRRE_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Kuromi Rei**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "kuromi",
+            "code": "`SKRRE_C`"
+        }          
+    ],
+    "SKRRE_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Kuromi Rei**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "kuromi",
+            "code": "`SKRRE_B`"
+        }               
+    ],
+    "SKRRE_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Kuromi Rei**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "kuromi",
+            "code": "`SKRRE_A`"
+        }     
+    ],
+    "SKRRE_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Kuromi Rei**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "kuromi",
+            "code": "`SKRRE_S`"
+        }     
+    ],
+    "SKRRE_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Kuromi Rei**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "kuromi",
+            "code": "`SKRRE_R`"
+        }     
      ],
     "SSMJ_C": [
         {
