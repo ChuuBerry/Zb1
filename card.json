@@ -11,7 +11,7 @@
     "SKRJY_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Kuromi Jinyoung**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1144637898726064150/1144654896545669130/Untitled462_20230825232552.png",
             "theme": "card1",
             "inv": "kuromi",
             "code": "`SKRJY_C`"
@@ -20,7 +20,7 @@
     "SKRJY_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Kuromi Jinyoung**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1144637898726064150/1144654896872837170/Untitled462_20230825232554.png",
             "theme": "card1",
             "inv": "kuromi",
             "code": "`SKRJY_B`"
@@ -29,7 +29,7 @@
     "SKRJY_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Kuromi Jinyoung**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1144637898726064150/1144654897179017417/Untitled462_20230825232600.png",
             "theme": "card1",
             "inv": "kuromi",
             "code": "`SKRJY_A`"
@@ -38,7 +38,7 @@
     "SKRJY_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Kuromi Jinyoung**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1144637898726064150/1144654897543913513/Untitled462_20230825232604.png",
             "theme": "card1",
             "inv": "kuromi",
             "code": "`SKRJY_S`"
@@ -47,7 +47,7 @@
     "SKRJY_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Kuromi Jinyoung**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1144637898726064150/1144654898080796772/Untitled462_20230825232607.png",
             "theme": "card1",
             "inv": "kuromi",
             "code": "`SKRJY_R`"
@@ -56,7 +56,7 @@
     "SKRSW_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Kuromi Sunwoo**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1144637898726064150/1144654898517000252/Untitled462_20230825232623.png",
             "theme": "card1",
             "inv": "kuromi",
             "code": "`SKRSW_C`"
@@ -65,7 +65,7 @@
     "SKRSW_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Kuromi Sunwoo**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1144637898726064150/1144654898936422431/Untitled462_20230825232626.png",
             "theme": "card1",
             "inv": "kuromi",
             "code": "`SKRSW_B`"
@@ -74,7 +74,7 @@
     "SKRSW_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Kuromi Sunwoo**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1144637898726064150/1144654899238424576/Untitled462_20230825232633.png",
             "theme": "card1",
             "inv": "kuromi",
             "code": "`SKRSW_A`"
@@ -83,7 +83,7 @@
     "SKRSW_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Kuromi Sunwoo**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1144637898726064150/1144654899620094103/Untitled462_20230825232637.png",
             "theme": "card1",
             "inv": "kuromi",
             "code": "`SKRSW_S`"
@@ -92,7 +92,7 @@
     "SKRSW_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Kuromi Sunwoo**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1144637898726064150/1144654900341526588/Untitled462_20230825232640.png",
             "theme": "card1",
             "inv": "kuromi",
             "code": "`SKRSW_R`"
@@ -101,7 +101,7 @@
     "SKRZH_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Kuromi Zhang Hao**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1144637898726064150/1144654940569084055/Untitled462_20230825232521.png",
             "theme": "card1",
             "inv": "kuromi",
             "code": "`SKRZH_C`"
@@ -110,7 +110,7 @@
     "SKRZH_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Kuromi Zhang Hao**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1144637898726064150/1144654940799766680/Untitled462_20230825232524.png",
             "theme": "card1",
             "inv": "kuromi",
             "code": "`SKRZH_B`"
@@ -119,7 +119,7 @@
     "SKRZH_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Kuromi Zhang Hao**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1144637898726064150/1144654941034659860/Untitled462_20230825232531.png",
             "theme": "card1",
             "inv": "kuromi",
             "code": "`SKRZH_A`"
@@ -128,7 +128,7 @@
     "SKRZH_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Kuromi Zhang Hao**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1144637898726064150/1144654941269532783/Untitled462_20230825232534.png",
             "theme": "card1",
             "inv": "kuromi",
             "code": "`SKRZH_S`"
@@ -137,7 +137,7 @@
     "SKRZH_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Kuromi Zhang Hao**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1144637898726064150/1144654941563129866/Untitled462_20230825232537.png",
             "theme": "card1",
             "inv": "kuromi",
             "code": "`SKRZH_R`"
@@ -146,7 +146,7 @@
     "SKRAS_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Kuromi Aisha**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1144637898726064150/1144654941907075182/Untitled462_20230825232834.png",
             "theme": "card1",
             "inv": "kuromi",
             "code": "`SKRAS_C`"
@@ -155,7 +155,7 @@
     "SKRAS_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Kuromi Aisha**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1144637898726064150/1144654942246805615/Untitled462_20230825232837.png",
             "theme": "card1",
             "inv": "kuromi",
             "code": "`SKRAS_B`"
@@ -164,7 +164,7 @@
     "SKRAS_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Kuromi Aisha**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1144637898726064150/1144654942540402811/Untitled462_20230825232843.png",
             "theme": "card1",
             "inv": "kuromi",
             "code": "`SKRAS_A`"
@@ -173,7 +173,7 @@
     "SKRAS_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Kuromi Aisha**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1144637898726064150/1144654942834016276/Untitled462_20230825232846.png",
             "theme": "card1",
             "inv": "kuromi",
             "code": "`SKRAS_S`"
@@ -182,7 +182,7 @@
     "SKRAS_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Kuromi Aisha**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1144637898726064150/1144654943177941063/Untitled462_20230825232850.png",
             "theme": "card1",
             "inv": "kuromi",
             "code": "`SKRAS_R`"
@@ -191,7 +191,7 @@
     "SKRCW_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Kuromi Chaewon**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1144637898726064150/1144654982294028308/Untitled462_20230825232655.png",
             "theme": "card1",
             "inv": "kuromi",
             "code": "`SKRCW_C`"
@@ -200,7 +200,7 @@
     "SKRCW_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Kuromi Chaewon**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1144637898726064150/1144654982533087323/Untitled462_20230825232659.png",
             "theme": "card1",
             "inv": "kuromi",
             "code": "`SKRCW_B`"
@@ -209,7 +209,7 @@
     "SKRCW_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Kuromi Chaewon**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1144637898726064150/1144654982830891109/Untitled462_20230825232710.png",
             "theme": "card1",
             "inv": "kuromi",
             "code": "`SKRCW_A`"
@@ -218,7 +218,7 @@
     "SKRCW_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Kuromi Chaewon**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1144637898726064150/1144654983103528960/Untitled462_20230825232717.png",
             "theme": "card1",
             "inv": "kuromi",
             "code": "`SKRCW_S`"
@@ -227,7 +227,7 @@
     "SKRCW_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Kuromi Chaewon**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1144637898726064150/1144654983426474157/Untitled462_20230825232720.png",
             "theme": "card1",
             "inv": "kuromi",
             "code": "`SKRCW_R`"
@@ -236,7 +236,7 @@
     "SKRRE_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Kuromi Rei**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1144637898726064150/1144654983678140447/Untitled462_20230825232733.png",
             "theme": "card1",
             "inv": "kuromi",
             "code": "`SKRRE_C`"
@@ -245,7 +245,7 @@
     "SKRRE_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Kuromi Rei**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1144637898726064150/1144654984496038090/Untitled462_20230825232740.png",
             "theme": "card1",
             "inv": "kuromi",
             "code": "`SKRRE_B`"
@@ -254,7 +254,7 @@
     "SKRRE_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Kuromi Rei**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1144637898726064150/1144654984894480534/Untitled462_20230825232757.png",
             "theme": "card1",
             "inv": "kuromi",
             "code": "`SKRRE_A`"
@@ -263,7 +263,7 @@
     "SKRRE_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Kuromi Rei**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1144637898726064150/1144654985372639323/Untitled462_20230825232759.png",
             "theme": "card1",
             "inv": "kuromi",
             "code": "`SKRRE_S`"
@@ -272,7 +272,7 @@
     "SKRRE_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Kuromi Rei**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1144637898726064150/1144654987461410906/Untitled462_20230825232802.png",
             "theme": "card1",
             "inv": "kuromi",
             "code": "`SKRRE_R`"
