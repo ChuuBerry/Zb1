@@ -179,6 +179,34 @@
             "name": "`Limited` **NewJeans Super Shy Wallpaper**",
             "image": "https://media.discordapp.net/attachments/1135843503507787856/1144591645824790680/Untitled461_20230825191549.png",
             "code": "`NJL1_WP`"
+        } 
+    ],
+    "BNDFR1_WP": [
+        {
+            "name": "`Free` **BOYNEXTDOOR But Sometimes Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1135843503507787856/1146638852321181767/Untitled461_20230831105038.png",
+            "code": "`BNDFR1_WP`"
+        } 
+    ],
+    "IVEV1_WP": [
+        {
+            "name": "`Event` **IVE Lips Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1135843503507787856/1146626691167436830/Untitled1186_20230830210105.png",
+            "code": "`IVEV1_WP`"
+        } 
+    ],
+    "NDEV1_WP": [
+        {
+            "name": "`Event` **NCT Dream Tangerine Love Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1135843503507787856/1146640834557640885/Untitled461_20230831105632.png",
+            "code": "`NDEV1_WP`"
+        } 
+    ],
+    "OMGFR1_WP": [
+        {
+            "name": "`Free` **OH MY GIRL Summer Comes Wallpaper**",
+            "image": "-",
+            "code": "`OMGFR1_WP`"
         }    
     ]
 }
