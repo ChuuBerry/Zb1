@@ -253,10 +253,17 @@
     ],
     "HBZH_PFP": [
         {
-            "name": "`Event-Limited` **Happy Birthday Zhang Hao PFP**",
+            "name": "`Event` **Happy Birthday Zhang Hao PFP**",
             "image": "https://media.discordapp.net/attachments/1131049928324554823/1134498401480876154/Untitled444_20230728225107.png",
             "code": "`HBZH_PFP`"
-        }  
+        }
+    ],
+    "HBGV_PFP": [
+        {
+            "name": "`Event` **Happy Birthday Gyuvin PFP**",
+            "image": "https://media.discordapp.net/attachments/1131049928324554823/1146754484366737508/Untitled444_20230831183219.png",
+            "code": "`HBGV_PFP`"
+        }    
     ],
     "SKR_PFP": [
         {
