@@ -1042,6 +1042,48 @@
             "code": "`BSWH_PFP`"
         }
     ],
+    "SCHJ_PFP": [
+        {
+            "name": "`Free` **Summer Comes Hyojung PFP**",
+            "image": "https://media.discordapp.net/attachments/1131049928324554823/1146842420294733824/Untitled1187_20230831111747.png",
+            "code": "`SCHJ_PFP`"
+        }
+    ],
+    "SCMM_PFP": [
+        {
+            "name": "`Free` **Summer Comes Mimi PFP**",
+            "image": "https://media.discordapp.net/attachments/1131049928324554823/1146842420533788752/Untitled1187_20230831111749.png",
+            "code": "`SCMM_PFP`"
+        }
+    ],
+    "SCYA_PFP": [
+        {
+            "name": "`Free` **Summer Comes Yooa PFP**",
+            "image": "https://media.discordapp.net/attachments/1131049928324554823/1146842420898705649/Untitled1187_20230831111752.png",
+            "code": "`SCYA_PFP`"
+        }
+    ],
+    "SCSH_PFP": [
+        {
+            "name": "`Free` **Summer Comes Seunghee PFP**",
+            "image": "https://media.discordapp.net/attachments/1131049928324554823/1146842421200683088/Untitled1187_20230831111753.png",
+            "code": "`SCSH_PFP`"
+        }  
+    ],
+    "SCYB_PFP": [
+        {
+            "name": "`Free` **Summer Comes Yubin PFP**",
+            "image": "https://media.discordapp.net/attachments/1131049928324554823/1146842421657874522/Untitled1187_20230831111756.png",
+            "code": "`SCYB_PFP`"
+        }  
+    ],
+    "SCAR_PFP": [
+        {
+            "name": "`Free` **Summer Comes Arin PFP**",
+            "image": "https://media.discordapp.net/attachments/1131049928324554823/1146842421938901002/Untitled1187_20230831111758.png",
+            "code": "`SCAR_PFP`"
+        }    
+    ],
     "LYJ_PFP": [
         {
             "name": "`Limited` **Lips Yujin PFP**",
