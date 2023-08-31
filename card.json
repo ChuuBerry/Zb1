@@ -11,7 +11,7 @@
     "LYJ_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Lips Yujin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1146626352250884246/IVELips_20230830205145.png",
             "theme": "card1",
             "inv": "lips",
             "code": "`LYJ_C`"
@@ -20,7 +20,7 @@
     "LYJ_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Lips Yujin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1146626352645144616/IVELips_20230830205155.png",
             "theme": "card1",
             "inv": "lips",
             "code": "`LYJ_B`"
@@ -29,7 +29,7 @@
     "LYJ_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Lips Yujin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1146626352989094010/IVELips_20230830205202.png",
             "theme": "card1",
             "inv": "lips",
             "code": "`LYJ_A`"
@@ -38,7 +38,7 @@
     "LYJ_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Lips Yujin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1146626353265905785/IVELips_20230830205206.png",
             "theme": "card1",
             "inv": "lips",
             "code": "`LYJ_S`"
@@ -47,7 +47,7 @@
     "LYJ_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Lips Yujin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1146626353609834516/IVELips_20230830205212.png",
             "theme": "card1",
             "inv": "lips",
             "code": "`LYJ_R`"
@@ -56,7 +56,7 @@
     "LRE_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Lips Rei**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1146626353895063672/IVELips_20230830205310.png",
             "theme": "card1",
             "inv": "lips",
             "code": "`LRE_C`"
@@ -65,7 +65,7 @@
     "LRE_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Lips Rei**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1146626354192846948/IVELips_20230830205318.png",
             "theme": "card1",
             "inv": "lips",
             "code": "`LRE_B`"
@@ -74,7 +74,7 @@
     "LRE_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Lips Rei**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1146626354507415602/IVELips_20230830205326.png",
             "theme": "card1",
             "inv": "lips",
             "code": "`LRE_A`"
@@ -83,7 +83,7 @@
     "LRE_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Lips Rei**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1146626354842976426/IVELips_20230830205332.png",
             "theme": "card1",
             "inv": "lips",
             "code": "`LRE_S`"
@@ -92,7 +92,7 @@
     "LRE_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Lips Rei**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1146626355115593890/IVELips_20230830205340.png",
             "theme": "card1",
             "inv": "lips",
             "code": "`LRE_R`"
@@ -101,7 +101,7 @@
     "LGE_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Lips Gaeul**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1146626402301513839/IVELips_20230830205408.png",
             "theme": "card1",
             "inv": "lips",
             "code": "`LGE_C`"
@@ -110,7 +110,7 @@
     "LGE_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Lips Gaeul**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1146626402616098886/IVELips_20230830205413.png",
             "theme": "card1",
             "inv": "lips",
             "code": "`LGE_B`"
@@ -119,7 +119,7 @@
     "LGE_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Lips Gaeul**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1146626402871947345/IVELips_20230830205422.png",
             "theme": "card1",
             "inv": "lips",
             "code": "`LGE_A`"
@@ -128,7 +128,7 @@
     "LGE_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Lips Gaeul**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1146626403140374671/IVELips_20230830205429.png",
             "theme": "card1",
             "inv": "lips",
             "code": "`LGE_S`"
@@ -137,7 +137,7 @@
     "LGE_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Lips Gaeul**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1146626403429793882/IVELips_20230830205435.png",
             "theme": "card1",
             "inv": "lips",
             "code": "`LGE_R`"
@@ -146,7 +146,7 @@
     "LWY_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Lips Wonyoung**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1146626403694030848/IVELips_20230830205450.png",
             "theme": "card1",
             "inv": "lips",
             "code": "`LWY_C`"
@@ -155,7 +155,7 @@
     "LWY_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Lips Wonyoung**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1146626403937288252/IVELips_20230830205500.png",
             "theme": "card1",
             "inv": "lips",
             "code": "`LWY_B`"
@@ -164,7 +164,7 @@
     "LWY_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Lips Wonyoung**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1146626404193157270/IVELips_20230830205506.png",
             "theme": "card1",
             "inv": "lips",
             "code": "`LWY_A`"
@@ -173,7 +173,7 @@
     "LWY_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Lips Wonyoung**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1146626404453199913/IVELips_20230830205516.png",
             "theme": "card1",
             "inv": "lips",
             "code": "`LWY_S`"
@@ -182,7 +182,7 @@
     "LWY_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Lips Wonyoung**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1146626404688072726/IVELips_20230830205525.png",
             "theme": "card1",
             "inv": "lips",
             "code": "`LWY_R`"
@@ -191,7 +191,7 @@
     "LLI_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Lips Liz**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1146626447671316561/IVELips_20230830205613.png",
             "theme": "card1",
             "inv": "lips",
             "code": "`LLI_C`"
@@ -200,7 +200,7 @@
     "LLI_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Lips Liz**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1146626447935541268/IVELips_20230830205618.png",
             "theme": "card1",
             "inv": "lips",
             "code": "`LLI_B`"
@@ -209,7 +209,7 @@
     "LLI_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Lips Liz**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1146626448178827345/IVELips_20230830205623.png",
             "theme": "card1",
             "inv": "lips",
             "code": "`LLI_A`"
@@ -218,7 +218,7 @@
     "LLI_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Lips Liz**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1146626448480808981/IVELips_20230830205628.png",
             "theme": "card1",
             "inv": "lips",
             "code": "`LLI_S`"
@@ -227,7 +227,7 @@
     "LLI_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Lips Liz**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1146626448732459068/IVELips_20230830205634.png",
             "theme": "card1",
             "inv": "lips",
             "code": "`LLI_R`"
@@ -236,7 +236,7 @@
     "LLS_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Lips Leeseo**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1146626449063825548/IVELips_20230830205657.png",
             "theme": "card1",
             "inv": "lips",
             "code": "`LLS_C`"
@@ -245,7 +245,7 @@
     "LLS_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Lips Leeseo**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1146626449286115398/IVELips_20230830205700.png",
             "theme": "card1",
             "inv": "lips",
             "code": "`LLS_B`"
@@ -254,7 +254,7 @@
     "LLS_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Lips Leeseo**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1146626449663594568/IVELips_20230830205707.png",
             "theme": "card1",
             "inv": "lips",
             "code": "`LLS_A`"
@@ -263,7 +263,7 @@
     "LLS_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Lips Leeseo**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1146626449957204088/IVELips_20230830205717.png",
             "theme": "card1",
             "inv": "lips",
             "code": "`LLS_S`"
@@ -272,7 +272,7 @@
     "LLS_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Lips Leeseo**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226612799606814/1146626450229825546/IVELips_20230830205723.png",
             "theme": "card1",
             "inv": "lips",
             "code": "`LLS_R`"
