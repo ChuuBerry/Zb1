@@ -11,7 +11,7 @@
     "SCHJ_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Summer Comes Hyojung**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1146841957830762606/1146842078484123811/NormalTheme6_20230831110959.png",
             "theme": "card1",
             "inv": "summercomes",
             "code": "`SCHJ_C`"
@@ -20,7 +20,7 @@
     "SCHJ_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Summer Comes Hyojung**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1146841957830762606/1146842079012589699/NormalTheme6_20230831111002.png",
             "theme": "card1",
             "inv": "summercomes",
             "code": "`SCHJ_B`"
@@ -29,7 +29,7 @@
     "SCHJ_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Summer Comes Hyojung**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1146841957830762606/1146842079503339550/NormalTheme6_20230831111005.png",
             "theme": "card1",
             "inv": "summercomes",
             "code": "`SCHJ_A`"
@@ -38,7 +38,7 @@
     "SCHJ_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Summer Comes Hyojung**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1146841957830762606/1146842079910174810/NormalTheme6_20230831111008.png",
             "theme": "card1",
             "inv": "summercomes",
             "code": "`SCHJ_S`"
@@ -47,7 +47,7 @@
     "SCHJ_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Summer Comes Hyojung**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1146841957830762606/1146842080321228960/NormalTheme6_20230831111011.png",
             "theme": "card1",
             "inv": "summercomes",
             "code": "`SCHJ_R`"
@@ -56,7 +56,7 @@
     "SCMM_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Summer Comes Mimi**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1146841957830762606/1146842080828727338/NormalTheme6_20230831111038.png",
             "theme": "card1",
             "inv": "summercomes",
             "code": "`SCMM_C`"
@@ -65,7 +65,7 @@
     "SCMM_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Summer Comes Mimi**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1146841957830762606/1146842081332039860/NormalTheme6_20230831111042.png",
             "theme": "card1",
             "inv": "summercomes",
             "code": "`SCMM_B`"
@@ -74,7 +74,7 @@
     "SCMM_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Summer Comes Mimi**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1146841957830762606/1146842081734709409/NormalTheme6_20230831111045.png",
             "theme": "card1",
             "inv": "summercomes",
             "code": "`SCMM_A`"
@@ -83,7 +83,7 @@
     "SCMM_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Summer Comes Mimi**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1146841957830762606/1146842082284146780/NormalTheme6_20230831111049.png",
             "theme": "card1",
             "inv": "summercomes",
             "code": "`SCMM_S`"
@@ -92,7 +92,7 @@
     "SCMM_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Summer Comes Mimi**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1146841957830762606/1146842082640679045/NormalTheme6_20230831111051.png",
             "theme": "card1",
             "inv": "summercomes",
             "code": "`SCMM_R`"
@@ -101,7 +101,7 @@
     "SCYA_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Summer Comes Yooa**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1146841957830762606/1146842131802108014/NormalTheme6_20230831111119.png",
             "theme": "card1",
             "inv": "summercomes",
             "code": "`SCYA_C`"
@@ -110,7 +110,7 @@
     "SCYA_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Summer Comes Yooa**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1146841957830762606/1146842132066353342/NormalTheme6_20230831111123.png",
             "theme": "card1",
             "inv": "summercomes",
             "code": "`SCYA_B`"
@@ -119,7 +119,7 @@
     "SCYA_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Summer Comes Yooa**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1146841957830762606/1146842132372529252/NormalTheme6_20230831111125.png",
             "theme": "card1",
             "inv": "summercomes",
             "code": "`SCYA_A`"
@@ -128,7 +128,7 @@
     "SCYA_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Summer Comes Yooa**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1146841957830762606/1146842132670328882/NormalTheme6_20230831111127.png",
             "theme": "card1",
             "inv": "summercomes",
             "code": "`SCYA_S`"
@@ -137,7 +137,7 @@
     "SCYA_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Summer Comes Yooa**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1146841957830762606/1146842133001674792/NormalTheme6_20230831111131.png",
             "theme": "card1",
             "inv": "summercomes",
             "code": "`SCYA_R`"
@@ -146,7 +146,7 @@
     "SCSH_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Summer Comes Seunghee**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1146841957830762606/1146842133291085924/NormalTheme6_20230831111208.png",
             "theme": "card1",
             "inv": "summercomes",
             "code": "`SCSH_C`"
@@ -155,7 +155,7 @@
     "SCSH_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Summer Comes Seunghee**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1146841957830762606/1146842133525971054/NormalTheme6_20230831111211.png",
             "theme": "card1",
             "inv": "summercomes",
             "code": "`SCSH_B`"
@@ -164,7 +164,7 @@
     "SCSH_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Summer Comes Seunghee**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1146841957830762606/1146842133765042186/NormalTheme6_20230831111214.png",
             "theme": "card1",
             "inv": "summercomes",
             "code": "`SCSH_A`"
@@ -173,7 +173,7 @@
     "SCSH_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Summer Comes Seunghee**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1146841957830762606/1146842133974761492/NormalTheme6_20230831111216.png",
             "theme": "card1",
             "inv": "summercomes",
             "code": "`SCSH_S`"
@@ -182,7 +182,7 @@
     "SCSH_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Summer Comes Seunghee**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1146841957830762606/1146842134230605925/NormalTheme6_20230831111218.png",
             "theme": "card1",
             "inv": "summercomes",
             "code": "`SCSH_R`"
@@ -191,7 +191,7 @@
     "SCYB_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Summer Comes Yubin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1146841957830762606/1146842175506751670/NormalTheme6_20230831111241.png",
             "theme": "card1",
             "inv": "summercomes",
             "code": "`SCYB_C`"
@@ -200,7 +200,7 @@
     "SCYB_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Summer Comes Yubin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1146841957830762606/1146842175859085312/NormalTheme6_20230831111244.png",
             "theme": "card1",
             "inv": "summercomes",
             "code": "`SCYB_B`"
@@ -209,7 +209,7 @@
     "SCYB_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Summer Comes Yubin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1146841957830762606/1146842176211394651/NormalTheme6_20230831111246.png",
             "theme": "card1",
             "inv": "summercomes",
             "code": "`SCYB_A`"
@@ -218,7 +218,7 @@
     "SCYB_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Summer Comes Yubin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1146841957830762606/1146842176437899377/NormalTheme6_20230831111248.png",
             "theme": "card1",
             "inv": "summercomes",
             "code": "`SCYB_S`"
@@ -227,7 +227,7 @@
     "SCYB_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Summer Comes Yubin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1146841957830762606/1146842176718913568/NormalTheme6_20230831111250.png",
             "theme": "card1",
             "inv": "summercomes",
             "code": "`SCYB_R`"
@@ -236,7 +236,7 @@
     "SCAR_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Summer Comes Arin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1146841957830762606/1146842176987353098/NormalTheme6_20230831111324.png",
             "theme": "card1",
             "inv": "summercomes",
             "code": "`SCAR_C`"
@@ -245,7 +245,7 @@
     "SCAR_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Summer Comes Arin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1146841957830762606/1146842177285132339/NormalTheme6_20230831111329.png",
             "theme": "card1",
             "inv": "summercomes",
             "code": "`SCAR_B`"
@@ -254,7 +254,7 @@
     "SCAR_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Summer Comes Arin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1146841957830762606/1146842177641652365/NormalTheme6_20230831111332.png",
             "theme": "card1",
             "inv": "summercomes",
             "code": "`SCAR_A`"
@@ -263,7 +263,7 @@
     "SCAR_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Summer Comes Arin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1146841957830762606/1146842177931055126/NormalTheme6_20230831111334.png",
             "theme": "card1",
             "inv": "summercomes",
             "code": "`SCAR_S`"
@@ -272,7 +272,7 @@
     "SCAR_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Summer Comes Arin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1146841957830762606/1146842178224660540/NormalTheme6_20230831111336.png",
             "theme": "card1",
             "inv": "summercomes",
             "code": "`SCAR_R`"
