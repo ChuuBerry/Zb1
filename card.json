@@ -11,7 +11,7 @@
     "TLMA_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Tangerine Love Mark**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1146786250674683914/TANGERINELOVE_20230831203404.png",
             "theme": "card1",
             "inv": "tangerinelove",
             "code": "`TLMA_C`"
@@ -20,7 +20,7 @@
     "TLMA_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Tangerine Love Mark**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1146786250972483685/TANGERINELOVE_20230831203411.png",
             "theme": "card1",
             "inv": "tangerinelove",
             "code": "`TLMA_B`"
@@ -29,7 +29,7 @@
     "TLMA_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Tangerine Love Mark**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1146786251274461277/TANGERINELOVE_20230831203419.png",
             "theme": "card1",
             "inv": "tangerinelove",
             "code": "`TLMA_A`"
@@ -38,7 +38,7 @@
     "TLMA_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Tangerine Love Mark**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1146786251580653719/TANGERINELOVE_20230831203422.png",
             "theme": "card1",
             "inv": "tangerinelove",
             "code": "`TLMA_S`"
@@ -47,7 +47,7 @@
     "TLMA_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Tangerine Love Mark**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1146786251987505223/TANGERINELOVE_20230831203425.png",
             "theme": "card1",
             "inv": "tangerinelove",
             "code": "`TLMA_R`"
@@ -56,7 +56,7 @@
     "TLRJ_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Tangerine Love Renjun**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1146786252297871541/TANGERINELOVE_20230831203439.png",
             "theme": "card1",
             "inv": "tangerinelove",
             "code": "`TLRJ_C`"
@@ -65,7 +65,7 @@
     "TLRJ_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Tangerine Love Renjun**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1146786252566315088/TANGERINELOVE_20230831203443.png",
             "theme": "card1",
             "inv": "tangerinelove",
             "code": "`TLRJ_B`"
@@ -74,7 +74,7 @@
     "TLRJ_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Tangerine Love Renjun**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1146786252792799342/TANGERINELOVE_20230831203452.png",
             "theme": "card1",
             "inv": "tangerinelove",
             "code": "`TLRJ_A`"
@@ -83,7 +83,7 @@
     "TLRJ_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Tangerine Love Renjun**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1146786253178683392/TANGERINELOVE_20230831203456.png",
             "theme": "card1",
             "inv": "tangerinelove",
             "code": "`TLRJ_S`"
@@ -92,7 +92,7 @@
     "TLRJ_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Tangerine Love Renjun**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1146786253719752704/TANGERINELOVE_20230831203459.png",
             "theme": "card1",
             "inv": "tangerinelove",
             "code": "`TLRJ_R`"
@@ -101,7 +101,7 @@
     "TLJN_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Tangerine Love Jeno**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1146786295012675655/TANGERINELOVE_20230831203513.png",
             "theme": "card1",
             "inv": "tangerinelove",
             "code": "`TLJN_C`"
@@ -110,7 +110,7 @@
     "TLJN_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Tangerine Love Jeno**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1146786296254169199/TANGERINELOVE_20230831203517.png",
             "theme": "card1",
             "inv": "tangerinelove",
             "code": "`TLJN_B`"
@@ -119,7 +119,7 @@
     "TLJN_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Tangerine Love Jeno**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1146786303204139111/TANGERINELOVE_20230831203522.png",
             "theme": "card1",
             "inv": "tangerinelove",
             "code": "`TLJN_A`"
@@ -128,7 +128,7 @@
     "TLJN_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Tangerine Love Jeno**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1146786304332419184/TANGERINELOVE_20230831203529.png",
             "theme": "card1",
             "inv": "tangerinelove",
             "code": "`TLJN_S`"
@@ -137,7 +137,7 @@
     "TLJN_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Tangerine Love Jeno**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1146786304642777189/TANGERINELOVE_20230831203532.png",
             "theme": "card1",
             "inv": "tangerinelove",
             "code": "`TLJN_R`"
@@ -146,7 +146,7 @@
     "TLHC_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Tangerine Love Haechan**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1146786304953163776/TANGERINELOVE_20230831203545.png",
             "theme": "card1",
             "inv": "tangerinelove",
             "code": "`TLHC_C`"
@@ -155,7 +155,7 @@
     "TLHC_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Tangerine Love Haechan**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1146786305460666419/TANGERINELOVE_20230831203548.png",
             "theme": "card1",
             "inv": "tangerinelove",
             "code": "`TLHC_B`"
@@ -164,7 +164,7 @@
     "TLHC_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Tangerine Love Haechan**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1146786306098208868/TANGERINELOVE_20230831203554.png",
             "theme": "card1",
             "inv": "tangerinelove",
             "code": "`TLHC_A`"
@@ -173,7 +173,7 @@
     "TLHC_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Tangerine Love Haechan**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1146786306509262848/TANGERINELOVE_20230831203557.png",
             "theme": "card1",
             "inv": "tangerinelove",
             "code": "`TLHC_S`"
@@ -182,7 +182,7 @@
     "TLHC_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Tangerine Love Haechan**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1146786306844786760/TANGERINELOVE_20230831203600.png",
             "theme": "card1",
             "inv": "tangerinelove",
             "code": "`TLHC_R`"
@@ -191,7 +191,7 @@
     "TLJM_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Tangerine Love Jaemin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1146786345017163907/TANGERINELOVE_20230831203628.png",
             "theme": "card1",
             "inv": "tangerinelove",
             "code": "`TLJM_C`"
@@ -200,7 +200,7 @@
     "TLJM_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Tangerine Love Jaemin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1146786345289781389/TANGERINELOVE_20230831203631.png",
             "theme": "card1",
             "inv": "tangerinelove",
             "code": "`TLJM_B`"
@@ -209,7 +209,7 @@
     "TLJM_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Tangerine Love Jaemin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1146786345705029653/TANGERINELOVE_20230831203636.png",
             "theme": "card1",
             "inv": "tangerinelove",
             "code": "`TLJM_A`"
@@ -218,7 +218,7 @@
     "TLJM_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Tangerine Love Jaemin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1146786346057338990/TANGERINELOVE_20230831203638.png",
             "theme": "card1",
             "inv": "tangerinelove",
             "code": "`TLJM_S`"
@@ -227,7 +227,7 @@
     "TLJM_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Tangerine Love Jaemin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1146786346342563930/TANGERINELOVE_20230831203642.png",
             "theme": "card1",
             "inv": "tangerinelove",
             "code": "`TLJM_R`"
@@ -236,7 +236,7 @@
     "TLCL_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Tangerine Love Chenle**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1146786346594209792/TANGERINELOVE_20230831203657.png",
             "theme": "card1",
             "inv": "tangerinelove",
             "code": "`TLCL_C`"
@@ -245,7 +245,7 @@
     "TLCL_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Tangerine Love Chenle**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1146786346845863997/TANGERINELOVE_20230831203700.png",
             "theme": "card1",
             "inv": "tangerinelove",
             "code": "`TLCL_B`"
@@ -254,7 +254,7 @@
     "TLCL_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Tangerine Love Chenle**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1146786347076567040/TANGERINELOVE_20230831203704.png",
             "theme": "card1",
             "inv": "tangerinelove",
             "code": "`TLCL_A`"
@@ -263,7 +263,7 @@
     "TLCL_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Tangerine Love Chenle**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1146786347332407317/TANGERINELOVE_20230831203707.png",
             "theme": "card1",
             "inv": "tangerinelove",
             "code": "`TLCL_S`"
@@ -272,7 +272,7 @@
     "TLCL_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Tangerine Love Chenle**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1146786347869290607/TANGERINELOVE_20230831203710.png",
             "theme": "card1",
             "inv": "tangerinelove",
             "code": "`TLCL_R`"
@@ -281,7 +281,7 @@
     "TLJS_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Tangerine Love Jisung**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1146786371386757341/TANGERINELOVE_20230831203722.png",
             "theme": "card1",
             "inv": "tangerinelove",
             "code": "`TLJS_C`"
@@ -290,7 +290,7 @@
     "TLJS_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Tangerine Love Jisung**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1146786371755839579/TANGERINELOVE_20230831203725.png",
             "theme": "card1",
             "inv": "tangerinelove",
             "code": "`TLJS_B`"
@@ -299,7 +299,7 @@
     "TLJS_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Tangerine Love Jisung**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1146786372070424676/TANGERINELOVE_20230831203729.png",
             "theme": "card1",
             "inv": "tangerinelove",
             "code": "`TLJS_A`"
@@ -308,7 +308,7 @@
     "TLJS_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Tangerine Love Jisung**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1146786372347252937/TANGERINELOVE_20230831203732.png",
             "theme": "card1",
             "inv": "tangerinelove",
             "code": "`TLJS_S`"
@@ -317,7 +317,7 @@
     "TLJS_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Tangerine Love Jisung**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1136226696207552592/1146786372619866133/TANGERINELOVE_20230831203735.png",
             "theme": "card1",
             "inv": "tangerinelove",
             "code": "`TLJS_R`"
