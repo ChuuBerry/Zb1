@@ -8,6 +8,96 @@
             "code": "`IBHB_C`"
         }
     ],
+    "HBGV_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Happy Birthday Gyuvin**",
+            "image": "https://media.discordapp.net/attachments/1130444105919516744/1146753688610807828/ZB1_20230831182625.png",
+            "theme": "card1",
+            "inv": "birthday",
+            "code": "`HBGV_C`"
+        }          
+    ],
+    "HBGV_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Happy Birthday Gyuvin**",
+            "image": "https://media.discordapp.net/attachments/1130444105919516744/1146753688891830322/ZB1_20230831182627.png",
+            "theme": "card1",
+            "inv": "birthday",
+            "code": "`HBGV_B`"
+        }               
+    ],
+    "HBGV_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Happy Birthday Gyuvin**",
+            "image": "https://media.discordapp.net/attachments/1130444105919516744/1146753689135091723/ZB1_20230831182630.png",
+            "theme": "card1",
+            "inv": "birthday",
+            "code": "`HBGV_A`"
+        }     
+    ],
+    "HBGV_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Happy Birthday Gyuvin**",
+            "image": "https://media.discordapp.net/attachments/1130444105919516744/1146753689416114246/ZB1_20230831182633.png",
+            "theme": "card1",
+            "inv": "birthday",
+            "code": "`HBGV_S`"
+        }     
+    ],
+    "HBGV_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Happy Birthday Gyuvin**",
+            "image": "https://media.discordapp.net/attachments/1130444105919516744/1146753689655193681/ZB1_20230831182636.png",
+            "theme": "card1",
+            "inv": "birthday",
+            "code": "`HBGV_R`"
+        } 
+     ],
+    "BDGV_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **August 30th Gyuvin**",
+            "image": "https://media.discordapp.net/attachments/1130444105919516744/1146753689915232298/ZB1_20230831182825.png",
+            "theme": "card1",
+            "inv": "birthdate",
+            "code": "`BDGV_C`"
+        }          
+    ],
+    "BDGV_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **August 30th Gyuvin**",
+            "image": "https://media.discordapp.net/attachments/1130444105919516744/1146753690225614938/ZB1_20230831182829.png",
+            "theme": "card1",
+            "inv": "birthdate",
+            "code": "`BDGV_B`"
+        }               
+    ],
+    "BDGV_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **August 30th Gyuvin**",
+            "image": "https://media.discordapp.net/attachments/1130444105919516744/1146753690494054470/ZB1_20230831182832.png",
+            "theme": "card1",
+            "inv": "birthdate",
+            "code": "`BDGV_A`"
+        }     
+    ],
+    "BDGV_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **August 30th Gyuvin**",
+            "image": "https://media.discordapp.net/attachments/1130444105919516744/1146753690804424734/ZB1_20230831182834.png",
+            "theme": "card1",
+            "inv": "birthdate",
+            "code": "`BDGV_S`"
+        }     
+    ],
+    "BDGV_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **August 30th Gyuvin**",
+            "image": "https://media.discordapp.net/attachments/1130444105919516744/1146753691068670012/ZB1_20230831182837.png",
+            "theme": "card1",
+            "inv": "birthdate",
+            "code": "`BDGV_R`"
+        }    
+    ],
     "LYJ_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Lips Yujin**",
