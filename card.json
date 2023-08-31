@@ -8,6 +8,321 @@
             "code": "`IBHB_C`"
         }
      ],
+    "TLMA_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Tangerine Love Mark**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "tangerinelove",
+            "code": "`TLMA_C`"
+        }          
+    ],
+    "TLMA_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Tangerine Love Mark**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "tangerinelove",
+            "code": "`TLMA_B`"
+        }               
+    ],
+    "TLMA_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Tangerine Love Mark**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "tangerinelove",
+            "code": "`TLMA_A`"
+        }     
+    ],
+    "TLMA_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Tangerine Love Mark**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "tangerinelove",
+            "code": "`TLMA_S`"
+        }     
+    ],
+    "TLMA_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Tangerine Love Mark**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "tangerinelove",
+            "code": "`TLMA_R`"
+        }
+     ],
+    "TLRJ_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Tangerine Love Renjun**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "tangerinelove",
+            "code": "`TLRJ_C`"
+        }          
+    ],
+    "TLRJ_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Tangerine Love Renjun**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "tangerinelove",
+            "code": "`TLRJ_B`"
+        }               
+    ],
+    "TLRJ_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Tangerine Love Renjun**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "tangerinelove",
+            "code": "`TLRJ_A`"
+        }     
+    ],
+    "TLRJ_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Tangerine Love Renjun**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "tangerinelove",
+            "code": "`TLRJ_S`"
+        }     
+    ],
+    "TLRJ_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Tangerine Love Renjun**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "tangerinelove",
+            "code": "`TLRJ_R`"
+        } 
+     ],
+    "TLJN_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Tangerine Love Jeno**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "tangerinelove",
+            "code": "`TLJN_C`"
+        }          
+    ],
+    "TLJN_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Tangerine Love Jeno**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "tangerinelove",
+            "code": "`TLJN_B`"
+        }               
+    ],
+    "TLJN_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Tangerine Love Jeno**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "tangerinelove",
+            "code": "`TLJN_A`"
+        }     
+    ],
+    "TLJN_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Tangerine Love Jeno**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "tangerinelove",
+            "code": "`TLJN_S`"
+        }     
+    ],
+    "TLJN_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Tangerine Love Jeno**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "tangerinelove",
+            "code": "`TLJN_R`"
+        } 
+     ],
+    "TLHC_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Tangerine Love Haechan**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "tangerinelove",
+            "code": "`TLHC_C`"
+        }          
+    ],
+    "TLHC_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Tangerine Love Haechan**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "tangerinelove",
+            "code": "`TLHC_B`"
+        }               
+    ],
+    "TLHC_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Tangerine Love Haechan**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "tangerinelove",
+            "code": "`TLHC_A`"
+        }     
+    ],
+    "TLHC_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Tangerine Love Haechan**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "tangerinelove",
+            "code": "`TLHC_S`"
+        }     
+    ],
+    "TLHC_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Tangerine Love Haechan**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "tangerinelove",
+            "code": "`TLHC_R`"
+        }  
+     ],
+    "TLJM_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Tangerine Love Jaemin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "tangerinelove",
+            "code": "`TLJM_C`"
+        }          
+    ],
+    "TLJM_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Tangerine Love Jaemin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "tangerinelove",
+            "code": "`TLJM_B`"
+        }               
+    ],
+    "TLJM_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Tangerine Love Jaemin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "tangerinelove",
+            "code": "`TLJM_A`"
+        }     
+    ],
+    "TLJM_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Tangerine Love Jaemin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "tangerinelove",
+            "code": "`TLJM_S`"
+        }     
+    ],
+    "TLJM_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Tangerine Love Jaemin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "tangerinelove",
+            "code": "`TLJM_R`"
+        }    
+     ],
+    "TLCL_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Tangerine Love Chenle**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "tangerinelove",
+            "code": "`TLCL_C`"
+        }          
+    ],
+    "TLCL_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Tangerine Love Chenle**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "tangerinelove",
+            "code": "`TLCL_B`"
+        }               
+    ],
+    "TLCL_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Tangerine Love Chenle**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "tangerinelove",
+            "code": "`TLCL_A`"
+        }     
+    ],
+    "TLCL_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Tangerine Love Chenle**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "tangerinelove",
+            "code": "`TLCL_S`"
+        }     
+    ],
+    "TLCL_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Tangerine Love Chenle**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "tangerinelove",
+            "code": "`TLCL_R`"
+        }
+      ],
+    "TLJS_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Tangerine Love Jisung**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "tangerinelove",
+            "code": "`TLJS_C`"
+        }          
+    ],
+    "TLJS_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Tangerine Love Jisung**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "tangerinelove",
+            "code": "`TLJS_B`"
+        }               
+    ],
+    "TLJS_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Tangerine Love Jisung**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "tangerinelove",
+            "code": "`TLJS_A`"
+        }     
+    ],
+    "TLJS_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Tangerine Love Jisung**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "tangerinelove",
+            "code": "`TLJS_S`"
+        }     
+    ],
+    "TLJS_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Tangerine Love Jisung**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "tangerinelove",
+            "code": "`TLJS_R`"
+        }   
+     ],
     "BSSH_C": [
         {
             "name": "<:c_grade:1126649406230384671> **But Sometimes Sungho**",
