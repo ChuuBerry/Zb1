@@ -7,6 +7,276 @@
             "inv": "inbloom",
             "code": "`IBHB_C`"
         }
+    ],
+    "LYJ_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Lips Yujin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "lips",
+            "code": "`LYJ_C`"
+        }          
+    ],
+    "LYJ_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Lips Yujin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "lips",
+            "code": "`LYJ_B`"
+        }               
+    ],
+    "LYJ_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Lips Yujin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "lips",
+            "code": "`LYJ_A`"
+        }     
+    ],
+    "LYJ_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Lips Yujin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "lips",
+            "code": "`LYJ_S`"
+        }     
+    ],
+    "LYJ_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Lips Yujin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "lips",
+            "code": "`LYJ_R`"
+        }
+     ],
+    "LRE_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Lips Rei**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "lips",
+            "code": "`LRE_C`"
+        }          
+    ],
+    "LRE_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Lips Rei**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "lips",
+            "code": "`LRE_B`"
+        }               
+    ],
+    "LRE_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Lips Rei**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "lips",
+            "code": "`LRE_A`"
+        }     
+    ],
+    "LRE_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Lips Rei**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "lips",
+            "code": "`LRE_S`"
+        }     
+    ],
+    "LRE_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Lips Rei**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "lips",
+            "code": "`LRE_R`"
+        }  
+     ],
+    "LGE_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Lips Gaeul**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "lips",
+            "code": "`LGE_C`"
+        }          
+    ],
+    "LGE_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Lips Gaeul**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "lips",
+            "code": "`LGE_B`"
+        }               
+    ],
+    "LGE_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Lips Gaeul**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "lips",
+            "code": "`LGE_A`"
+        }     
+    ],
+    "LGE_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Lips Gaeul**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "lips",
+            "code": "`LGE_S`"
+        }     
+    ],
+    "LGE_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Lips Gaeul**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "lips",
+            "code": "`LGE_R`"
+        } 
+     ],
+    "LWY_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Lips Wonyoung**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "lips",
+            "code": "`LWY_C`"
+        }          
+    ],
+    "LWY_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Lips Wonyoung**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "lips",
+            "code": "`LWY_B`"
+        }               
+    ],
+    "LWY_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Lips Wonyoung**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "lips",
+            "code": "`LWY_A`"
+        }     
+    ],
+    "LWY_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Lips Wonyoung**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "lips",
+            "code": "`LWY_S`"
+        }     
+    ],
+    "LWY_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Lips Wonyoung**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "lips",
+            "code": "`LWY_R`"
+        }   
+    ],
+    "LLI_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Lips Liz**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "lips",
+            "code": "`LLI_C`"
+        }          
+    ],
+    "LLI_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Lips Liz**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "lips",
+            "code": "`LLI_B`"
+        }               
+    ],
+    "LLI_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Lips Liz**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "lips",
+            "code": "`LLI_A`"
+        }     
+    ],
+    "LLI_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Lips Liz**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "lips",
+            "code": "`LLI_S`"
+        }     
+    ],
+    "LLI_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Lips Liz**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "lips",
+            "code": "`LLI_R`"
+        } 
+    ],
+    "LLS_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Lips Leeseo**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "lips",
+            "code": "`LLS_C`"
+        }          
+    ],
+    "LLS_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Lips Leeseo**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "lips",
+            "code": "`LLS_B`"
+        }               
+    ],
+    "LLS_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Lips Leeseo**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "lips",
+            "code": "`LLS_A`"
+        }     
+    ],
+    "LLS_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Lips Leeseo**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "lips",
+            "code": "`LLS_S`"
+        }     
+    ],
+    "LLS_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Lips Leeseo**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "lips",
+            "code": "`LLS_R`"
+        }    
      ],
     "SHKHR_C": [
         {
