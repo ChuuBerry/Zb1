@@ -8,6 +8,276 @@
             "code": "`IBHB_C`"
         }
      ],
+    "SCHJ_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Summer Comes Hyojung**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "summercomes",
+            "code": "`SCHJ_C`"
+        }          
+    ],
+    "SCHJ_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Summer Comes Hyojung**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "summercomes",
+            "code": "`SCHJ_B`"
+        }               
+    ],
+    "SCHJ_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Summer Comes Hyojung**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "summercomes",
+            "code": "`SCHJ_A`"
+        }     
+    ],
+    "SCHJ_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Summer Comes Hyojung**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "summercomes",
+            "code": "`SCHJ_S`"
+        }     
+    ],
+    "SCHJ_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Summer Comes Hyojung**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "summercomes",
+            "code": "`SCHJ_R`"
+        } 
+     ],
+    "SCMM_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Summer Comes Mimi**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "summercomes",
+            "code": "`SCMM_C`"
+        }          
+    ],
+    "SCMM_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Summer Comes Mimi**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "summercomes",
+            "code": "`SCMM_B`"
+        }               
+    ],
+    "SCMM_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Summer Comes Mimi**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "summercomes",
+            "code": "`SCMM_A`"
+        }     
+    ],
+    "SCMM_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Summer Comes Mimi**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "summercomes",
+            "code": "`SCMM_S`"
+        }     
+    ],
+    "SCMM_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Summer Comes Mimi**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "summercomes",
+            "code": "`SCMM_R`"
+        } 
+     ],
+    "SCYA_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Summer Comes Yooa**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "summercomes",
+            "code": "`SCYA_C`"
+        }          
+    ],
+    "SCYA_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Summer Comes Yooa**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "summercomes",
+            "code": "`SCYA_B`"
+        }               
+    ],
+    "SCYA_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Summer Comes Yooa**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "summercomes",
+            "code": "`SCYA_A`"
+        }     
+    ],
+    "SCYA_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Summer Comes Yooa**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "summercomes",
+            "code": "`SCYA_S`"
+        }     
+    ],
+    "SCYA_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Summer Comes Yooa**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "summercomes",
+            "code": "`SCYA_R`"
+        } 
+      ],
+    "SCSH_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Summer Comes Seunghee**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "summercomes",
+            "code": "`SCSH_C`"
+        }          
+    ],
+    "SCSH_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Summer Comes Seunghee**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "summercomes",
+            "code": "`SCSH_B`"
+        }               
+    ],
+    "SCSH_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Summer Comes Seunghee**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "summercomes",
+            "code": "`SCSH_A`"
+        }     
+    ],
+    "SCSH_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Summer Comes Seunghee**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "summercomes",
+            "code": "`SCSH_S`"
+        }     
+    ],
+    "SCSH_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Summer Comes Seunghee**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "summercomes",
+            "code": "`SCSH_R`"
+        } 
+     ],
+    "SCYB_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Summer Comes Yubin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "summercomes",
+            "code": "`SCYB_C`"
+        }          
+    ],
+    "SCYB_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Summer Comes Yubin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "summercomes",
+            "code": "`SCYB_B`"
+        }               
+    ],
+    "SCYB_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Summer Comes Yubin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "summercomes",
+            "code": "`SCYB_A`"
+        }     
+    ],
+    "SCYB_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Summer Comes Yubin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "summercomes",
+            "code": "`SCYB_S`"
+        }     
+    ],
+    "SCYB_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Summer Comes Yubin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "summercomes",
+            "code": "`SCYB_R`"
+        }
+     ],
+    "SCAR_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Summer Comes Arin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "summercomes",
+            "code": "`SCAR_C`"
+        }          
+    ],
+    "SCAR_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Summer Comes Arin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "summercomes",
+            "code": "`SCAR_B`"
+        }               
+    ],
+    "SCAR_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Summer Comes Arin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "summercomes",
+            "code": "`SCAR_A`"
+        }     
+    ],
+    "SCAR_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Summer Comes Arin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "summercomes",
+            "code": "`SCAR_S`"
+        }     
+    ],
+    "SCAR_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Summer Comes Arin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "summercomes",
+            "code": "`SCAR_R`"
+        }     
+     ],
     "TLMA_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Tangerine Love Mark**",
