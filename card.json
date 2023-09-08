@@ -11,7 +11,7 @@
     "MST_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Memories Shotaro**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1148136780894322788/Untitled466_20230904140104.png",
             "theme": "card1",
             "inv": "memories",
             "code": "`MST_C`"
@@ -20,7 +20,7 @@
     "MST_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Memories Shotaro**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1148136781141778462/Untitled466_20230904140107.png",
             "theme": "card1",
             "inv": "memories",
             "code": "`MST_B`"
@@ -29,7 +29,7 @@
     "MST_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Memories Shotaro**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1148136781401817201/Untitled466_20230904140118.png",
             "theme": "card1",
             "inv": "memories",
             "code": "`MST_A`"
@@ -38,7 +38,7 @@
     "MST_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Memories Shotaro**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1148136781628326029/Untitled466_20230904140121.png",
             "theme": "card1",
             "inv": "memories",
             "code": "`MST_S`"
@@ -47,7 +47,7 @@
     "MST_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Memories Shotaro**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1148136781917724702/Untitled466_20230904140125.png",
             "theme": "card1",
             "inv": "memories",
             "code": "`MST_R`"
@@ -56,7 +56,7 @@
     "MES_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Memories Eunseok**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1148136782211317883/Untitled466_20230904140141.png",
             "theme": "card1",
             "inv": "memories",
             "code": "`MES_C`"
@@ -65,7 +65,7 @@
     "MES_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Memories Eunseok**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1148136782471381093/Untitled466_20230904140144.png",
             "theme": "card1",
             "inv": "memories",
             "code": "`MES_B`"
@@ -74,7 +74,7 @@
     "MES_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Memories Eunseok**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1148136782723031040/Untitled466_20230904140152.png",
             "theme": "card1",
             "inv": "memories",
             "code": "`MES_A`"
@@ -83,7 +83,7 @@
     "MES_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Memories Eunseok**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1148136783381528666/Untitled466_20230904140154.png",
             "theme": "card1",
             "inv": "memories",
             "code": "`MES_S`"
@@ -92,7 +92,7 @@
     "MES_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Memories Eunseok**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1148136783616426054/Untitled466_20230904140157.png",
             "theme": "card1",
             "inv": "memories",
             "code": "`MES_R`"
@@ -101,7 +101,7 @@
     "MSC_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Memories Sungchan**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1148136852654673961/Untitled466_20230904140222.png",
             "theme": "card1",
             "inv": "memories",
             "code": "`MSC_C`"
@@ -110,7 +110,7 @@
     "MSC_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Memories Sungchan**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1148136852902129684/Untitled466_20230904140224.png",
             "theme": "card1",
             "inv": "memories",
             "code": "`MSC_B`"
@@ -119,7 +119,7 @@
     "MSC_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Memories Sungchan**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1148136853116026950/Untitled466_20230904140232.png",
             "theme": "card1",
             "inv": "memories",
             "code": "`MSC_A`"
@@ -128,7 +128,7 @@
     "MSC_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Memories Sungchan**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1148136853380288592/Untitled466_20230904140236.png",
             "theme": "card1",
             "inv": "memories",
             "code": "`MSC_S`"
@@ -137,7 +137,7 @@
     "MSC_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Memories Sungchan**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1148136853602578593/Untitled466_20230904140241.png",
             "theme": "card1",
             "inv": "memories",
             "code": "`MSC_R`"
@@ -146,7 +146,7 @@
     "MWB_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Memories Wonbin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1148136853879390238/Untitled466_20230904140257.png",
             "theme": "card1",
             "inv": "memories",
             "code": "`MWB_C`"
@@ -155,7 +155,7 @@
     "MWB_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Memories Wonbin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1148136854269472818/Untitled466_20230904140259.png",
             "theme": "card1",
             "inv": "memories",
             "code": "`MWB_B`"
@@ -164,7 +164,7 @@
     "MWB_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Memories Wonbin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1148136854609199204/Untitled466_20230904140305.png",
             "theme": "card1",
             "inv": "memories",
             "code": "`MWB_A`"
@@ -173,7 +173,7 @@
     "MWB_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Memories Wonbin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1148136854881849354/Untitled466_20230904140310.png",
             "theme": "card1",
             "inv": "memories",
             "code": "`MWB_S`"
@@ -182,7 +182,7 @@
     "MWB_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Memories Wonbin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1148136855129305089/Untitled466_20230904140313.png",
             "theme": "card1",
             "inv": "memories",
             "code": "`MWB_R`"
@@ -191,7 +191,7 @@
     "MSH_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Memories Seunghan**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1148136899450515456/Untitled466_20230904140329.png",
             "theme": "card1",
             "inv": "memories",
             "code": "`MSH_C`"
@@ -200,7 +200,7 @@
     "MSH_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Memories Seunghan**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1148136899677016114/Untitled466_20230904140331.png",
             "theme": "card1",
             "inv": "memories",
             "code": "`MSH_B`"
@@ -209,7 +209,7 @@
     "MSH_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Memories Seunghan**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1148136899911884811/Untitled466_20230904140341.png",
             "theme": "card1",
             "inv": "memories",
             "code": "`MSH_A`"
@@ -218,7 +218,7 @@
     "MSH_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Memories Seunghan**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1148136900163547186/Untitled466_20230904140344.png",
             "theme": "card1",
             "inv": "memories",
             "code": "`MSH_S`"
@@ -227,7 +227,7 @@
     "MSH_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Memories Seunghan**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1148136900444573746/Untitled466_20230904140348.png",
             "theme": "card1",
             "inv": "memories",
             "code": "`MSH_R`"
@@ -236,7 +236,7 @@
     "MSO_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Memories Sohee**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1148136900780105728/Untitled466_20230904140359.png",
             "theme": "card1",
             "inv": "memories",
             "code": "`MSO_C`"
@@ -245,7 +245,7 @@
     "MSO_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Memories Sohee**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1148136901031776267/Untitled466_20230904140402.png",
             "theme": "card1",
             "inv": "memories",
             "code": "`MSO_B`"
@@ -254,7 +254,7 @@
     "MSO_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Memories Sohee**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1148136901258256444/Untitled466_20230904140409.png",
             "theme": "card1",
             "inv": "memories",
             "code": "`MSO_A`"
@@ -263,7 +263,7 @@
     "MSO_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Memories Sohee**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1148136901501530213/Untitled466_20230904140411.png",
             "theme": "card1",
             "inv": "memories",
             "code": "`MSO_S`"
@@ -272,7 +272,7 @@
     "MSO_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Memories Sohee**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1148136901748990032/Untitled466_20230904140415.png",
             "theme": "card1",
             "inv": "memories",
             "code": "`MSO_R`"
@@ -281,7 +281,7 @@
     "MAT_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Memories Anton**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1148136928047271986/Untitled466_20230904140428.png",
             "theme": "card1",
             "inv": "memories",
             "code": "`MAT_C`"
@@ -290,7 +290,7 @@
     "MAT_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Memories Anton**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1148136928290537542/Untitled466_20230904140432.png",
             "theme": "card1",
             "inv": "memories",
             "code": "`MAT_B`"
@@ -299,7 +299,7 @@
     "MAT_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Memories Anton**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1148136928538021929/Untitled466_20230904140439.png",
             "theme": "card1",
             "inv": "memories",
             "code": "`MAT_A`"
@@ -308,7 +308,7 @@
     "MAT_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Memories Anton**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1148136928798052352/Untitled466_20230904140442.png",
             "theme": "card1",
             "inv": "memories",
             "code": "`MAT_S`"
@@ -317,7 +317,7 @@
     "MAT_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Memories Anton**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1139463603372703845/1148136929041317928/Untitled466_20230904140446.png",
             "theme": "card1",
             "inv": "memories",
             "code": "`MAT_R`"
