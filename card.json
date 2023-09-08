@@ -8,6 +8,321 @@
             "code": "`IBHB_C`"
         }
      ],
+    "MST_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Memories Shotaro**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "memories",
+            "code": "`MST_C`"
+        }          
+    ],
+    "MST_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Memories Shotaro**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "memories",
+            "code": "`MST_B`"
+        }               
+    ],
+    "MST_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Memories Shotaro**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "memories",
+            "code": "`MST_A`"
+        }     
+    ],
+    "MST_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Memories Shotaro**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "memories",
+            "code": "`MST_S`"
+        }     
+    ],
+    "MST_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Memories Shotaro**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "memories",
+            "code": "`MST_R`"
+        }
+    ],
+    "MES_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Memories Eunseok**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "memories",
+            "code": "`MES_C`"
+        }          
+    ],
+    "MES_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Memories Eunseok**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "memories",
+            "code": "`MES_B`"
+        }               
+    ],
+    "MES_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Memories Eunseok**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "memories",
+            "code": "`MES_A`"
+        }     
+    ],
+    "MES_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Memories Eunseok**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "memories",
+            "code": "`MES_S`"
+        }     
+    ],
+    "MES_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Memories Eunseok**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "memories",
+            "code": "`MES_R`"
+        } 
+     ],
+    "MSC_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Memories Sungchan**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "memories",
+            "code": "`MSC_C`"
+        }          
+    ],
+    "MSC_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Memories Sungchan**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "memories",
+            "code": "`MSC_B`"
+        }               
+    ],
+    "MSC_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Memories Sungchan**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "memories",
+            "code": "`MSC_A`"
+        }     
+    ],
+    "MSC_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Memories Sungchan**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "memories",
+            "code": "`MSC_S`"
+        }     
+    ],
+    "MSC_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Memories Sungchan**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "memories",
+            "code": "`MSC_R`"
+        }  
+     ],
+    "MWB_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Memories Wonbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "memories",
+            "code": "`MWB_C`"
+        }          
+    ],
+    "MWB_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Memories Wonbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "memories",
+            "code": "`MWB_B`"
+        }               
+    ],
+    "MWB_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Memories Wonbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "memories",
+            "code": "`MWB_A`"
+        }     
+    ],
+    "MWB_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Memories Wonbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "memories",
+            "code": "`MWB_S`"
+        }     
+    ],
+    "MWB_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Memories Wonbin**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "memories",
+            "code": "`MWB_R`"
+        }
+    ],
+    "MSH_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Memories Seunghan**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "memories",
+            "code": "`MSH_C`"
+        }          
+    ],
+    "MSH_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Memories Seunghan**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "memories",
+            "code": "`MSH_B`"
+        }               
+    ],
+    "MSH_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Memories Seunghan**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "memories",
+            "code": "`MSH_A`"
+        }     
+    ],
+    "MSH_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Memories Seunghan**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "memories",
+            "code": "`MSH_S`"
+        }     
+    ],
+    "MSH_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Memories Seunghan**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "memories",
+            "code": "`MSH_R`"
+        } 
+     ],
+    "MSO_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Memories Sohee**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "memories",
+            "code": "`MSO_C`"
+        }          
+    ],
+    "MSO_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Memories Sohee**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "memories",
+            "code": "`MSO_B`"
+        }               
+    ],
+    "MSO_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Memories Sohee**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "memories",
+            "code": "`MSO_A`"
+        }     
+    ],
+    "MSO_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Memories Sohee**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "memories",
+            "code": "`MSO_S`"
+        }     
+    ],
+    "MSO_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Memories Sohee**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "memories",
+            "code": "`MSO_R`"
+        } 
+    ],
+    "MAT_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Memories Anton**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "memories",
+            "code": "`MAT_C`"
+        }          
+    ],
+    "MAT_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Memories Anton**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "memories",
+            "code": "`MAT_B`"
+        }               
+    ],
+    "MAT_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Memories Anton**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "memories",
+            "code": "`MAT_A`"
+        }     
+    ],
+    "MAT_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Memories Anton**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "memories",
+            "code": "`MAT_S`"
+        }     
+    ],
+    "MAT_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Memories Anton**",
+            "image": "-",
+            "theme": "card1",
+            "inv": "memories",
+            "code": "`MAT_R`"
+        }    
+     ],
     "SCHJ_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Summer Comes Hyojung**",
