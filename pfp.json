@@ -608,6 +608,41 @@
             "code": "`IAMEC_PFP`"
         }
     ],
+    "UFSK_PFP": [
+        {
+            "name": "`Event` **UNFORGIVEN Sakura PFP**",
+            "image": "https://media.discordapp.net/attachments/1131049928324554823/1139886010336030740/Untitled444_20230812193720.png",
+            "code": "`UFSK_PFP`"
+        }
+    ],
+    "UFCW_PFP": [
+        {
+            "name": "`Event` **UNFORGIVEN Chaewon PFP**",
+            "image": "https://media.discordapp.net/attachments/1131049928324554823/1139886010625425550/Untitled444_20230812193735.png",
+            "code": "`UFCW_PFP`"
+        } 
+     ],
+    "UFYJ_PFP": [
+        {
+            "name": "`Event` **UNFORGIVEN Yunjin PFP**",
+            "image": "https://media.discordapp.net/attachments/1131049928324554823/1139886010927423488/Untitled444_20230812193748.png",
+            "code": "`UFYJ_PFP`"
+        }  
+    ],
+    "UFKZ_PFP": [
+        {
+            "name": "`Event` **UNFORGIVEN Kazuha PFP**",
+            "image": "https://media.discordapp.net/attachments/1131049928324554823/1139886011179085874/Untitled444_20230812193804.png",
+            "code": "`UFKZ_PFP`"
+        } 
+    ],
+    "UFEC_PFP": [
+        {
+            "name": "`Event` **UNFORGIVEN Eunchae PFP**",
+            "image": "https://media.discordapp.net/attachments/1131049928324554823/1139886011506229368/Untitled444_20230812193822.png",
+            "code": "`UFEC_PFP`"
+        }    
+    ],
     "BTKR_PFP": [
         {
             "name": "`Event` **Better Things Karina PFP**",
