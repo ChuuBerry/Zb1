@@ -1201,6 +1201,27 @@
             "name": "`Free` **FLARE Takuto PFP**",
             "image": "https://media.discordapp.net/attachments/1131049928324554823/1152135237778817074/Untitled444_20230915144933.png",
             "code": "`FTK_PFP`"
+        }
+   ],
+    "BOL_V_PFP": [
+        {
+            "name": "`Free` **Be With You ONLEE (Vocal) PFP**",
+            "image": "https://media.discordapp.net/attachments/1131049928324554823/1152135183626153994/Untitled444_20230915144748.png",
+            "code": "`BOL_V_PFP`"
         }     
+    ],
+    "BOL_D_PFP": [
+        {
+            "name": "`Free` **Be With You ONLEE (Dance) PFP**",
+            "image": "https://media.discordapp.net/attachments/1131049928324554823/1152135183898787860/Untitled444_20230915144816.png",
+            "code": "`BOL_D_PFP`"
+        }
+    ],
+    "BOL_R_PFP": [
+        {
+            "name": "`Free` **Be With You ONLEE (Rhythm) PFP**",
+            "image": "https://media.discordapp.net/attachments/1131049928324554823/1152135184137846825/Untitled444_20230915144831.png",
+            "code": "`BOL_R_PFP`"
+        }         
     ]
 }
