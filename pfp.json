@@ -1173,6 +1173,34 @@
             "name": "`Limited` **Tangerine Love Jisung PFP**",
             "image": "https://media.discordapp.net/attachments/1131049928324554823/1146640909585371136/Untitled444_20230831105947.png",
             "code": "`TLJS_PFP`"
-        }    
+        }   
+    ],
+    "FAT_PFP": [
+        {
+            "name": "`Free` **FLARE Anthonny PFP**",
+            "image": "https://media.discordapp.net/attachments/1131049928324554823/1152135236830887986/Untitled444_20230915145012.png",
+            "code": "`FAT_PFP`"
+        }
+    ],
+    "FHA_PFP": [
+        {
+            "name": "`Free` **FLARE Hart PFP**",
+            "image": "https://media.discordapp.net/attachments/1131049928324554823/1152135237254529044/Untitled444_20230915144959.png",
+            "code": "`FHA_PFP`"
+        }
+    ],
+    "FYT_PFP": [
+        {
+            "name": "`Free` **FLARE Yuto PFP**",
+            "image": "https://media.discordapp.net/attachments/1131049928324554823/1152135237493588008/Untitled444_20230915144946.png",
+            "code": "`FYT_PFP`"
+        } 
+   ],
+    "FTK_PFP": [
+        {
+            "name": "`Free` **FLARE Takuto PFP**",
+            "image": "https://media.discordapp.net/attachments/1131049928324554823/1152135237778817074/Untitled444_20230915144933.png",
+            "code": "`FTK_PFP`"
+        }     
     ]
 }
