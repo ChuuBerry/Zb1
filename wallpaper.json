@@ -149,9 +149,16 @@
     "TFR1_WP": [
         {
             "name": "`Free` **TIOT Unbeatable Wallpaper**",
-            "image": "https://media.discordapp.net/attachments/1135843503507787856/1152252215742976022/Untitled461_20230915223324.png",
+            "image": "https://media.discordapp.net/attachments/1135843503507787856/1152282959437627422/Untitled461_20230916004018.png",
             "code": "`TFR1_WP`"
-        }  
+        }
+    ],
+    "TOZFR1_WP": [
+        {
+            "name": "`Free` **TOZ FLARE Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1135843503507787856/1152252215742976022/Untitled461_20230915223324.png",
+            "code": "`TOZFR1_WP`"
+        }    
     ],
     "EVNFR1_WP": [
         {
