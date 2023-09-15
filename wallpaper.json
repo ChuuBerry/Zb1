@@ -61,7 +61,6 @@
             "image": "https://media.discordapp.net/attachments/1135843503507787856/1136718397812514976/Untitled295_20230804015154.png",
             "code": "`OECFR1_WP`"
         }
-    
     ],
     "DJJFR1_WP": [
         {
@@ -83,8 +82,6 @@
             "image": "https://media.discordapp.net/attachments/1135843503507787856/1137385033850683452/Untitled295_20230805215941.png",
             "code": "`TXTFR1_WP`"
         }
-    
-    
     ],
     "IZFR1_WP": [
         {
@@ -105,8 +102,7 @@
             "name": "`Free` **RIIZE SIREN Wallpaper**",
             "image": "https://media.discordapp.net/attachments/1135843503507787856/1139508932193300501/Untitled295_20230811183720.png",
             "code": "`RZFR1_WP`"
-        }  
-    
+        }
     ],
     "SKFR1_WP": [
         {
@@ -135,7 +131,6 @@
             "image": "https://media.discordapp.net/attachments/1135843503507787856/1144591504283803649/Untitled461_20230825191702.png",
             "code": "`RDFR1_WP`"
         }
-    
     ],
     "BNDFR1_WP": [
         {
@@ -143,7 +138,6 @@
             "image": "https://media.discordapp.net/attachments/1135843503507787856/1146638852321181767/Untitled461_20230831105038.png",
             "code": "`BNDFR1_WP`"
         } 
-    
     ],
     "OMGFR1_WP": [
         {
@@ -155,21 +149,21 @@
     "TFR1_WP": [
         {
             "name": "`Free` **TIOT Unbeatable Wallpaper**",
-            "image": "https://media.discordapp.net/attachments/1135843503507787856/1146842370592227400/Untitled1186_20230831111542.png",
+            "image": "https://media.discordapp.net/attachments/1135843503507787856/1152252215742976022/Untitled461_20230915223324.png",
             "code": "`TFR1_WP`"
         }  
     ],
     "EVNFR1_WP": [
         {
             "name": "`Free` **EVNNE Even More Wallpaper**",
-            "image": "https://media.discordapp.net/attachments/1135843503507787856/1146842370592227400/Untitled1186_20230831111542.png",
+            "image": "https://media.discordapp.net/attachments/1135843503507787856/1152252292662304860/Untitled461_20230915223359.png",
             "code": "`EVNFR1_WP`"
         }    
     ],
     "OLFR1_WP": [
         {
             "name": "`Free` **ONLEE Be With You Wallpaper**",
-            "image": "https://media.discordapp.net/attachments/1135843503507787856/1146842370592227400/Untitled1186_20230831111542.png",
+            "image": "https://media.discordapp.net/attachments/1135843503507787856/1152252057911308427/Untitled461_20230915223245.png",
             "code": "`OLFR1_WP`"
         } 
     ],
@@ -187,6 +181,13 @@
             "code": "`LSFL2_WP`"
         } 
    ],
+    "LSFL3_WP": [
+        {
+            "name": "`Limited` **LE SSERAFIM Good Parts Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1135843503507787856/1152017413353779220/Untitled1186_20230914174424.png",
+            "code": "`LSFL3_WP`"
+        }      
+   ],
     "AEL1_WP": [
         {
             "name": "`Limited` **AESPA Better Things Wallpaper**",
@@ -200,6 +201,13 @@
             "image": "https://media.discordapp.net/attachments/1135843503507787856/1144591597300875344/Untitled461_20230825191508.png",
             "code": "`TXL1_WP`"
         }
+   ],
+    "TXL2_WP": [
+        {
+            "name": "`Limited` **TOMORROW X TOGETHER Anti-Romantic Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1135843503507787856/1152252434907926618/Untitled461_20230915223414.png",
+            "code": "`TXL2_WP`"
+        }     
     ],
     "NJL1_WP": [
         {
@@ -221,7 +229,6 @@
             "image": "https://media.discordapp.net/attachments/1135843503507787856/1146640834557640885/Untitled461_20230831105632.png",
             "code": "`NDEV1_WP`"
         }  
-        
    ],
     "AEEV1_WP": [
         {
