@@ -1334,6 +1334,76 @@
             "name": "`Free` **Even More Park Jihoo PFP**",
             "image": "https://media.discordapp.net/attachments/1131049928324554823/1152135273665265725/Untitled444_20230915145027.png",
             "code": "`EMPJ_PFP`"
-        }        
+        }  
+    ],
+    "ARYJ_PFP": [
+        {
+            "name": "`Limited` **Anti-Romantic Yeonjun PFP**",
+            "image": "https://media.discordapp.net/attachments/1131049928324554823/1152135305269350410/Untitled444_20230915145244.png",
+            "code": "`ARYJ_PFP`"
+        }
+    ],
+    "ARSB_PFP": [
+        {
+            "name": "`Limited` **Anti-Romantic Soobin PFP**",
+            "image": "https://media.discordapp.net/attachments/1131049928324554823/1152135305609105459/Untitled444_20230915145229.png",
+            "code": "`ARSB_PFP`"
+        }
+    ],
+    "ARBG_PFP": [
+        {
+            "name": "`Limited` **Anti-Romantic Beomgyu PFP**",
+            "image": "https://media.discordapp.net/attachments/1131049928324554823/1152135305990770758/Untitled444_20230915145218.png",
+            "code": "`ARBG_PFP`"
+        }
+    ],
+    "ARTH_PFP": [
+        {
+            "name": "`Limited` **Anti-Romantic Taehyun PFP**",
+            "image": "https://media.discordapp.net/attachments/1131049928324554823/1152135306334699580/Untitled444_20230915145204.png",
+            "code": "`ARTH_PFP`"
+        }
+    ],
+    "ARHK_PFP": [
+        {
+            "name": "`Limited` **Anti-Romantic Huening Kai PFP**",
+            "image": "https://media.discordapp.net/attachments/1131049928324554823/1152135306632515635/Untitled444_20230915145150.png",
+            "code": "`ARHK_PFP`"
+        }
+    ],
+    "GPCW_PFP": [
+        {
+            "name": "`Limited` **Good Parts Chaewon PFP**",
+            "image": "https://media.discordapp.net/attachments/1131049928324554823/1152017496237416468/Untitled1187_20230914174338.png",
+            "code": "`GPCW_PFP`"
+        }
+    ],
+    "GPSK_PFP": [
+        {
+            "name": "`Limited` **Good Parts Sakura PFP**",
+            "image": "https://media.discordapp.net/attachments/1131049928324554823/1152017496493277184/Untitled1187_20230914174340.png",
+            "code": "`GPSK_PFP`"
+        }       
+    ],
+    "GPYJ_PFP": [
+        {
+            "name": "`Limited` **Good Parts Yunjin PFP**",
+            "image": "https://media.discordapp.net/attachments/1131049928324554823/1152017496749125693/Untitled1187_20230914174342.png",
+            "code": "`GPYJ_PFP`"
+        } 
+    ],
+    "GPKZ_PFP": [
+        {
+            "name": "`Limited` **Good Parts Kazuha PFP**",
+            "image": "https://media.discordapp.net/attachments/1131049928324554823/1152017496979808297/Untitled1187_20230914174344.png",
+            "code": "`GPKZ_PFP`"
+        } 
+    ],
+    "GPEC_PFP": [
+        {
+            "name": "`Limited` **Good Parts Eunchae PFP**",
+            "image": "https://media.discordapp.net/attachments/1131049928324554823/1152017497235669032/Untitled1187_20230914174345.png",
+            "code": "`GPEC_PFP`"
+        }       
     ]
 }
