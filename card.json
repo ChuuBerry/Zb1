@@ -7,6 +7,186 @@
             "inv": "inbloom",
             "code": "`IBHB_C`"
         }
+     ],
+    "FAT_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **FLARE Anthonny**",
+            "image": "-",
+            "theme": "TOZ",
+            "inv": "FLARE",
+            "code": "`FAT_C`"
+        }          
+    ],
+    "FAT_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **FLARE Anthonny**",
+            "image": "-",
+            "theme": "TOZ",
+            "inv": "FLARE",
+            "code": "`FAT_B`"
+        }               
+    ],
+    "FAT_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **FLARE Anthonny**",
+            "image": "-",
+            "theme": "TOZ",
+            "inv": "FLARE",
+            "code": "`FAT_A`"
+        }     
+    ],
+    "FAT_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **FLARE Anthonny**",
+            "image": "-",
+            "theme": "TOZ",
+            "inv": "FLARE",
+            "code": "`FAT_S`"
+        }     
+    ],
+    "FAT_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **FLARE Anthonny**",
+            "image": "-",
+            "theme": "TOZ",
+            "inv": "FLARE",
+            "code": "`FAT_R`"
+        }      
+   ],
+    "FHA_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **FLARE Hart**",
+            "image": "-",
+            "theme": "TOZ",
+            "inv": "FLARE",
+            "code": "`FHA_C`"
+        }          
+    ],
+    "FHA_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **FLARE Hart**",
+            "image": "-",
+            "theme": "TOZ",
+            "inv": "FLARE",
+            "code": "`FHA_B`"
+        }               
+    ],
+    "FHA_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **FLARE Hart**",
+            "image": "-",
+            "theme": "TOZ",
+            "inv": "FLARE",
+            "code": "`FHA_A`"
+        }     
+    ],
+    "FHA_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **FLARE Hart**",
+            "image": "-",
+            "theme": "TOZ",
+            "inv": "FLARE",
+            "code": "`FHA_S`"
+        }     
+    ],
+    "FHA_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **FLARE Hart**",
+            "image": "-",
+            "theme": "TOZ",
+            "inv": "FLARE",
+            "code": "`FHA_R`"
+        }  
+   ],
+    "FYT_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **FLARE Yuto**",
+            "image": "-",
+            "theme": "TOZ",
+            "inv": "FLARE",
+            "code": "`FYT_C`"
+        }          
+    ],
+    "FYT_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **FLARE Yuto**",
+            "image": "-",
+            "theme": "TOZ",
+            "inv": "FLARE",
+            "code": "`FYT_B`"
+        }               
+    ],
+    "FYT_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **FLARE Yuto**",
+            "image": "-",
+            "theme": "TOZ",
+            "inv": "FLARE",
+            "code": "`FYT_A`"
+        }     
+    ],
+    "FYT_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **FLARE Yuto**",
+            "image": "-",
+            "theme": "TOZ",
+            "inv": "FLARE",
+            "code": "`FYT_S`"
+        }     
+    ],
+    "FYT_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **FLARE Yuto**",
+            "image": "-",
+            "theme": "TOZ",
+            "inv": "FLARE",
+            "code": "`FYT_R`"
+        } 
+    ],
+    "FTK_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **FLARE Anthonny**",
+            "image": "-",
+            "theme": "TOZ",
+            "inv": "FLARE",
+            "code": "`FTK_C`"
+        }          
+    ],
+    "FTK_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **FLARE Anthonny**",
+            "image": "-",
+            "theme": "TOZ",
+            "inv": "FLARE",
+            "code": "`FTK_B`"
+        }               
+    ],
+    "FTK_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **FLARE Anthonny**",
+            "image": "-",
+            "theme": "TOZ",
+            "inv": "FLARE",
+            "code": "`FTK_A`"
+        }     
+    ],
+    "FTK_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **FLARE Anthonny**",
+            "image": "-",
+            "theme": "TOZ",
+            "inv": "FLARE",
+            "code": "`FTK_S`"
+        }     
+    ],
+    "FTK_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **FLARE Anthonny**",
+            "image": "-",
+            "theme": "TOZ",
+            "inv": "FLARE",
+            "code": "`FTK_R`"
+        }          
       ],
     "UPM_C": [
         {
