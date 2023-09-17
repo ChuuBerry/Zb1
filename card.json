@@ -7,6 +7,231 @@
             "inv": "inbloom",
             "code": "`IBHB_C`"
         }
+    ],
+    "ARYJ_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Anti-Romantic Yeonjun**",
+            "image": "-",
+            "theme": "TOMORROW X TOGETHER",
+            "inv": "anti-romantic",
+            "code": "`ARYJ_C`"
+        }          
+    ],
+    "ARYJ_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Anti-Romantic Yeonjun**",
+            "image": "-",
+            "theme": "TOMORROW X TOGETHER",
+            "inv": "anti-romantic",
+            "code": "`ARYJ_B`"
+        }               
+    ],
+    "ARYJ_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Anti-Romantic Yeonjun**",
+            "image": "-",
+            "theme": "TOMORROW X TOGETHER",
+            "inv": "anti-romantic",
+            "code": "`ARYJ_A`"
+        }     
+    ],
+    "ARYJ_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Anti-Romantic Yeonjun**",
+            "image": "-",
+            "theme": "TOMORROW X TOGETHER",
+            "inv": "anti-romantic",
+            "code": "`ARYJ_S`"
+        }     
+    ],
+    "ARYJ_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Anti-Romantic Soobin**",
+            "image": "-",
+            "theme": "TOMORROW X TOGETHER",
+            "inv": "anti-romantic",
+            "code": "`ARYJ_R`"
+        }      
+   ],
+    "ARSB_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Anti-Romantic Soobin**",
+            "image": "-",
+            "theme": "TOMORROW X TOGETHER",
+            "inv": "anti-romantic",
+            "code": "`ARSB_C`"
+        }          
+    ],
+    "ARSB_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Anti-Romantic Soobin**",
+            "image": "-",
+            "theme": "TOMORROW X TOGETHER",
+            "inv": "anti-romantic",
+            "code": "`ARSB_B`"
+        }               
+    ],
+    "ARSB_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Anti-Romantic Soobin**",
+            "image": "-",
+            "theme": "TOMORROW X TOGETHER",
+            "inv": "anti-romantic",
+            "code": "`ARSB_A`"
+        }     
+    ],
+    "ARSB_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Anti-Romantic Soobin**",
+            "image": "-",
+            "theme": "TOMORROW X TOGETHER",
+            "inv": "anti-romantic",
+            "code": "`ARSB_S`"
+        }     
+    ],
+    "ARSB_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Anti-Romantic Soobin**",
+            "image": "-",
+            "theme": "TOMORROW X TOGETHER",
+            "inv": "anti-romantic",
+            "code": "`ARSB_R`"
+        } 
+    ],
+    "ARBG_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Anti-Romantic Beomgyu**",
+            "image": "-",
+            "theme": "TOMORROW X TOGETHER",
+            "inv": "anti-romantic",
+            "code": "`ARBG_C`"
+        }          
+    ],
+    "ARBG_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Anti-Romantic Beomgyu**",
+            "image": "-",
+            "theme": "TOMORROW X TOGETHER",
+            "inv": "anti-romantic",
+            "code": "`ARBG_B`"
+        }               
+    ],
+    "ARBG_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Anti-Romantic Beomgyu**",
+            "image": "-",
+            "theme": "TOMORROW X TOGETHER",
+            "inv": "anti-romantic",
+            "code": "`ARBG_A`"
+        }     
+    ],
+    "ARBG_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Anti-Romantic Beomgyu**",
+            "image": "-",
+            "theme": "TOMORROW X TOGETHER",
+            "inv": "anti-romantic",
+            "code": "`ARBG_S`"
+        }     
+    ],
+    "ARBG_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Anti-Romantic Beomgyu**",
+            "image": "-",
+            "theme": "TOMORROW X TOGETHER",
+            "inv": "anti-romantic",
+            "code": "`ARBG_R`"
+        }      
+     ],
+    "ARTH_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Anti-Romantic Taehyun**",
+            "image": "-",
+            "theme": "TOMORROW X TOGETHER",
+            "inv": "anti-romantic",
+            "code": "`ARTH_C`"
+        }          
+    ],
+    "ARTH_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Anti-Romantic Taehyun**",
+            "image": "-",
+            "theme": "TOMORROW X TOGETHER",
+            "inv": "anti-romantic",
+            "code": "`ARTH_B`"
+        }               
+    ],
+    "ARTH_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Anti-Romantic Taehyun**",
+            "image": "-",
+            "theme": "TOMORROW X TOGETHER",
+            "inv": "anti-romantic",
+            "code": "`ARTH_A`"
+        }     
+    ],
+    "ARTH_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Anti-Romantic Taehyun**",
+            "image": "-",
+            "theme": "TOMORROW X TOGETHER",
+            "inv": "anti-romantic",
+            "code": "`ARTH_S`"
+        }     
+    ],
+    "ARTH_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Anti-Romantic Taehyun**",
+            "image": "-",
+            "theme": "TOMORROW X TOGETHER",
+            "inv": "anti-romantic",
+            "code": "`ARTH_R`"
+        }      
+    ],
+    "ARHK_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Anti-Romantic Huening Kai**",
+            "image": "-",
+            "theme": "TOMORROW X TOGETHER",
+            "inv": "anti-romantic",
+            "code": "`ARHK_C`"
+        }          
+    ],
+    "ARHK_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Anti-Romantic Huening Kai**",
+            "image": "-",
+            "theme": "TOMORROW X TOGETHER",
+            "inv": "anti-romantic",
+            "code": "`ARHK_B`"
+        }               
+    ],
+    "ARHK_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Anti-Romantic Huening Kai**",
+            "image": "-",
+            "theme": "TOMORROW X TOGETHER",
+            "inv": "anti-romantic",
+            "code": "`ARHK_A`"
+        }     
+    ],
+    "ARHK_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Anti-Romantic Huening Kai**",
+            "image": "-",
+            "theme": "TOMORROW X TOGETHER",
+            "inv": "anti-romantic",
+            "code": "`ARHK_S`"
+        }     
+    ],
+    "ARHK_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Anti-Romantic Huening Kai**",
+            "image": "-",
+            "theme": "TOMORROW X TOGETHER",
+            "inv": "anti-romantic",
+            "code": "`ARGK_R`"
+        }          
      ],
     "FAT_C": [
         {
