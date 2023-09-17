@@ -7,6 +7,141 @@
             "inv": "inbloom",
             "code": "`IBHB_C`"
         }
+      ],
+    "BOL_V_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Be With You ONLEE** Vocal",
+            "image": "https://media.discordapp.net/attachments/1151901931304927294/1151902843947724990/ONLEE_20230914232141.png",
+            "theme": "card1",
+            "inv": "bewithyou",
+            "code": "`BOL_V_C`"
+        }          
+    ],
+    "BOL_V_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Be With You ONLEE** Vocal",
+            "image": "https://media.discordapp.net/attachments/1151901931304927294/1151902844228730880/ONLEE_20230914232144.png",
+            "theme": "card1",
+            "inv": "bewithyou",
+            "code": "`BOL_V_B`"
+        }               
+    ],
+    "BOL_V_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Be With You ONLEE** Vocal",
+            "image": "https://media.discordapp.net/attachments/1151901931304927294/1151902844492980234/ONLEE_20230914232147.png",
+            "theme": "card1",
+            "inv": "bewithyou",
+            "code": "`BOL_V_A`"
+        }     
+    ],
+    "BOL_V_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Be With You ONLEE** Vocal",
+            "image": "https://media.discordapp.net/attachments/1151901931304927294/1151902844803362816/ONLEE_20230914232149.png",
+            "theme": "card1",
+            "inv": "bewithyou",
+            "code": "`BOL_V_S`"
+        }     
+    ],
+    "BOL_V_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Be With You ONLEE** Vocal",
+            "image": "https://media.discordapp.net/attachments/1151901931304927294/1151902845394755616/ONLEE_20230914232152.png",
+            "theme": "card1",
+            "inv": "bewithyou",
+            "code": "`BOL_V_R`"
+        }      
+     ],
+    "BOL_D_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Be With You ONLEE** Dance",
+            "image": "https://media.discordapp.net/attachments/1151901931304927294/1151902845877104721/ONLEE_20230914232122.png",
+            "theme": "card1",
+            "inv": "bewithyou",
+            "code": "`BOL_D_C`"
+        }          
+    ],
+    "BOL_D_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Be With You ONLEE** Dance",
+            "image": "https://media.discordapp.net/attachments/1151901931304927294/1151902846132944957/ONLEE_20230914232124.png",
+            "theme": "card1",
+            "inv": "bewithyou",
+            "code": "`BOL_D_B`"
+        }               
+    ],
+    "BOL_D_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Be With You ONLEE** Dance",
+            "image": "https://media.discordapp.net/attachments/1151901931304927294/1151902846426558534/ONLEE_20230914232127.png",
+            "theme": "card1",
+            "inv": "bewithyou",
+            "code": "`BOL_D_A`"
+        }     
+    ],
+    "BOL_D_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Be With You ONLEE** Dance",
+            "image": "https://media.discordapp.net/attachments/1151901931304927294/1151902846720147586/ONLEE_20230914232130.png",
+            "theme": "card1",
+            "inv": "bewithyou",
+            "code": "`BOL_D_S`"
+        }     
+    ],
+    "BOL_D_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Be With You ONLEE** Dance",
+            "image": "https://media.discordapp.net/attachments/1151901931304927294/1151902846976012371/ONLEE_20230914232133.png",
+            "theme": "card1",
+            "inv": "bewithyou",
+            "code": "`BOL_D_R`"
+        }  
+     ],
+    "BOL_R_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Be With You ONLEE** Vocal",
+            "image": "https://media.discordapp.net/attachments/1151901931304927294/1151903006913220698/ONLEE_20230914232050.png",
+            "theme": "card1",
+            "inv": "bewithyou",
+            "code": "`BOL_R_C`"
+        }          
+    ],
+    "BOL_R_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Be With You ONLEE** Vocal",
+            "image": "https://media.discordapp.net/attachments/1151901931304927294/1151903007282311169/ONLEE_20230914232054.png",
+            "theme": "card1",
+            "inv": "bewithyou",
+            "code": "`BOL_R_B`"
+        }               
+    ],
+    "BOL_R_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Be With You ONLEE** Vocal",
+            "image": "https://media.discordapp.net/attachments/1151901931304927294/1151903007609462814/ONLEE_20230914232100.png",
+            "theme": "card1",
+            "inv": "bewithyou",
+            "code": "`BOL_R_A`"
+        }     
+    ],
+    "BOL_R_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Be With You ONLEE** Vocal",
+            "image": "https://media.discordapp.net/attachments/1151901931304927294/1151903007865327616/ONLEE_20230914232104.png",
+            "theme": "card1",
+            "inv": "bewithyou",
+            "code": "`BOL_R_S`"
+        }     
+    ],
+    "BOL_R_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Be With You ONLEE** Vocal",
+            "image": "https://media.discordapp.net/attachments/1151901931304927294/1151903008158920815/ONLEE_20230914232108.png",
+            "theme": "card1",
+            "inv": "bewithyou",
+            "code": "`BOL_R_R`"
+        }          
      ],
     "MST_C": [
         {
