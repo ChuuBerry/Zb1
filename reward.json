@@ -3,7 +3,8 @@
         {
             "name": "**<:rp:1113427566116753449> Rhythm Points**",
             "image": "-",
-            "amount": "5000;30000",
+            "amount1": "5000",
+            "amount2": "50000",
             "code": "`RP`"
         }
   ],
@@ -11,7 +12,8 @@
         {
             "name": "**<:dia:1113427603655761920> Diamonds**",
             "image": "-",
-            "amount": "10;100",
+            "amount1": "10",
+            "amount2": "100",
             "code": "`DIAS`"
         }
     ]
