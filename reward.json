@@ -1,18 +1,18 @@
 {
-    "RP": [
+    "rp": [
         {
             "name": "**<:rp:1113427566116753449> Rhythm Points**",
             "image": "-",
             "amount1": "5000;30000",
-            "code": "`RP`"
+            "code": "`rp`"
         }
   ],
-  "DIAS": [
+  "dias": [
         {
             "name": "**<:dia:1113427603655761920> Diamonds**",
             "image": "-",
             "amount1": "10;100",
-            "code": "`DIAS`"
+            "code": "`dias`"
         }
     ]
 }
