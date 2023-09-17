@@ -11,7 +11,7 @@
     "FAT_C": [
         {
             "name": "<:c_grade:1126649406230384671> **FLARE Anthonny**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1152081143747858494/1152081240971817040/TOZ_20230915111645.png",
             "theme": "TOZ",
             "inv": "FLARE",
             "code": "`FAT_C`"
@@ -20,7 +20,7 @@
     "FAT_B": [
         {
             "name": "<:b_grade:1126649508089057352> **FLARE Anthonny**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1152081143747858494/1152081241370284072/TOZ_20230915111650.png",
             "theme": "TOZ",
             "inv": "FLARE",
             "code": "`FAT_B`"
@@ -29,7 +29,7 @@
     "FAT_A": [
         {
             "name": "<:a_grade:1126649781272461413> **FLARE Anthonny**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1152081143747858494/1152081241642901604/TOZ_20230915111654.png",
             "theme": "TOZ",
             "inv": "FLARE",
             "code": "`FAT_A`"
@@ -38,7 +38,7 @@
     "FAT_S": [
         {
             "name": "<:s_grade:1126649890148196504> **FLARE Anthonny**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1152081143747858494/1152081241957478490/TOZ_20230915111657.png",
             "theme": "TOZ",
             "inv": "FLARE",
             "code": "`FAT_S`"
@@ -47,7 +47,7 @@
     "FAT_R": [
         {
             "name": "<:r_grade:1126649980296380457> **FLARE Anthonny**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1152081143747858494/1152081242221727784/TOZ_20230915111702.png",
             "theme": "TOZ",
             "inv": "FLARE",
             "code": "`FAT_R`"
@@ -56,7 +56,7 @@
     "FHA_C": [
         {
             "name": "<:c_grade:1126649406230384671> **FLARE Hart**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1152081143747858494/1152081242557263882/TOZ_20230915111712.png",
             "theme": "TOZ",
             "inv": "FLARE",
             "code": "`FHA_C`"
@@ -65,7 +65,7 @@
     "FHA_B": [
         {
             "name": "<:b_grade:1126649508089057352> **FLARE Hart**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1152081143747858494/1152081242859261992/TOZ_20230915111714.png",
             "theme": "TOZ",
             "inv": "FLARE",
             "code": "`FHA_B`"
@@ -74,7 +74,7 @@
     "FHA_A": [
         {
             "name": "<:a_grade:1126649781272461413> **FLARE Hart**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1152081143747858494/1152081243136073768/TOZ_20230915111717.png",
             "theme": "TOZ",
             "inv": "FLARE",
             "code": "`FHA_A`"
@@ -83,7 +83,7 @@
     "FHA_S": [
         {
             "name": "<:s_grade:1126649890148196504> **FLARE Hart**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1152081143747858494/1152081243475824640/TOZ_20230915111721.png",
             "theme": "TOZ",
             "inv": "FLARE",
             "code": "`FHA_S`"
@@ -92,7 +92,7 @@
     "FHA_R": [
         {
             "name": "<:r_grade:1126649980296380457> **FLARE Hart**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1152081143747858494/1152081243807162448/TOZ_20230915111724.png",
             "theme": "TOZ",
             "inv": "FLARE",
             "code": "`FHA_R`"
@@ -101,7 +101,7 @@
     "FYT_C": [
         {
             "name": "<:c_grade:1126649406230384671> **FLARE Yuto**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1152081143747858494/1152081277172846623/TOZ_20230915111742.png",
             "theme": "TOZ",
             "inv": "FLARE",
             "code": "`FYT_C`"
@@ -110,7 +110,7 @@
     "FYT_B": [
         {
             "name": "<:b_grade:1126649508089057352> **FLARE Yuto**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1152081143747858494/1152081277411917934/TOZ_20230915111745.png",
             "theme": "TOZ",
             "inv": "FLARE",
             "code": "`FYT_B`"
@@ -119,7 +119,7 @@
     "FYT_A": [
         {
             "name": "<:a_grade:1126649781272461413> **FLARE Yuto**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1152081143747858494/1152081277659398174/TOZ_20230915111747.png",
             "theme": "TOZ",
             "inv": "FLARE",
             "code": "`FYT_A`"
@@ -128,7 +128,7 @@
     "FYT_S": [
         {
             "name": "<:s_grade:1126649890148196504> **FLARE Yuto**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1152081143747858494/1152081277936209950/TOZ_20230915111750.png",
             "theme": "TOZ",
             "inv": "FLARE",
             "code": "`FYT_S`"
@@ -137,7 +137,7 @@
     "FYT_R": [
         {
             "name": "<:r_grade:1126649980296380457> **FLARE Yuto**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1152081143747858494/1152081278183669840/TOZ_20230915111753.png",
             "theme": "TOZ",
             "inv": "FLARE",
             "code": "`FYT_R`"
@@ -146,7 +146,7 @@
     "FTK_C": [
         {
             "name": "<:c_grade:1126649406230384671> **FLARE Anthonny**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1152081143747858494/1152081278447927347/TOZ_20230915111806.png",
             "theme": "TOZ",
             "inv": "FLARE",
             "code": "`FTK_C`"
@@ -155,7 +155,7 @@
     "FTK_B": [
         {
             "name": "<:b_grade:1126649508089057352> **FLARE Anthonny**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1152081143747858494/1152081278791847946/TOZ_20230915111809.png",
             "theme": "TOZ",
             "inv": "FLARE",
             "code": "`FTK_B`"
@@ -164,7 +164,7 @@
     "FTK_A": [
         {
             "name": "<:a_grade:1126649781272461413> **FLARE Anthonny**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1152081143747858494/1152081279001559141/TOZ_20230915111812.png",
             "theme": "TOZ",
             "inv": "FLARE",
             "code": "`FTK_A`"
@@ -173,7 +173,7 @@
     "FTK_S": [
         {
             "name": "<:s_grade:1126649890148196504> **FLARE Anthonny**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1152081143747858494/1152081279286788156/TOZ_20230915111815.png",
             "theme": "TOZ",
             "inv": "FLARE",
             "code": "`FTK_S`"
@@ -182,7 +182,7 @@
     "FTK_R": [
         {
             "name": "<:r_grade:1126649980296380457> **FLARE Anthonny**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1152081143747858494/1152081279286788156/TOZ_20230915111815.png",
             "theme": "TOZ",
             "inv": "FLARE",
             "code": "`FTK_R`"
