@@ -8,6 +8,321 @@
             "code": "`IBHB_C`"
         }
     ],
+    "EMKT_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Even More Keita**",
+            "image": "-",
+            "theme": "EVNNE",
+            "inv": "evenmore",
+            "code": "`EMKT_C`"
+        }          
+    ],
+    "EMKT_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Even More Keita**",
+            "image": "-",
+            "theme": "EVNNE",
+            "inv": "evenmore",
+            "code": "`EMKT_B`"
+        }               
+    ],
+    "EMKT_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Even More Keita**",
+            "image": "-",
+            "theme": "EVNNE",
+            "inv": "evenmore",
+            "code": "`EMKT_A`"
+        }     
+    ],
+    "EMKT_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Even More Keita**",
+            "image": "-",
+            "theme": "EVNNE",
+            "inv": "evenmore",
+            "code": "`EMKT_S`"
+        }     
+    ],
+    "EMKT_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Even More Keita**",
+            "image": "-",
+            "theme": "EVNNE",
+            "inv": "evenmore",
+            "code": "`EMKT_R`"
+        }  
+    ],
+    "EMPH_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Even More Park Hanbin**",
+            "image": "-",
+            "theme": "EVNNE",
+            "inv": "evenmore",
+            "code": "`EMPH_C`"
+        }          
+    ],
+    "EMPH_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Even More Park Hanbin**",
+            "image": "-",
+            "theme": "EVNNE",
+            "inv": "evenmore",
+            "code": "`EMPH_B`"
+        }               
+    ],
+    "EMPH_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Even More Park Hanbin**",
+            "image": "-",
+            "theme": "EVNNE",
+            "inv": "evenmore",
+            "code": "`EMPH_A`"
+        }     
+    ],
+    "EMPH_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Even More Park Hanbin**",
+            "image": "-",
+            "theme": "EVNNE",
+            "inv": "evenmore",
+            "code": "`EMPH_S`"
+        }     
+    ],
+    "EMPH_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Even More Park Hanbin**",
+            "image": "-",
+            "theme": "EVNNE",
+            "inv": "evenmore",
+            "code": "`EMPH_R`"
+        }  
+     ],
+    "EMLJ_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Even More Lee Jeonghyeon**",
+            "image": "-",
+            "theme": "EVNNE",
+            "inv": "evenmore",
+            "code": "`EMLJ_C`"
+        }          
+    ],
+    "EMLJ_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Even More Lee Jeonghyeon**",
+            "image": "-",
+            "theme": "EVNNE",
+            "inv": "evenmore",
+            "code": "`EMLJ_B`"
+        }               
+    ],
+    "EMLJ_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Even More Lee Jeonghyeon**",
+            "image": "-",
+            "theme": "EVNNE",
+            "inv": "evenmore",
+            "code": "`EMLJ_A`"
+        }     
+    ],
+    "EMLJ_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Even More Lee Jeonghyeon**",
+            "image": "-",
+            "theme": "EVNNE",
+            "inv": "evenmore",
+            "code": "`EMLJ_S`"
+        }     
+    ],
+    "EMLJ_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Even More Lee Jeonghyeon**",
+            "image": "-",
+            "theme": "EVNNE",
+            "inv": "evenmore",
+            "code": "`EMLJ_R`"
+        }     
+    ],
+    "EMJY_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Even More Ji Yunseo**",
+            "image": "-",
+            "theme": "EVNNE",
+            "inv": "evenmore",
+            "code": "`EMJY_C`"
+        }          
+    ],
+    "EMJY_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Even More Ji Yunseo**",
+            "image": "-",
+            "theme": "EVNNE",
+            "inv": "evenmore",
+            "code": "`EMJY_B`"
+        }               
+    ],
+    "EMJY_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Even More Ji Yunseo**",
+            "image": "-",
+            "theme": "EVNNE",
+            "inv": "evenmore",
+            "code": "`EMJY_A`"
+        }     
+    ],
+    "EMJY_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Even More Ji Yunseo**",
+            "image": "-",
+            "theme": "EVNNE",
+            "inv": "evenmore",
+            "code": "`EMJY_S`"
+        }     
+    ],
+    "EMJY_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Even More Ji Yunseo**",
+            "image": "-",
+            "theme": "EVNNE",
+            "inv": "evenmore",
+            "code": "`EMJY_R`"
+        }  
+     ],
+    "EMYS_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Even More Yoo Seungeon**",
+            "image": "-",
+            "theme": "EVNNE",
+            "inv": "evenmore",
+            "code": "`EMYS_C`"
+        }          
+    ],
+    "EMYS_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Even More Yoo Seungeon**",
+            "image": "-",
+            "theme": "EVNNE",
+            "inv": "evenmore",
+            "code": "`EMYS_B`"
+        }               
+    ],
+    "EMYS_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Even More Yoo Seungeon**",
+            "image": "-",
+            "theme": "EVNNE",
+            "inv": "evenmore",
+            "code": "`EMYS_A`"
+        }     
+    ],
+    "EMYS_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Even More Yoo Seungeon**",
+            "image": "-",
+            "theme": "EVNNE",
+            "inv": "evenmore",
+            "code": "`EMYS_S`"
+        }     
+    ],
+    "EMYS_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Even More Yoo Seungeon**",
+            "image": "-",
+            "theme": "EVNNE",
+            "inv": "evenmore",
+            "code": "`EMYS_R`"
+        } 
+   ],
+    "EMMJ_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Even More Mun Junghyun**",
+            "image": "-",
+            "theme": "EVNNE",
+            "inv": "evenmore",
+            "code": "`EMMJ_C`"
+        }          
+    ],
+    "EMMJ_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Even More Mun Junghyun**",
+            "image": "-",
+            "theme": "EVNNE",
+            "inv": "evenmore",
+            "code": "`EMMJ_B`"
+        }               
+    ],
+    "EMMJ_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Even More Mun Junghyun**",
+            "image": "-",
+            "theme": "EVNNE",
+            "inv": "evenmore",
+            "code": "`EMMJ_A`"
+        }     
+    ],
+    "EMMJ_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Even More Mun Junghyun**",
+            "image": "-",
+            "theme": "EVNNE",
+            "inv": "evenmore",
+            "code": "`EMMJ_S`"
+        }     
+    ],
+    "EMMJ_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Even More Mun Junghyun**",
+            "image": "-",
+            "theme": "EVNNE",
+            "inv": "evenmore",
+            "code": "`EMMJ_R`"
+        } 
+    ],
+    "EMPJ_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Even More Park Jihoo**",
+            "image": "-",
+            "theme": "EVNNE",
+            "inv": "evenmore",
+            "code": "`EMPJ_C`"
+        }          
+    ],
+    "EMPJ_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Even More Park Jihoo**",
+            "image": "-",
+            "theme": "EVNNE",
+            "inv": "evenmore",
+            "code": "`EMPJ_B`"
+        }               
+    ],
+    "EMPJ_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Even More Park Jihoo**",
+            "image": "-",
+            "theme": "EVNNE",
+            "inv": "evenmore",
+            "code": "`EMPJ_A`"
+        }     
+    ],
+    "EMPJ_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Even More Park Jihoo**",
+            "image": "-",
+            "theme": "EVNNE",
+            "inv": "evenmore",
+            "code": "`EMPJ_S`"
+        }     
+    ],
+    "EMPJ_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Even More Park Jihoo**",
+            "image": "-",
+            "theme": "EVNNE",
+            "inv": "evenmore",
+            "code": "`EMPJ_R`"
+        }      
+    ],
     "GPCW_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Good Parts Kim Chaewon**",
