@@ -11,7 +11,7 @@
     "GPCW_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Good Parts Kim Chaewon**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1152017124936663100/LFIMGoodParts_20230914173622.png",
             "theme": "LE SSERAFIM",
             "inv": "goodparts",
             "code": "`GPCW_C`"
@@ -20,7 +20,7 @@
     "GPCW_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Good Parts Kim Chaewon**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1152017125196705913/LFIMGoodParts_20230914173626.png",
             "theme": "LE SSERAFIM",
             "inv": "goodparts",
             "code": "`GPCW_B`"
@@ -29,7 +29,7 @@
     "GPCW_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Good Parts Kim Chaewon**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1152017125469323364/LFIMGoodParts_20230914173631.png",
             "theme": "LE SSERAFIM",
             "inv": "goodparts",
             "code": "`GPCW_A`"
@@ -38,7 +38,7 @@
     "GPCW_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Good Parts Kim Chaewon**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1152017125695832144/LFIMGoodParts_20230914173638.png",
             "theme": "LE SSERAFIM",
             "inv": "goodparts",
             "code": "`GPCW_S`"
@@ -47,7 +47,7 @@
     "GPCW_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Good Parts Kim Chaewon**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1152017125960069200/LFIMGoodParts_20230914173645.png",
             "theme": "LE SSERAFIM",
             "inv": "goodparts",
             "code": "`GPCW_R`"
@@ -56,7 +56,7 @@
     "GPSK_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Good Parts Sakura**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1152017123531567104/LFIMGoodParts_20230914173538.png",
             "theme": "LE SSERAFIM",
             "inv": "goodparts",
             "code": "`GPSK_C`"
@@ -65,7 +65,7 @@
     "GPSK_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Good Parts Sakura**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1152017123783213076/LFIMGoodParts_20230914173541.png",
             "theme": "LE SSERAFIM",
             "inv": "goodparts",
             "code": "`GPSK_B`"
@@ -74,7 +74,7 @@
     "GPSK_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Good Parts Sakura**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1152017124013916242/LFIMGoodParts_20230914173546.png",
             "theme": "LE SSERAFIM",
             "inv": "goodparts",
             "code": "`GPSK_A`"
@@ -83,7 +83,7 @@
     "GPSK_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Good Parts Sakura**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1152017124303319092/LFIMGoodParts_20230914173553.png",
             "theme": "LE SSERAFIM",
             "inv": "goodparts",
             "code": "`GPSK_S`"
@@ -92,7 +92,7 @@
     "GPSK_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Good Parts Sakura**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1152017124588519567/LFIMGoodParts_20230914173600.png",
             "theme": "LE SSERAFIM",
             "inv": "goodparts",
             "code": "`GPSK_R`"
@@ -101,7 +101,7 @@
     "GPYJ_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Good Parts Huh Yunjin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1152017171933835314/LFIMGoodParts_20230914173730.png",
             "theme": "LE SSERAFIM",
             "inv": "goodparts",
             "code": "`GPYJ_C`"
@@ -110,7 +110,7 @@
     "GPYJ_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Good Parts Huh Yunjin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1152017172185485372/LFIMGoodParts_20230914173737.png",
             "theme": "LE SSERAFIM",
             "inv": "goodparts",
             "code": "`GPYJ_B`"
@@ -119,7 +119,7 @@
     "GPYJ_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Good Parts Huh Yunjin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1152017172432953345/LFIMGoodParts_20230914173743.png",
             "theme": "LE SSERAFIM",
             "inv": "goodparts",
             "code": "`GPYJ_A`"
@@ -128,7 +128,7 @@
     "GPYJ_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Good Parts Huh Yunjin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1152017172713975842/LFIMGoodParts_20230914173750.png",
             "theme": "LE SSERAFIM",
             "inv": "goodparts",
             "code": "`GPYJ_S`"
@@ -137,7 +137,7 @@
     "GPYJ_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Good Parts Huh Yunjin**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1152017172965625876/LFIMGoodParts_20230914173758.png",
             "theme": "LE SSERAFIM",
             "inv": "goodparts",
             "code": "`GPYJ_R`"
@@ -146,7 +146,7 @@
     "GPKZ_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Good Parts Kazuha**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1152017173200510976/LFIMGoodParts_20230914173926.png",
             "theme": "LE SSERAFIM",
             "inv": "goodparts",
             "code": "`GPKZ_C`"
@@ -155,7 +155,7 @@
     "GPKZ_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Good Parts Kazuha**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1152017173435396227/LFIMGoodParts_20230914173930.png",
             "theme": "LE SSERAFIM",
             "inv": "goodparts",
             "code": "`GPKZ_B`"
@@ -164,7 +164,7 @@
     "GPKZ_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Good Parts Kazuha**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1152017173678657596/LFIMGoodParts_20230914173938.png",
             "theme": "LE SSERAFIM",
             "inv": "goodparts",
             "code": "`GPKZ_A`"
@@ -173,7 +173,7 @@
     "GPKZ_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Good Parts Kazuha**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1152017173930319993/LFIMGoodParts_20230914173943.png",
             "theme": "LE SSERAFIM",
             "inv": "goodparts",
             "code": "`GPKZ_S`"
@@ -182,7 +182,7 @@
     "GPKZ_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Good Parts Kazuha**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1152017174173593711/LFIMGoodParts_20230914173948.png",
             "theme": "LE SSERAFIM",
             "inv": "goodparts",
             "code": "`GPKZ_R`"
@@ -191,7 +191,7 @@
     "GPEC_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Good Parts Hong Eunchae**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1152017200912277635/LFIMGoodParts_20230914174004.png",
             "theme": "LE SSERAFIM",
             "inv": "goodparts",
             "code": "`GPEC_C`"
@@ -200,7 +200,7 @@
     "GPEC_B": [
         {
             "name": "<:b_grade:1126649508089057352> **Good Parts Hong Eunchae**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1152017201239437392/LFIMGoodParts_20230914174012.png",
             "theme": "LE SSERAFIM",
             "inv": "goodparts",
             "code": "`GPEC_B`"
@@ -209,7 +209,7 @@
     "GPEC_A": [
         {
             "name": "<:a_grade:1126649781272461413> **Good Parts Hong Eunchaee**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1152017201818255390/LFIMGoodParts_20230914174016.png",
             "theme": "LE SSERAFIM",
             "inv": "goodparts",
             "code": "`GPEC_A`"
@@ -218,7 +218,7 @@
     "GPEC_S": [
         {
             "name": "<:s_grade:1126649890148196504> **Good Parts Hong Eunchae**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1152017202132820019/LFIMGoodParts_20230914174021.png",
             "theme": "LE SSERAFIM",
             "inv": "goodparts",
             "code": "`GPEC_S`"
@@ -227,7 +227,7 @@
     "GPEC_R": [
         {
             "name": "<:r_grade:1126649980296380457> **Good Parts Hong Eunchae**",
-            "image": "-",
+            "image": "https://media.discordapp.net/attachments/1137272451852681266/1152017202409648168/LFIMGoodParts_20230914174027.png",
             "theme": "LE SSERAFIM",
             "inv": "goodparts",
             "code": "`GPEC_R`"
