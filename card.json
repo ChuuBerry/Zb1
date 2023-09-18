@@ -8,6 +8,231 @@
             "code": "`IBHB_C`"
         }
     ],
+    "GPCW_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Good Parts Kim Chaewon**",
+            "image": "-",
+            "theme": "LE SSERAFIM",
+            "inv": "goodparts",
+            "code": "`GPCW_C`"
+        }          
+    ],
+    "GPCW_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Good Parts Kim Chaewon**",
+            "image": "-",
+            "theme": "LE SSERAFIM",
+            "inv": "goodparts",
+            "code": "`GPCW_B`"
+        }               
+    ],
+    "GPCW_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Good Parts Kim Chaewon**",
+            "image": "-",
+            "theme": "LE SSERAFIM",
+            "inv": "goodparts",
+            "code": "`GPCW_A`"
+        }     
+    ],
+    "GPCW_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Good Parts Kim Chaewon**",
+            "image": "-",
+            "theme": "LE SSERAFIM",
+            "inv": "goodparts",
+            "code": "`GPCW_S`"
+        }     
+    ],
+    "GPCW_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Good Parts Kim Chaewon**",
+            "image": "-",
+            "theme": "LE SSERAFIM",
+            "inv": "goodparts",
+            "code": "`GPCW_R`"
+        } 
+    ],
+    "GPSK_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Good Parts Sakura**",
+            "image": "-",
+            "theme": "LE SSERAFIM",
+            "inv": "goodparts",
+            "code": "`GPSK_C`"
+        }          
+    ],
+    "GPSK_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Good Parts Sakura**",
+            "image": "-",
+            "theme": "LE SSERAFIM",
+            "inv": "goodparts",
+            "code": "`GPSK_B`"
+        }               
+    ],
+    "GPSK_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Good Parts Sakura**",
+            "image": "-",
+            "theme": "LE SSERAFIM",
+            "inv": "goodparts",
+            "code": "`GPSK_A`"
+        }     
+    ],
+    "GPSK_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Good Parts Sakura**",
+            "image": "-",
+            "theme": "LE SSERAFIM",
+            "inv": "goodparts",
+            "code": "`GPSK_S`"
+        }     
+    ],
+    "GPSK_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Good Parts Sakura**",
+            "image": "-",
+            "theme": "LE SSERAFIM",
+            "inv": "goodparts",
+            "code": "`GPSK_R`"
+        } 
+    ],
+    "GPYJ_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Good Parts Huh Yunjin**",
+            "image": "-",
+            "theme": "LE SSERAFIM",
+            "inv": "goodparts",
+            "code": "`GPYJ_C`"
+        }          
+    ],
+    "GPYJ_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Good Parts Huh Yunjin**",
+            "image": "-",
+            "theme": "LE SSERAFIM",
+            "inv": "goodparts",
+            "code": "`GPYJ_B`"
+        }               
+    ],
+    "GPYJ_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Good Parts Huh Yunjin**",
+            "image": "-",
+            "theme": "LE SSERAFIM",
+            "inv": "goodparts",
+            "code": "`GPYJ_A`"
+        }     
+    ],
+    "GPYJ_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Good Parts Huh Yunjin**",
+            "image": "-",
+            "theme": "LE SSERAFIM",
+            "inv": "goodparts",
+            "code": "`GPYJ_S`"
+        }     
+    ],
+    "GPYJ_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Good Parts Huh Yunjin**",
+            "image": "-",
+            "theme": "LE SSERAFIM",
+            "inv": "goodparts",
+            "code": "`GPYJ_R`"
+        } 
+    ],
+    "GPKZ_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Good Parts Kazuha**",
+            "image": "-",
+            "theme": "LE SSERAFIM",
+            "inv": "goodparts",
+            "code": "`GPKZ_C`"
+        }          
+    ],
+    "GPKZ_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Good Parts Kazuha**",
+            "image": "-",
+            "theme": "LE SSERAFIM",
+            "inv": "goodparts",
+            "code": "`GPKZ_B`"
+        }               
+    ],
+    "GPKZ_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Good Parts Kazuha**",
+            "image": "-",
+            "theme": "LE SSERAFIM",
+            "inv": "goodparts",
+            "code": "`GPKZ_A`"
+        }     
+    ],
+    "GPKZ_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Good Parts Kazuha**",
+            "image": "-",
+            "theme": "LE SSERAFIM",
+            "inv": "goodparts",
+            "code": "`GPKZ_S`"
+        }     
+    ],
+    "GPKZ_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Good Parts Kazuha**",
+            "image": "-",
+            "theme": "LE SSERAFIM",
+            "inv": "goodparts",
+            "code": "`GPKZ_R`"
+        } 
+    ],
+    "GPEC_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Good Parts Hong Eunchae**",
+            "image": "-",
+            "theme": "LE SSERAFIM",
+            "inv": "goodparts",
+            "code": "`GPEC_C`"
+        }          
+    ],
+    "GPEC_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Good Parts Hong Eunchae**",
+            "image": "-",
+            "theme": "LE SSERAFIM",
+            "inv": "goodparts",
+            "code": "`GPEC_B`"
+        }               
+    ],
+    "GPEC_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Good Parts Hong Eunchaee**",
+            "image": "-",
+            "theme": "LE SSERAFIM",
+            "inv": "goodparts",
+            "code": "`GPEC_A`"
+        }     
+    ],
+    "GPEC_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Good Parts Hong Eunchae**",
+            "image": "-",
+            "theme": "LE SSERAFIM",
+            "inv": "goodparts",
+            "code": "`GPEC_S`"
+        }     
+    ],
+    "GPEC_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Good Parts Hong Eunchae**",
+            "image": "-",
+            "theme": "LE SSERAFIM",
+            "inv": "goodparts",
+            "code": "`GPEC_R`"
+        }     
+    ],
     "ARYJ_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Anti-Romantic Yeonjun**",
