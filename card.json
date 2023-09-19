@@ -1135,7 +1135,7 @@
       ],
     "BOL_V_C": [
         {
-            "name": "<:c_grade:1126649406230384671> **Be With You ONLEE** Vocal",
+            "name": "<:c_grade:1126649406230384671> Vocal **Be With You ONLEE**",
             "image": "https://media.discordapp.net/attachments/1151901931304927294/1151902843947724990/ONLEE_20230914232141.png",
             "theme": "ONLEE",
             "inv": "bewithyou",
@@ -1144,7 +1144,7 @@
     ],
     "BOL_V_B": [
         {
-            "name": "<:b_grade:1126649508089057352> **Be With You ONLEE** Vocal",
+            "name": "<:b_grade:1126649508089057352> Vocal**Be With You ONLEE**",
             "image": "https://media.discordapp.net/attachments/1151901931304927294/1151902844228730880/ONLEE_20230914232144.png",
             "theme": "ONLEE",
             "inv": "bewithyou",
@@ -1153,7 +1153,7 @@
     ],
     "BOL_V_A": [
         {
-            "name": "<:a_grade:1126649781272461413> **Be With You ONLEE** Vocal",
+            "name": "<:a_grade:1126649781272461413> Vocal**Be With You ONLEE**",
             "image": "https://media.discordapp.net/attachments/1151901931304927294/1151902844492980234/ONLEE_20230914232147.png",
             "theme": "ONLEE",
             "inv": "bewithyou",
@@ -1162,7 +1162,7 @@
     ],
     "BOL_V_S": [
         {
-            "name": "<:s_grade:1126649890148196504> **Be With You ONLEE** Vocal",
+            "name": "<:s_grade:1126649890148196504> Vocal**Be With You ONLEE**",
             "image": "https://media.discordapp.net/attachments/1151901931304927294/1151902844803362816/ONLEE_20230914232149.png",
             "theme": "ONLEE",
             "inv": "bewithyou",
@@ -1171,7 +1171,7 @@
     ],
     "BOL_V_R": [
         {
-            "name": "<:r_grade:1126649980296380457> **Be With You ONLEE** Vocal",
+            "name": "<:r_grade:1126649980296380457> Vocal**Be With You ONLEE**",
             "image": "https://media.discordapp.net/attachments/1151901931304927294/1151902845394755616/ONLEE_20230914232152.png",
             "theme": "ONLEE",
             "inv": "bewithyou",
@@ -1180,7 +1180,7 @@
      ],
     "BOL_D_C": [
         {
-            "name": "<:c_grade:1126649406230384671> **Be With You ONLEE** Dance",
+            "name": "<:c_grade:1126649406230384671> Dance **Be With You ONLEE**",
             "image": "https://media.discordapp.net/attachments/1151901931304927294/1151902845877104721/ONLEE_20230914232122.png",
             "theme": "ONLEE",
             "inv": "bewithyou",
@@ -1189,7 +1189,7 @@
     ],
     "BOL_D_B": [
         {
-            "name": "<:b_grade:1126649508089057352> **Be With You ONLEE** Dance",
+            "name": "<:b_grade:1126649508089057352> Dance **Be With You ONLEE**",
             "image": "https://media.discordapp.net/attachments/1151901931304927294/1151902846132944957/ONLEE_20230914232124.png",
             "theme": "ONLEE",
             "inv": "bewithyou",
@@ -1198,7 +1198,7 @@
     ],
     "BOL_D_A": [
         {
-            "name": "<:a_grade:1126649781272461413> **Be With You ONLEE** Dance",
+            "name": "<:a_grade:1126649781272461413> Dance **Be With You ONLEE**",
             "image": "https://media.discordapp.net/attachments/1151901931304927294/1151902846426558534/ONLEE_20230914232127.png",
             "theme": "ONLEE",
             "inv": "bewithyou",
@@ -1207,7 +1207,7 @@
     ],
     "BOL_D_S": [
         {
-            "name": "<:s_grade:1126649890148196504> **Be With You ONLEE** Dance",
+            "name": "<:s_grade:1126649890148196504> Dance **Be With You ONLEE**",
             "image": "https://media.discordapp.net/attachments/1151901931304927294/1151902846720147586/ONLEE_20230914232130.png",
             "theme": "ONLEE",
             "inv": "bewithyou",
@@ -1216,7 +1216,7 @@
     ],
     "BOL_D_R": [
         {
-            "name": "<:r_grade:1126649980296380457> **Be With You ONLEE** Dance",
+            "name": "<:r_grade:1126649980296380457> Dance **Be With You ONLEE**",
             "image": "https://media.discordapp.net/attachments/1151901931304927294/1151902846976012371/ONLEE_20230914232133.png",
             "theme": "ONLEE",
             "inv": "bewithyou",
@@ -1225,7 +1225,7 @@
      ],
     "BOL_R_C": [
         {
-            "name": "<:c_grade:1126649406230384671> **Be With You ONLEE** Vocal",
+            "name": "<:c_grade:1126649406230384671> Rhythm **Be With You ONLEE**",
             "image": "https://media.discordapp.net/attachments/1151901931304927294/1151903006913220698/ONLEE_20230914232050.png",
             "theme": "ONLEE",
             "inv": "bewithyou",
@@ -1234,7 +1234,7 @@
     ],
     "BOL_R_B": [
         {
-            "name": "<:b_grade:1126649508089057352> **Be With You ONLEE** Vocal",
+            "name": "<:b_grade:1126649508089057352> Rhythm **Be With You ONLEE**",
             "image": "https://media.discordapp.net/attachments/1151901931304927294/1151903007282311169/ONLEE_20230914232054.png",
             "theme": "ONLEE",
             "inv": "bewithyou",
@@ -1243,7 +1243,7 @@
     ],
     "BOL_R_A": [
         {
-            "name": "<:a_grade:1126649781272461413> **Be With You ONLEE** Vocal",
+            "name": "<:a_grade:1126649781272461413> Rhythm **Be With You ONLEE**",
             "image": "https://media.discordapp.net/attachments/1151901931304927294/1151903007609462814/ONLEE_20230914232100.png",
             "theme": "ONLEE",
             "inv": "bewithyou",
@@ -1252,7 +1252,7 @@
     ],
     "BOL_R_S": [
         {
-            "name": "<:s_grade:1126649890148196504> **Be With You ONLEE** Vocal",
+            "name": "<:s_grade:1126649890148196504> Rhythm **Be With You ONLEE**",
             "image": "https://media.discordapp.net/attachments/1151901931304927294/1151903007865327616/ONLEE_20230914232104.png",
             "theme": "ONLEE",
             "inv": "bewithyou",
@@ -1261,7 +1261,7 @@
     ],
     "BOL_R_R": [
         {
-            "name": "<:r_grade:1126649980296380457> **Be With You ONLEE** Vocal",
+            "name": "<:r_grade:1126649980296380457> Rhythm **Be With You ONLEE**",
             "image": "https://media.discordapp.net/attachments/1151901931304927294/1151903008158920815/ONLEE_20230914232108.png",
             "theme": "ONLEE",
             "inv": "bewithyou",
