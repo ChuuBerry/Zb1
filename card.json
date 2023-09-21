@@ -8,6 +8,186 @@
             "code": "`IBHB_C`"
         }
     ],
+    "TJS_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Tally Jisoo**",
+            "image": "https://media.discordapp.net/attachments/1154275465381548106/1154279744628600852/BLACKPINKTally_20230920233856.png",
+            "theme": "blackpink",
+            "inv": "tally",
+            "code": "`TJS_C`"
+        }          
+    ],
+    "TJS_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Tally Jisoo**",
+            "image": "https://media.discordapp.net/attachments/1154275465381548106/1154279745006084136/BLACKPINKTally_20230920233902.png",
+            "theme": "blackpink",
+            "inv": "tally",
+            "code": "`TJS_B`"
+        }               
+    ],
+    "TJS_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Tally Jisoo**",
+            "image": "https://media.discordapp.net/attachments/1154275465381548106/1154279745408749628/BLACKPINKTally_20230920233919.png",
+            "theme": "blackpink",
+            "inv": "tally",
+            "code": "`TJS_A`"
+        }     
+    ],
+    "TJS_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Tally Jisoo**",
+            "image": "https://media.discordapp.net/attachments/1154275465381548106/1154279745828171786/BLACKPINKTally_20230920233924.png",
+            "theme": "blackpink",
+            "inv": "tally",
+            "code": "`TJS_S`"
+        }     
+    ],
+    "TJS_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Tally Jisoo**",
+            "image": "https://media.discordapp.net/attachments/1154275465381548106/1154279746125975552/BLACKPINKTally_20230920233931.png",
+            "theme": "blackpink",
+            "inv": "tally",
+            "code": "`TJS_R`"
+        }      
+    ],
+    "TJN_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Tally Jennie**",
+            "image": "https://media.discordapp.net/attachments/1154275465381548106/1154279746465706004/BLACKPINKTally_20230920233947.png",
+            "theme": "blackpink",
+            "inv": "tally",
+            "code": "`TJN_C`"
+        }          
+    ],
+    "TJN_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Tally Jennie**",
+            "image": "https://media.discordapp.net/attachments/1154275465381548106/1154279746776080414/BLACKPINKTally_20230920234012.png",
+            "theme": "blackpink",
+            "inv": "tally",
+            "code": "`TJN_B`"
+        }               
+    ],
+    "TJN_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Tally Jennie**",
+            "image": "https://media.discordapp.net/attachments/1154275465381548106/1154279747040333905/BLACKPINKTally_20230920234018.png",
+            "theme": "blackpink",
+            "inv": "tally",
+            "code": "`TJN_A`"
+        }     
+    ],
+    "TJN_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Tally Jennie**",
+            "image": "https://media.discordapp.net/attachments/1154275465381548106/1154279747438784582/BLACKPINKTally_20230920234023.png",
+            "theme": "blackpink",
+            "inv": "tally",
+            "code": "`TJN_S`"
+        }     
+    ],
+    "TJN_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Tally Jennie**",
+            "image": "https://media.discordapp.net/attachments/1154275465381548106/1154279747845627904/BLACKPINKTally_20230920234030.png",
+            "theme": "blackpink",
+            "inv": "tally",
+            "code": "`TJN_R`"
+        } 
+    ],
+    "TRS_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Tally Rosé**",
+            "image": "https://media.discordapp.net/attachments/1154275465381548106/1154279814501498930/BLACKPINKTally_20230920234046.png",
+            "theme": "blackpink",
+            "inv": "tally",
+            "code": "`TRS_C`"
+        }          
+    ],
+    "TRS_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Tally Rosé**",
+            "image": "https://media.discordapp.net/attachments/1154275465381548106/1154279814753165382/BLACKPINKTally_20230920234050.png",
+            "theme": "blackpink",
+            "inv": "tally",
+            "code": "`TRS_B`"
+        }               
+    ],
+    "TRS_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Tally Rosé**",
+            "image": "https://media.discordapp.net/attachments/1154275465381548106/1154279815155814420/BLACKPINKTally_20230920234056.png",
+            "theme": "blackpink",
+            "inv": "tally",
+            "code": "`TRS_A`"
+        }     
+    ],
+    "TRS_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Tally Rosé**",
+            "image": "https://media.discordapp.net/attachments/1154275465381548106/1154279815436828722/BLACKPINKTally_20230920234103.png",
+            "theme": "blackpink",
+            "inv": "tally",
+            "code": "`TRS_S`"
+        }     
+    ],
+    "TRS_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Tally Rosé**",
+            "image": "https://media.discordapp.net/attachments/1154275465381548106/1154279815709462569/BLACKPINKTally_20230920234114.png",
+            "theme": "blackpink",
+            "inv": "tally",
+            "code": "`TRS_R`"
+        }
+    ],
+    "TLS_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Tally Jisoo**",
+            "image": "https://media.discordapp.net/attachments/1154275465381548106/1154279816057585766/BLACKPINKTally_20230920234128.png",
+            "theme": "blackpink",
+            "inv": "tally",
+            "code": "`TLS_C`"
+        }          
+    ],
+    "TLS_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Tally Jisoo**",
+            "image": "https://media.discordapp.net/attachments/1154275465381548106/1154279816367972392/BLACKPINKTally_20230920234133.png",
+            "theme": "blackpink",
+            "inv": "tally",
+            "code": "`TLS_B`"
+        }               
+    ],
+    "TLS_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Tally Jisoo**",
+            "image": "https://media.discordapp.net/attachments/1154275465381548106/1154279816833536031/BLACKPINKTally_20230920234140.png",
+            "theme": "blackpink",
+            "inv": "tally",
+            "code": "`TLS_A`"
+        }     
+    ],
+    "TLS_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Tally Jisoo**",
+            "image": "https://media.discordapp.net/attachments/1154275465381548106/1154279817093578802/BLACKPINKTally_20230920234145.png",
+            "theme": "blackpink",
+            "inv": "tally",
+            "code": "`TLS_S`"
+        }     
+    ],
+    "TLS_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Tally Jisoo**",
+            "image": "https://media.discordapp.net/attachments/1154275465381548106/1154279817341050951/BLACKPINKTally_20230920234151.png",
+            "theme": "blackpink",
+            "inv": "tally",
+            "code": "`TS_R`"
+        }          
+    ],
     "SHJS_C": [
         {
             "name": "<:c_grade:1126649406230384671> **Shut Down Jisoo**",
