@@ -172,7 +172,28 @@
             "name": "`Free` **ONLEE Be With You Wallpaper**",
             "image": "https://media.discordapp.net/attachments/1135843503507787856/1152252057911308427/Untitled461_20230915223245.png",
             "code": "`OLFR1_WP`"
+        }
+    ],
+    "YFR1_WP": [
+        {
+            "name": "`Free` **YENA WICKED LOVE Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1135843503507787856/1154298592748634253/Untitled461_20230921140842.png",
+            "code": "`YFR1_WP`"
         } 
+    ],
+    "ONWFR1_WP": [
+        {
+            "name": "`Free` **ONEWE End of Spring Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1135843503507787856/1154298681311379517/Untitled461_20230921140903.png",
+            "code": "`ONWFR1_WP`"
+        }
+    ],
+    "BPFR1_WP": [
+        {
+            "name": "`Free` **BLACKPINK Shut Down Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1135843503507787856/1154280610710433852/Untitled1186_20230920235330.png",
+            "code": "`BPFR1_WP`"
+        }    
     ],
     "LSFL1_WP": [
         {
@@ -221,7 +242,28 @@
             "name": "`Limited` **NewJeans Super Shy Wallpaper**",
             "image": "https://media.discordapp.net/attachments/1135843503507787856/1144591645824790680/Untitled461_20230825191549.png",
             "code": "`NJL1_WP`"
-        }     
+        } 
+    ],
+    "BPL1_WP": [
+        {
+            "name": "`Limited` **BLACKPINK Tally Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1135843503507787856/1154280739274231868/Untitled1186_20230920235845.png",
+            "code": "`BPL1_WP`"
+        }   
+    ],
+    "BNDL1_WP": [
+        {
+            "name": "`Limited` **BOYNEXTDOOR ABCDLove Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1135843503507787856/1154298817483649114/Untitled461_20230921140940.png",
+            "code": "`BNDL1_WP`"
+        }
+     ],
+    "ACEL1_WP": [
+        {
+            "name": "`Limited` **A.C.E Atlantis Wallpaper**",
+            "image": "https://media.discordapp.net/attachments/1135843503507787856/1154298747854016573/Untitled461_20230921140918.png",
+            "code": "`ACEL1_WP`"
+        }   
     ],
     "IVEV1_WP": [
         {
