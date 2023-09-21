@@ -8,6 +8,186 @@
             "code": "`IBHB_C`"
         }
     ],
+    "SHJS_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Shut Down Jisoo**",
+            "image": "https://media.discordapp.net/attachments/1154275465381548106/1154279630358986832/NormalTheme4_20230920234902.png",
+            "theme": "blackpink",
+            "inv": "shutdown",
+            "code": "`SHJS_C`"
+        }          
+    ],
+    "SHJS_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Shut Down Jisoo**",
+            "image": "https://media.discordapp.net/attachments/1154275465381548106/1154279630669369344/NormalTheme4_20230920234905.png",
+            "theme": "blackpink",
+            "inv": "shutdown",
+            "code": "`SHJS_B`"
+        }               
+    ],
+    "SHJS_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Shut Down Jisoo**",
+            "image": "https://media.discordapp.net/attachments/1154275465381548106/1154279630950383696/NormalTheme4_20230920234908.png",
+            "theme": "blackpink",
+            "inv": "shutdown",
+            "code": "`SHJS_A`"
+        }     
+    ],
+    "SHJS_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Shut Down Jisoo**",
+            "image": "https://media.discordapp.net/attachments/1154275465381548106/1154279631277527100/NormalTheme4_20230920234910.png",
+            "theme": "blackpink",
+            "inv": "shutdown",
+            "code": "`SHJS_S`"
+        }     
+    ],
+    "SHJS_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Shut Down Jisoo**",
+            "image": "https://media.discordapp.net/attachments/1154275465381548106/1154279631587922002/NormalTheme4_20230920234915.png",
+            "theme": "blackpink",
+            "inv": "shutdown",
+            "code": "`SHJS_R`"
+        } 
+    ],
+    "SHJN_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Shut Down Jennie**",
+            "image": "https://media.discordapp.net/attachments/1154275465381548106/1154279631852158996/NormalTheme4_20230920234936.png",
+            "theme": "blackpink",
+            "inv": "shutdown",
+            "code": "`SHJN_C`"
+        }          
+    ],
+    "SHJN_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Shut Down Jennie**",
+            "image": "https://media.discordapp.net/attachments/1154275465381548106/1154279632074444810/NormalTheme4_20230920234938.png",
+            "theme": "blackpink",
+            "inv": "shutdown",
+            "code": "`SHJN_B`"
+        }               
+    ],
+    "SHJN_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Shut Down Jennie**",
+            "image": "https://media.discordapp.net/attachments/1154275465381548106/1154279632363868190/NormalTheme4_20230920234941.png",
+            "theme": "blackpink",
+            "inv": "shutdown",
+            "code": "`SHJN_A`"
+        }     
+    ],
+    "SHJN_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Shut Down Jennie**",
+            "image": "https://media.discordapp.net/attachments/1154275465381548106/1154279632665854022/NormalTheme4_20230920234943.png",
+            "theme": "blackpink",
+            "inv": "shutdown",
+            "code": "`SHJN_S`"
+        }     
+    ],
+    "SHJN_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Shut Down Jennie**",
+            "image": "https://media.discordapp.net/attachments/1154275465381548106/1154279632909127681/NormalTheme4_20230920234946.png",
+            "theme": "blackpink",
+            "inv": "shutdown",
+            "code": "`SHJN_R`"
+        }
+    ],
+    "SHRS_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Shut Down Rosé**",
+            "image": "https://media.discordapp.net/attachments/1154275465381548106/1154279667566645318/NormalTheme4_20230920235006.png",
+            "theme": "blackpink",
+            "inv": "shutdown",
+            "code": "`SHRS_C`"
+        }          
+    ],
+    "SHRS_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Shut Down Rosé**",
+            "image": "https://media.discordapp.net/attachments/1154275465381548106/1154279667939950692/NormalTheme4_20230920235010.png",
+            "theme": "blackpink",
+            "inv": "shutdown",
+            "code": "`SHRS_B`"
+        }               
+    ],
+    "SHRS_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Shut Down Rosé**",
+            "image": "https://media.discordapp.net/attachments/1154275465381548106/1154279668288073768/NormalTheme4_20230920235012.png",
+            "theme": "blackpink",
+            "inv": "shutdown",
+            "code": "`SHRS_A`"
+        }     
+    ],
+    "SHRS_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Shut Down Rosé**",
+            "image": "https://media.discordapp.net/attachments/1154275465381548106/1154279668581666836/NormalTheme4_20230920235014.png",
+            "theme": "blackpink",
+            "inv": "shutdown",
+            "code": "`SHRS_S`"
+        }     
+    ],
+    "SHRS_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Shut Down Rosé**",
+            "image": "https://media.discordapp.net/attachments/1154275465381548106/1154279668883665028/NormalTheme4_20230920235016.png",
+            "theme": "blackpink",
+            "inv": "shutdown",
+            "code": "`SHRS_R`"
+        }
+    ],
+    "SHLS_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Shut Down Lisa**",
+            "image": "https://media.discordapp.net/attachments/1154275465381548106/1154279669198229585/NormalTheme4_20230920235037.png",
+            "theme": "blackpink",
+            "inv": "shutdown",
+            "code": "`SHLS_C`"
+        }          
+    ],
+    "SHLS_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Shut Down Lisa**",
+            "image": "https://media.discordapp.net/attachments/1154275465381548106/1154279669470871584/NormalTheme4_20230920235041.png",
+            "theme": "blackpink",
+            "inv": "shutdown",
+            "code": "`SHLS_B`"
+        }               
+    ],
+    "SHLS_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Shut Down Lisa**",
+            "image": "https://media.discordapp.net/attachments/1154275465381548106/1154279669777043496/NormalTheme4_20230920235044.png",
+            "theme": "blackpink",
+            "inv": "shutdown",
+            "code": "`SHLS_A`"
+        }     
+    ],
+    "SHLS_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Shut Down Lisa**",
+            "image": "https://media.discordapp.net/attachments/1154275465381548106/1154279670016131093/NormalTheme4_20230920235046.png",
+            "theme": "blackpink",
+            "inv": "shutdown",
+            "code": "`SHLS_S`"
+        }     
+    ],
+    "SHLS_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Shut Down Lisa**",
+            "image": "https://media.discordapp.net/attachments/1154275465381548106/1154279670313922621/NormalTheme4_20230920235048.png",
+            "theme": "blackpink",
+            "inv": "shutdown",
+            "code": "`SHLS_R`"
+        }     
+    ],
     "ESYH_C": [
         {
             "name": "<:c_grade:1126649406230384671> **End of Spring Yonghoon**",
