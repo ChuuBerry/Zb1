@@ -8,6 +8,231 @@
             "code": "`IBHB_C`"
         }
     ],
+    "ESYH_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **End of Spring Yonghoon**",
+            "image": "-",
+            "theme": "ONEWE",
+            "inv": "endofspring",
+            "code": "`ESYH_C`"
+        }          
+    ],
+    "ESYH_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **End of Spring Yonghoon**",
+            "image": "-",
+            "theme": "ONEWE",
+            "inv": "endofspring",
+            "code": "`ESYH_B`"
+        }               
+    ],
+    "ESYH_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **End of Spring Yonghoon**",
+            "image": "-",
+            "theme": "ONEWE",
+            "inv": "endofspring",
+            "code": "`ESYH_A`"
+        }     
+    ],
+    "ESYH_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **End of Spring Yonghoon**",
+            "image": "-",
+            "theme": "ONEWE",
+            "inv": "endofspring",
+            "code": "`ESYH_S`"
+        }     
+    ],
+    "ESYH_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **End of Spring Yonghoon**",
+            "image": "-",
+            "theme": "ONEWE",
+            "inv": "endofspring",
+            "code": "`ESYH_R`"
+        }
+    ],
+    "ESKH_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **End of Spring Kanghyun**",
+            "image": "-",
+            "theme": "ONEWE",
+            "inv": "endofspring",
+            "code": "`ESKH_C`"
+        }          
+    ],
+    "ESKH_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **End of Spring Kanghyun**",
+            "image": "-",
+            "theme": "ONEWE",
+            "inv": "endofspring",
+            "code": "`ESKH_B`"
+        }               
+    ],
+    "ESKH_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **End of Spring Kanghyun**",
+            "image": "-",
+            "theme": "ONEWE",
+            "inv": "endofspring",
+            "code": "`ESKH_A`"
+        }     
+    ],
+    "ESKH_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **End of Spring Kanghyun**",
+            "image": "-",
+            "theme": "ONEWE",
+            "inv": "endofspring",
+            "code": "`ESKH_S`"
+        }     
+    ],
+    "ESKH_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **End of Spring Kanghyun**",
+            "image": "-",
+            "theme": "ONEWE",
+            "inv": "endofspring",
+            "code": "`ESKH_R`"
+        } 
+     ],
+    "ESHR_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **End of Spring Harin**",
+            "image": "-",
+            "theme": "ONEWE",
+            "inv": "endofspring",
+            "code": "`ESHR_C`"
+        }          
+    ],
+    "ESHR_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **End of Spring Harin**",
+            "image": "-",
+            "theme": "ONEWE",
+            "inv": "endofspring",
+            "code": "`ESHR_B`"
+        }               
+    ],
+    "ESHR_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **End of Spring Harin**",
+            "image": "-",
+            "theme": "ONEWE",
+            "inv": "endofspring",
+            "code": "`ESHR_A`"
+        }     
+    ],
+    "ESHR_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **End of Spring Harin**",
+            "image": "-",
+            "theme": "ONEWE",
+            "inv": "endofspring",
+            "code": "`ESHR_S`"
+        }     
+    ],
+    "ESHR_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **End of Spring Harin**",
+            "image": "-",
+            "theme": "ONEWE",
+            "inv": "endofspring",
+            "code": "`ESHR_R`"
+        }
+    ],
+    "ESDM_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **End of Spring Dongmyeong**",
+            "image": "-",
+            "theme": "ONEWE",
+            "inv": "endofspring",
+            "code": "`ESDM_C`"
+        }          
+    ],
+    "ESDM_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **End of Spring Dongmyeong**",
+            "image": "-",
+            "theme": "ONEWE",
+            "inv": "endofspring",
+            "code": "`ESDM_B`"
+        }               
+    ],
+    "ESDM_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **End of Spring Dongmyeong**",
+            "image": "-",
+            "theme": "ONEWE",
+            "inv": "endofspring",
+            "code": "`ESDM_A`"
+        }     
+    ],
+    "ESDM_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **End of Spring Dongmyeong**",
+            "image": "-",
+            "theme": "ONEWE",
+            "inv": "endofspring",
+            "code": "`ESDM_S`"
+        }     
+    ],
+    "ESDM_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **End of Spring Dongmyeong**",
+            "image": "-",
+            "theme": "ONEWE",
+            "inv": "endofspring",
+            "code": "`ESDM_R`"
+        }  
+    ],
+    "ESGU_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **End of Spring Giuk**",
+            "image": "-",
+            "theme": "ONEWE",
+            "inv": "endofspring",
+            "code": "`ESGU_C`"
+        }          
+    ],
+    "ESGU_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **End of Spring Giuk**",
+            "image": "-",
+            "theme": "ONEWE",
+            "inv": "endofspring",
+            "code": "`ESGU_B`"
+        }               
+    ],
+    "ESGU_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **End of Spring Giuk**",
+            "image": "-",
+            "theme": "ONEWE",
+            "inv": "endofspring",
+            "code": "`ESGU_A`"
+        }     
+    ],
+    "ESGU_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **End of Spring Giuk**",
+            "image": "-",
+            "theme": "ONEWE",
+            "inv": "endofspring",
+            "code": "`ESGU_S`"
+        }     
+    ],
+    "ESGU_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **End of Spring Giuk**",
+            "image": "-",
+            "theme": "ONEWE",
+            "inv": "endofspring",
+            "code": "`ESGU_R`"
+        }    
+    ],
     "WYN_V_C": [
         {
             "name": "<:c_grade:1126649406230384671> Vocal **WICKED LOVE YENA**",
