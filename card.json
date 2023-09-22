@@ -8,6 +8,231 @@
             "code": "`IBHB_C`"
         }
      ],
+    "ALJU_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Atlantis Jun**",
+            "image": "-",
+            "theme": "A.C.E",
+            "inv": "atlantis",
+            "code": "`ALJU_C`"
+        }          
+    ],
+    "ALJU_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Atlantis Jun**",
+            "image": "-",
+            "theme": "A.C.E",
+            "inv": "atlantis",
+            "code": "`ALJU_B`"
+        }               
+    ],
+    "ALJU_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Atlantis Jun**",
+            "image": "-",
+            "theme": "A.C.E",
+            "inv": "atlantis",
+            "code": "`ALJU_A`"
+        }     
+    ],
+    "ALJU_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Atlantis Jun**",
+            "image": "-",
+            "theme": "A.C.E",
+            "inv": "atlantis",
+            "code": "`ALJU_S`"
+        }     
+    ],
+    "ALJU_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Atlantis Jun**",
+            "image": "-",
+            "theme": "A.C.E",
+            "inv": "atlantis",
+            "code": "`ALJU_R`"
+        }      
+    ],
+    "ALDH_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Atlantis Donghun**",
+            "image": "-",
+            "theme": "A.C.E",
+            "inv": "atlantis",
+            "code": "`ALDH_C`"
+        }          
+    ],
+    "ALDH_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Atlantis Donghun**",
+            "image": "-",
+            "theme": "A.C.E",
+            "inv": "atlantis",
+            "code": "`ALDH_B`"
+        }               
+    ],
+    "ALDH_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Atlantis Donghun**",
+            "image": "-",
+            "theme": "A.C.E",
+            "inv": "atlantis",
+            "code": "`ALDH_A`"
+        }     
+    ],
+    "ALDH_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Atlantis Donghun**",
+            "image": "-",
+            "theme": "A.C.E",
+            "inv": "atlantis",
+            "code": "`ALDH_S`"
+        }     
+    ],
+    "ALDH_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Atlantis Donghun**",
+            "image": "-",
+            "theme": "A.C.E",
+            "inv": "atlantis",
+            "code": "`ALDH_R`"
+        }  
+   ],
+    "ALWO_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Atlantis Wow**",
+            "image": "-",
+            "theme": "A.C.E",
+            "inv": "atlantis",
+            "code": "`ALWO_C`"
+        }          
+    ],
+    "ALWO_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Atlantis Wow**",
+            "image": "-",
+            "theme": "A.C.E",
+            "inv": "atlantis",
+            "code": "`ALWO_B`"
+        }               
+    ],
+    "ALWO_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Atlantis Wow**",
+            "image": "-",
+            "theme": "A.C.E",
+            "inv": "atlantis",
+            "code": "`ALWO_A`"
+        }     
+    ],
+    "ALWO_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Atlantis Wow**",
+            "image": "-",
+            "theme": "A.C.E",
+            "inv": "atlantis",
+            "code": "`ALWO_S`"
+        }     
+    ],
+    "ALWO_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Atlantis Wow**",
+            "image": "-",
+            "theme": "A.C.E",
+            "inv": "atlantis",
+            "code": "`ALWO_R`"
+        } 
+    ],
+    "ALBK_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Atlantis Byeongkwan**",
+            "image": "-",
+            "theme": "A.C.E",
+            "inv": "atlantis",
+            "code": "`ALBK_C`"
+        }          
+    ],
+    "ALBK_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Atlantis Byeongkwan**",
+            "image": "-",
+            "theme": "A.C.E",
+            "inv": "atlantis",
+            "code": "`ALBK_B`"
+        }               
+    ],
+    "ALBK_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Atlantis Byeongkwan**",
+            "image": "-",
+            "theme": "A.C.E",
+            "inv": "atlantis",
+            "code": "`ALBK_A`"
+        }     
+    ],
+    "ALBK_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Atlantis Byeongkwan**",
+            "image": "-",
+            "theme": "A.C.E",
+            "inv": "atlantis",
+            "code": "`ALBK_S`"
+        }     
+    ],
+    "ALBK_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Atlantis Byeongkwan**",
+            "image": "-",
+            "theme": "A.C.E",
+            "inv": "atlantis",
+            "code": "`ALBK_R`"
+        } 
+     ],
+    "ALCH_C": [
+        {
+            "name": "<:c_grade:1126649406230384671> **Atlantis Chan**",
+            "image": "-",
+            "theme": "A.C.E",
+            "inv": "atlantis",
+            "code": "`ALCH_C`"
+        }          
+    ],
+    "ALCH_B": [
+        {
+            "name": "<:b_grade:1126649508089057352> **Atlantis Chan**",
+            "image": "-",
+            "theme": "A.C.E",
+            "inv": "atlantis",
+            "code": "`ALCH_B`"
+        }               
+    ],
+    "ALCH_A": [
+        {
+            "name": "<:a_grade:1126649781272461413> **Atlantis Chan**",
+            "image": "-",
+            "theme": "A.C.E",
+            "inv": "atlantis",
+            "code": "`ALCH_A`"
+        }     
+    ],
+    "ALCH_S": [
+        {
+            "name": "<:s_grade:1126649890148196504> **Atlantis Chan**",
+            "image": "-",
+            "theme": "A.C.E",
+            "inv": "atlantis",
+            "code": "`ALCH_S`"
+        }     
+    ],
+    "ALCH_R": [
+        {
+            "name": "<:r_grade:1126649980296380457> **Atlantis Chan**",
+            "image": "-",
+            "theme": "A.C.E",
+            "inv": "atlantis",
+            "code": "`ALCH_R`"
+        }         
+     ],
     "ALSH_C": [
         {
             "name": "<:c_grade:1126649406230384671> **ABCDLove Sungho**",
